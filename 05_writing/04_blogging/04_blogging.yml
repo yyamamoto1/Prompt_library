@@ -1,0 +1,10 @@
+prompt: |
+  Generate a blog post based on a given topic and target audience.
+  - **Topic:** "5 Tips for Remote Work Productivity"
+  - **Target Audience:** Remote workers, freelancers, small business owners.
+  - **Tone:** Informative, encouraging, practical, friendly.
+  - **Length:** 700-900 words.
+  - **Structure:** Introduction, 5 distinct tips (each with a heading and explanation), Conclusion, Call to Action.
+  - **Call to Action:** "Share your own remote work tips in the comments below!"
+  - **Desired Output:** A complete blog post draft, ready for minor edits.
+  - **Quality:** Engaging, easy to read, provides actionable advice, SEO-friendly.

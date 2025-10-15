@@ -1,0 +1,28 @@
+prompt: |
+  Generate a photorealistic portrait of a female model embodying a specific personality.
+  - **Personality:** Confident and charismatic
+  - **Expression:** Strong, direct gaze with a subtle smirk
+  - **Pose:** Dynamic, hands on hips or arms crossed
+  - **Clothing:** Stylish, modern business attire
+  - **Background:** Urban cityscape at dusk, blurred
+  - **Lighting:** Dramatic, with strong shadows
+  - **Resolution:** 4K
+  - **Face:**
+    - **Shape:** 卵型で、シャープな顎のラインと高い頬骨。
+    - **Features:**
+      - **Skin:** 滑らかで均一な肌色、健康的な輝き。
+      - **Nose:** 細く、まっすぐな鼻筋。
+      - **Eyes:** 大きく、アーモンド型で、瞳は明るい茶色。二重まぶたで、まつげは長く、マスカラで強調されている。
+      - **Lips:** 鮮やかな赤色のリップスティックを塗った、ふっくらとした唇。
+      - **Eyebrows:** 整えられたアーチ型で、色はダークブラウン。
+    - **Makeup:** 洗練されたメイクアップ、アイラインとリップが特徴的。
+  - **Hair:**
+    - **Style:** 肩までの長さのボブ、内巻きにブローされ、光沢がある。
+    - **Color:** 落ち着いたアッシュブラウン。
+    - **Texture:** 滑らかで、まとまりのある質感。
+  - **Camera:**
+    - **Type:** Fujifilm GFX 100S
+    - **Lens:** 110mm f/2
+    - **Aperture:** f/2.0
+  - **Composition:** Rule of thirds, leading lines from the cafe interior
+  - **Quality:** Masterpiece, ultra-detailed, photorealistic, cinematic lighting

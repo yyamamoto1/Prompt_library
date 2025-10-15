@@ -1,0 +1,10 @@
+prompt: |
+  Generate a sequence of animation frames for a character walking cycle.
+  - **Character:** A stylized 2D anime girl, wearing a school uniform.
+  - **Action:** Walking cycle, facing right.
+  - **Frame Rate:** 24 frames per second (fps).
+  - **Number of Frames:** 12 frames for a complete loop.
+  - **Artistic Style:** Anime, cel-shaded, vibrant colors.
+  - **Background:** Transparent (alpha channel).
+  - **Resolution:** 512x512 pixels per frame.
+  - **Quality:** Smooth animation, consistent character design, clean lines.

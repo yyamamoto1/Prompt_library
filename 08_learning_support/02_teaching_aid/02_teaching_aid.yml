@@ -1,0 +1,12 @@
+prompt: |
+  Generate a teaching aid for a specific lesson.
+  - **Subject:** High School Biology.
+  - **Lesson Topic:** Photosynthesis.
+  - **Target Audience:** 10th-grade students.
+  - **Learning Objectives:**
+    - Understand the inputs and outputs of photosynthesis.
+    - Identify the main stages of photosynthesis.
+    - Explain the importance of photosynthesis for life on Earth.
+  - **Desired Output:** A concise, engaging infographic or a set of 5 multiple-choice questions with explanations.
+  - **Format:** Infographic description or quiz questions.
+  - **Quality:** Clear, accurate, visually appealing (if infographic), effective for learning, reinforces key concepts.

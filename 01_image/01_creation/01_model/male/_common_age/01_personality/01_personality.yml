@@ -1,0 +1,28 @@
+prompt: |
+  Generate a photorealistic portrait of a male model embodying a specific personality.
+  - **Personality:** Calm and intellectual
+  - **Expression:** Thoughtful, gentle smile
+  - **Pose:** Leaning against a bookshelf, holding a book
+  - **Clothing:** Smart casual, perhaps a tweed jacket
+  - **Background:** Cozy library or study, blurred
+  - **Lighting:** Soft, warm indoor lighting
+  - **Resolution:** 4K
+  - **Face:**
+    - **Shape:** わずかに角ばった顎のラインを持つ卵型。
+    - **Features:**
+      - **Skin:** 健康的で引き締まった肌。
+      - **Nose:** 端正な形。
+      - **Eyes:** 深く、知性を感じさせる瞳。
+      - **Lips:** 引き締まった口元。
+      - **Eyebrows:** 整えられ、力強い印象。
+    - **Makeup:** なし、ナチュラル。
+  - **Hair:**
+    - **Style:** 短く、清潔感のあるスタイル。
+    - **Color:** 自然なブラウン。
+    - **Texture:** やや硬く、手入れの行き届いた質感。
+  - **Camera:**
+    - **Type:** Nikon Z7 II
+    - **Lens:** 85mm f/1.4
+    - **Aperture:** f/1.8
+  - **Composition:** Soft focus background, natural framing with foliage
+  - **Quality:** Masterpiece, ultra-detailed, photorealistic, serene atmosphere

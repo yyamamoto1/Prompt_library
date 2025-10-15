@@ -1,0 +1,32 @@
+prompt: |
+  Generate a photorealistic portrait of a male model.
+  - **Age:** (Specify age range or leave general)
+  - **Style:** Versatile, adaptable
+  - **Lighting:** Natural, even lighting
+  - **Background:** Neutral, blurred background
+  - **Camera Angle:** Eye-level, headshot
+  - **Resolution:** 4K
+  - **Clothing:** Adaptable to various styles, neutral colors
+  - **Situation:** Standing calmly, adaptable to various contexts
+  - **Face:**
+    - **Shape:** わずかに角ばった顎のラインを持つ卵型。
+    - **Features:**
+      - **Skin:** 健康的で均一な肌色。
+      - **Nose:** 整った形。
+      - **Eyes:** 自然な大きさで、穏やかな瞳。
+      - **Lips:** 自然な色合い。
+      - **Eyebrows:** 自然な形。
+    - **Makeup:** なし、ナチュラル。
+  - **Hair:**
+    - **Style:** 短く、清潔感のあるスタイル。
+    - **Color:** 自然なブラウン。
+    - **Texture:** やや硬く、手入れの行き届いた質感。
+  - **Expression:**
+    - **Emotion:** 穏やかで、親しみやすい表情。
+    - **Gaze:** カメラをまっすぐ見つめる、ニュートラルな視線。
+  - **Camera:**
+    - **Type:** Sony Alpha a7 III
+    - **Lens:** 50mm f/1.8
+    - **Aperture:** f/2.8
+  - **Composition:** Centered, clean background
+  - **Quality:** Masterpiece, ultra-detailed, photorealistic, versatile

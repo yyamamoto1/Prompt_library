@@ -1,0 +1,8 @@
+prompt: |
+  Perform an image editing task.
+  - **Original Image:** [URL or description of the original image]
+  - **Desired Changes:** Remove the background and replace it with a solid white color. Enhance the subject's eyes to be more vibrant.
+  - **Subject:** A portrait of a person.
+  - **Tools/Techniques:** Advanced masking, color correction, dodge and burn.
+  - **Output Format:** PNG with transparency (for background removal).
+  - **Quality:** Seamless integration, natural look, high resolution.

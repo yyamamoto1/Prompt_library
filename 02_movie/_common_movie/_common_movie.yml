@@ -1,0 +1,9 @@
+prompt: |
+  Generate a movie concept or script element based on the following general description.
+  - **Genre:** [e.g., "Sci-Fi", "Fantasy", "Drama", ""Comedy", "Thriller"]
+  - **Logline:** [A one-sentence summary of the movie, e.g., "A lone astronaut discovers a habitable planet, but it harbors a dark secret."]
+  - **Target Audience:** [e.g., "Teenagers", "Adults (18+)", "Family-friendly"]
+  - **Key Themes:** [e.g., "Survival", "Love", "Redemption", "Technology vs. Nature"]
+  - **Desired Output:** [e.g., "Logline", "Synopsis", "Character Descriptions", "Scene Outline"]
+  - **Tone:** [e.g., "Serious", "Humorous", "Suspenseful", "Inspirational"]
+  - **Quality:** Engaging, original, well-structured, compelling.

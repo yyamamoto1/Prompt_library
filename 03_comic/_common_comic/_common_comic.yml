@@ -1,0 +1,9 @@
+prompt: |
+  Generate a comic concept or element based on the following general description.
+  - **Genre:** [e.g., "Fantasy", "Slice of Life", "Action", "Horror", "Romance"]
+  - **Target Audience:** [e.g., "Shonen", "Shojo", "Seinen", "Kodomomuke"]
+  - **Key Themes:** [e.g., "Friendship", "Justice", "Growth", "Mystery"]
+  - **Desired Output:** [e.g., "Character Design", "Panel Layout Idea", "Short Story Outline", "Dialogue for a Scene"]
+  - **Art Style:** [e.g., "Manga", "American Comic Book", "Webtoon", "Cartoon"]
+  - **Tone:** [e.g., "Humorous", "Dramatic", "Lighthearted", "Intense"]
+  - **Quality:** Original, visually descriptive, engaging narrative.

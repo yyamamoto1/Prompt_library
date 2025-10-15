@@ -1,0 +1,10 @@
+prompt: |
+  Summarize a given text for a specific audience and purpose.
+  - **Input Text:** [Provide the document or text to be summarized]
+  - **Audience:** Executive Board Members.
+  - **Purpose:** To inform them of the key findings and recommendations from a market research report.
+  - **Length:** 150-200 words.
+  - **Tone:** Formal, concise, objective.
+  - **Key Information to Include:** Main conclusions, most significant data points, actionable recommendations.
+  - **Desired Output:** A well-structured executive summary.
+  - **Quality:** Accurate, clear, impactful, highlights critical information, saves time.

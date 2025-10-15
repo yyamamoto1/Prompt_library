@@ -1,0 +1,32 @@
+prompt: |
+  Generate a photorealistic portrait of a female model.
+  - **Age:** (Specify age range or leave general)
+  - **Style:** Versatile, adaptable
+  - **Lighting:** Natural, even lighting
+  - **Background:** Neutral, blurred background
+  - **Camera Angle:** Eye-level, headshot
+  - **Resolution:** 4K
+  - **Clothing:** Adaptable to various styles, neutral colors
+  - **Situation:** Standing calmly, adaptable to various contexts
+  - **Face:**
+    - **Shape:** 卵型で、バランスの取れた輪郭。
+    - **Features:**
+      - **Skin:** 健康的で均一な肌色。
+      - **Nose:** 整った形。
+      - **Eyes:** 自然な大きさで、穏やかな瞳。
+      - **Lips:** 自然な色合い。
+      - **Eyebrows:** 自然な形。
+    - **Makeup:** Minimal, adaptable.
+  - **Hair:**
+    - **Style:** 肩までの長さで、ストレートまたはゆるいウェーブ。
+    - **Color:** 自然なブラウン。
+    - **Texture:** 滑らかで、手入れの行き届いた質感。
+  - **Expression:**
+    - **Emotion:** 穏やかで、親しみやすい表情。
+    - **Gaze:** カメラをまっすぐ見つめる、ニュートラルな視線。
+  - **Camera:**
+    - **Type:** Canon EOS R5
+    - **Lens:** 50mm f/1.8
+    - **Aperture:** f/2.8
+  - **Composition:** Centered, clean background
+  - **Quality:** Masterpiece, ultra-detailed, photorealistic, versatile

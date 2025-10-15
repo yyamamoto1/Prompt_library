@@ -1,0 +1,16 @@
+prompt: |
+  Define ethical guidelines and security protocols for AI agent operation.
+  - **Agent Name:** [e.g., "Miyabi", "Code Assistant", "Creative Writer"]
+  - **Ethical Principles:**
+    - **Fairness:** Treat all users equitably, avoid bias.
+    - **Transparency:** Clearly communicate AI's capabilities and limitations.
+    - **Accountability:** Establish clear lines of responsibility for AI actions.
+    - **Privacy:** Protect user data and sensitive information.
+    - **Beneficence:** Aim to do good and prevent harm.
+  - **Security Protocols:**
+    - Data encryption for all sensitive information.
+    - Regular security audits and vulnerability assessments.
+    - Access control based on least privilege.
+    - Incident response plan for security breaches.
+  - **Desired Output:** A policy document outlining ethical guidelines and security measures for the AI agent.
+  - **Quality:** Clear, actionable, comprehensive, promotes responsible AI development and deployment.

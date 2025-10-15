@@ -1,0 +1,10 @@
+prompt: |
+  Perform a general task based on the following description.
+  - **Task:** Summarize the key points of a given article.
+  - **Input Data:** [Provide the full text of the article]
+  - **Desired Output:** A concise summary, 3-5 bullet points.
+  - **Constraints/Requirements:**
+    - Focus on the main arguments and conclusions.
+    - Use clear and objective language.
+    - Do not include personal opinions.
+  - **Quality:** Accurate, comprehensive, easy to understand, adheres to length constraints.

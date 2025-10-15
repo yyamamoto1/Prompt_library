@@ -1,0 +1,10 @@
+prompt: |
+  Generate a seamless 3D PBR material texture.
+  - **Material Type:** Rough, weathered concrete.
+  - **Texture Maps:** Albedo, Normal, Roughness, Metallic, Ambient Occlusion, Height.
+  - **Resolution:** 4K (4096x4096 pixels).
+  - **Seamless:** Perfectly tileable in all directions.
+  - **Wear and Tear:** Visible cracks, chipped edges, subtle discoloration from moisture.
+  - **Lighting Condition (for Albedo):** Neutral, even lighting.
+  - **Artistic Style:** Photorealistic, gritty, industrial.
+  - **Quality:** High-fidelity, game-ready, suitable for real-time rendering.

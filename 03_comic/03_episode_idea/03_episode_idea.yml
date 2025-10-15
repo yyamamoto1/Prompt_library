@@ -1,0 +1,8 @@
+prompt: |
+  Generate episode ideas for a comic series based on existing characters and world.
+  - **Comic Title:** "Aethelgard Chronicles"
+  - **Main Characters:** Kaito (Shadow Thief), Elara (Forest Guardian), Professor Eldrin (Steampunk Inventor).
+  - **Current Story Arc:** The heroes are searching for a lost artifact that can stabilize the city's core, which is the heart of the colossal beast.
+  - **Desired Output:** 3 distinct episode ideas, each with a brief synopsis, key plot points, and potential character development moments.
+  - **Tone:** Adventure, mystery, lighthearted moments mixed with serious stakes.
+  - **Quality:** Engaging, advances the plot, utilizes character strengths, introduces new challenges.

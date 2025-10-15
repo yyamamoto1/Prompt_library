@@ -1,0 +1,9 @@
+prompt: |
+  Generate written content based on the following general description.
+  - **Content Type:** [e.g., "Blog Post", "Email", "Short Story", "Product Description", "Social Media Update"]
+  - **Topic:** [e.g., "Benefits of AI in daily life", "A heartwarming tale of friendship", "New features of our software"]
+  - **Target Audience:** [e.g., "General public", "Tech enthusiasts", "Potential customers", "Children"]
+  - **Tone:** [e.g., "Informative", "Persuasive", "Humorous", "Empathetic", "Formal", "Casual"]
+  - **Length:** [e.g., "500 words", "3 paragraphs", "1-2 sentences"]
+  - **Key Message/Call to Action:** [e.g., "Encourage sign-ups", "Educate readers", "Entertain", "Drive sales"]
+  - **Quality:** Clear, concise, engaging, grammatically correct, relevant.

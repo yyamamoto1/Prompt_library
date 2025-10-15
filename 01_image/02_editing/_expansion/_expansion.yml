@@ -1,0 +1,8 @@
+prompt: |
+  Expand the canvas of an existing image using generative fill.
+  - **Original Image:** [URL or description of the original image]
+  - **Expansion Direction:** Expand to the left and top, doubling the original width and height.
+  - **Content to Generate:** Seamlessly extend the existing background (e.g., a natural landscape, an urban street). Maintain the original image's style and lighting.
+  - **Subject Handling:** Ensure the main subject remains central and is not distorted or cut off.
+  - **Output Format:** High-resolution JPEG.
+  - **Quality:** Coherent, natural-looking expansion, no visible seams or artifacts.

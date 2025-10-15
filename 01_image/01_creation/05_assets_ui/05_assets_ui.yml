@@ -1,0 +1,10 @@
+prompt: |
+  Generate a set of UI assets for a mobile application.
+  - **Application Type:** Productivity app (e.g., task manager, note-taking).
+  - **Asset Type:** Icons, buttons, input fields, navigation bar elements.
+  - **Design Style:** Flat design, modern, clean, intuitive.
+  - **Color Palette:** Soft blues and greens, with neutral grays.
+  - **Iconography:** Simple, recognizable, consistent line-art style.
+  - **State Variations:** Normal, hover/pressed, disabled states for interactive elements.
+  - **Resolution:** Optimized for iOS and Android (e.g., @2x, @3x for iOS, various dp for Android).
+  - **Quality:** Pixel-perfect, scalable, consistent, user-friendly.

@@ -1,0 +1,9 @@
+prompt: |
+  Answer a question based solely on the provided context, without using external knowledge.
+  - **Question:** What are the primary benefits of quantum computing for drug discovery?
+  - **Context:** [Provide a document or text containing information about quantum computing and drug discovery. Ensure the answer is present within this context.]
+  - **Desired Output:** A concise answer directly addressing the question, citing relevant sections of the context if possible.
+  - **Constraints/Requirements:**
+    - Do not introduce any information not explicitly present in the provided context.
+    - If the answer is not in the context, state "The answer is not available in the provided context."
+  - **Quality:** Accurate, directly supported by context, avoids hallucination.

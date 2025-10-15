@@ -1,0 +1,11 @@
+prompt: |
+  Write a short scenario for a given situation.
+  - **Situation:** A detective discovers a crucial clue hidden in plain sight during a seemingly routine investigation.
+  - **Characters:**
+    - **Detective Miles Corbin (50s, male):** Jaded but sharp, a veteran of the force.
+    - **Victim's Neighbor (30s, female):** Overly helpful, slightly nervous.
+  - **Setting:** A cluttered living room in a suburban house.
+  - **Tone:** Suspenseful, observant, subtle tension.
+  - **Length:** 300-500 words.
+  - **Desired Output:** A narrative scenario, focusing on the detective's observations and internal monologue leading to the discovery.
+  - **Quality:** Engaging, builds suspense, realistic character interaction, clear descriptive language.

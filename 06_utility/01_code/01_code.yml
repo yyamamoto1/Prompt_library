@@ -1,0 +1,11 @@
+prompt: |
+  Generate Python code for a specific task.
+  - **Task:** Calculate the factorial of a given number.
+  - **Input:** An integer `n`.
+  - **Output:** The factorial of `n`.
+  - **Constraints/Requirements:**
+    - Handle edge cases (n=0, negative n).
+    - Use a recursive approach.
+    - Include docstrings and type hints.
+  - **Desired Output:** A complete Python function.
+  - **Quality:** Correct, efficient, readable, well-documented.

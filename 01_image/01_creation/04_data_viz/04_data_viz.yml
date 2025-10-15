@@ -1,0 +1,11 @@
+prompt: |
+  Generate a clear and informative data visualization.
+  - **Data Type:** Quarterly sales performance for a tech company over the last 5 years.
+  - **Visualization Type:** Line chart with multiple lines (one for each product category).
+  - **Key Metrics:** Revenue, profit margin, customer acquisition cost.
+  - **Design Style:** Modern, minimalist, clean, professional.
+  - **Color Palette:** Corporate branding colors, accessible for colorblind individuals.
+  - **Labels:** Clear axis labels, data point labels for key values, interactive tooltips.
+  - **Annotations:** Highlight peak sales periods and significant dips with explanatory text.
+  - **Resolution:** High-resolution vector graphic (SVG or PDF equivalent).
+  - **Quality:** Accurate, easy to understand, visually appealing, actionable insights.

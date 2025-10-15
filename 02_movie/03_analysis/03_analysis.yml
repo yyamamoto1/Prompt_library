@@ -1,0 +1,12 @@
+prompt: |
+  Analyze a movie script or concept for specific elements.
+  - **Movie Title/Concept:** "The Dream Weaver" (or provide the script/concept text directly).
+  - **Analysis Focus:** Character arcs of Dr. Aris Thorne and Elara Vance.
+  - **Key Questions:**
+    - How do their motivations evolve throughout the story?
+    - What are their strengths and weaknesses?
+    - Are their arcs compelling and believable?
+    - What are the turning points for each character?
+  - **Desired Output:** A detailed character analysis report (500-700 words).
+  - **Tone:** Objective, critical, insightful.
+  - **Quality:** Thorough, well-supported with examples, provides actionable feedback.

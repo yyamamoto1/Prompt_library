@@ -1,0 +1,9 @@
+prompt: |
+  Generate a music concept or element based on the following general description.
+  - **Genre:** [e.g., "Electronic Dance Music (EDM)", "Classical", "Jazz", "Rock", "Ambient"]
+  - **Mood/Emotion:** [e.g., "Uplifting", "Melancholic", "Energetic", "Relaxing", "Mysterious"]
+  - **Instrumentation:** [e.g., "Full orchestra", "Synthesizers and drum machine", "Acoustic guitar and vocals"]
+  - **Desired Output:** [e.g., "Song Title Ideas", "Melody Snippet (description)", "Chord Progression", "Lyric Theme"]
+  - **Tempo:** [e.g., "Fast (140 BPM)", "Medium (100 BPM)", "Slow (60 BPM)"]
+  - **Key:** [e.g., "C Major", "A Minor"]
+  - **Quality:** Original, emotionally resonant, technically sound, inspiring.

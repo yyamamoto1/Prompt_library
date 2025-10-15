@@ -1,0 +1,12 @@
+prompt: |
+  Create a new comic character based on the provided details.
+  - **Character Name:** Kaito, the Shadow Thief
+  - **Gender:** Male
+  - **Age:** 17
+  - **Personality:** Mischievous, agile, secretly kind-hearted, a bit of a lone wolf.
+  - **Appearance:** Slim build, spiky black hair, piercing blue eyes, wears a dark hooded cloak with glowing green accents.
+  - **Powers/Abilities:** Can manipulate shadows, move silently, and pick any lock.
+  - **Backstory (brief):** Orphaned at a young age, he uses his skills to steal from the corrupt rich to help the poor in his district.
+  - **Art Style:** Shonen manga, dynamic, expressive.
+  - **Desired Output:** Character design sheet (front, back, side views), 3 key expressions, and a brief character profile.
+  - **Quality:** Unique, memorable, visually appealing, fits the genre.

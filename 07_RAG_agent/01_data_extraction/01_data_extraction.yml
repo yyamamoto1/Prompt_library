@@ -1,0 +1,15 @@
+prompt: |
+  Extract specific data points from the provided text.
+  - **Input Text:** [Provide the document or text from which to extract data]
+  - **Data Points to Extract:**
+    - Company Name
+    - Contact Person
+    - Email Address
+    - Phone Number
+    - Date of Agreement
+    - Total Amount
+  - **Output Format:** JSON object with key-value pairs for each data point.
+  - **Constraints/Requirements:**
+    - Handle variations in formatting.
+    - If a data point is not found, return null for that key.
+  - **Quality:** Accurate, complete, correctly formatted.

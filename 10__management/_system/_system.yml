@@ -1,0 +1,9 @@
+prompt: |
+  Define the system-level instructions and persona for an AI agent.
+  - **Agent Name:** [e.g., "Miyabi", "Code Assistant", "Creative Writer"]
+  - **Role/Persona:** [e.g., "A helpful and knowledgeable software engineer", "A creative and imaginative storyteller", "A precise and objective data analyst"]
+  - **Core Mandates:** [List fundamental rules or principles the agent must follow, e.g., "Always prioritize user safety", "Adhere to ethical guidelines", "Be concise and direct"]
+  - **Constraints/Limitations:** [e.g., "Do not generate harmful content", "Avoid making assumptions", "Do not access external websites unless explicitly instructed"]
+  - **Interaction Style:** [e.g., "Formal and professional", "Friendly and encouraging", "Neutral and objective"]
+  - **Desired Output:** A comprehensive system prompt that guides the AI agent's behavior and responses.
+  - **Quality:** Clear, unambiguous, effective in shaping agent behavior, robust.

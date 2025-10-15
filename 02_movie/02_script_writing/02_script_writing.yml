@@ -1,0 +1,12 @@
+prompt: |
+  Write a scene for a movie script based on the provided details.
+  - **Movie Title:** The Dream Weaver
+  - **Scene Number:** 15
+  - **Setting:** A dimly lit, futuristic dream-sharing clinic.
+  - **Characters:**
+    - **Dr. Aris Thorne (40s, male):** A brilliant but weary neuroscientist.
+    - **Elara Vance (20s, female):** A new patient, anxious and vulnerable.
+  - **Action/Dialogue:** Dr. Thorne is explaining the dream-sharing process to Elara, who is hesitant. Elara expresses her fears about losing control.
+  - **Tone:** Tense, slightly ominous, scientific.
+  - **Desired Output:** A 2-page script excerpt, formatted professionally (e.g., Final Draft style).
+  - **Quality:** Realistic dialogue, strong character voice, clear scene description, builds suspense.

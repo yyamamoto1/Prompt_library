@@ -1,0 +1,8 @@
+prompt: |
+  Generate a discussion flow for a meeting or conversation.
+  - **Topic:** Brainstorming new marketing strategies for a product launch.
+  - **Participants:** Marketing Team Lead, Product Manager, Social Media Specialist, Sales Representative.
+  - **Goal:** Generate 3-5 actionable marketing strategies.
+  - **Duration:** 60 minutes.
+  - **Desired Output:** A step-by-step agenda, including time allocations, key questions to ask, and expected outcomes for each segment.
+  - **Quality:** Structured, facilitates participation, leads to clear decisions, efficient.

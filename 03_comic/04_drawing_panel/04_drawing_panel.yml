@@ -1,0 +1,13 @@
+prompt: |
+  Describe a comic panel for a specific scene.
+  - **Comic Title:** "Aethelgard Chronicles"
+  - **Scene:** Kaito confronts a group of steampunk guards in a narrow alleyway.
+  - **Panel Number:** 1
+  - **Panel Layout:** Full-page splash panel, dynamic action.
+  - **Characters:** Kaito (center, mid-air, throwing smoke bomb), 3 steampunk guards (left, right, foreground, surprised/confused expressions).
+  - **Background:** Dark, grimy alleyway, steam vents, flickering gas lamps.
+  - **Action:** Kaito leaps from a rooftop, smoke bomb already released, guards reacting in slow motion.
+  - **Perspective:** Slightly low angle, looking up at Kaito, emphasizing his agility.
+  - **Art Style:** Shonen manga, detailed, high contrast.
+  - **Desired Output:** A detailed description of the panel, suitable for an artist to draw from.
+  - **Quality:** Visually impactful, conveys motion, clear character expressions.

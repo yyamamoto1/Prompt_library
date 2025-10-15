@@ -1,0 +1,10 @@
+prompt: |
+  Generate a high-quality image based on the following general description.
+  - **Subject:** [Describe the main subject, e.g., "a majestic lion", "a futuristic cityscape", "a serene forest scene"]
+  - **Style:** [e.g., "photorealistic", "digital painting", "anime", "watercolor"]
+  - **Mood/Atmosphere:** [e.g., "calm", "dynamic", "mysterious", "joyful"]
+  - **Lighting:** [e.g., "soft natural light", "dramatic chiaroscuro", "neon glow"]
+  - **Background:** [e.g., "blurred bokeh", "detailed environment", "minimalist white"]
+  - **Camera Angle:** [e.g., "eye-level", "low angle", "aerial view"]
+  - **Resolution:** 4K
+  - **Quality:** Masterpiece, ultra-detailed, visually stunning, professional grade.

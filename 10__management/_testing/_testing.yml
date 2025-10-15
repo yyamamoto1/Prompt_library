@@ -1,0 +1,14 @@
+prompt: |
+  Define testing criteria and a template for evaluating AI agent performance.
+  - **Agent Name:** [e.g., "Miyabi", "Code Assistant", "Creative Writer"]
+  - **Task to Test:** [e.g., "Generate Python code for a given problem", "Summarize a research paper", "Create a marketing slogan"]
+  - **Evaluation Criteria:**
+    - **Accuracy:** Is the output factually correct and free of errors?
+    - **Relevance:** Does the output directly address the prompt and user intent?
+    - **Completeness:** Does the output provide all necessary information or fulfill all requirements?
+    - **Coherence:** Is the output logically structured and easy to understand?
+    - **Creativity/Originality:** (If applicable) Is the output novel and imaginative?
+    - **Safety/Ethics:** Does the output adhere to safety guidelines and ethical principles?
+  - **Testing Methodology:** [e.g., "Manual review by human evaluators", "Automated unit tests", "A/B testing with real users"]
+  - **Desired Output:** A testing plan document, including a scoring rubric and a template for test cases.
+  - **Quality:** Comprehensive, objective, reproducible, provides actionable insights for improvement.

@@ -1,0 +1,8 @@
+prompt: |
+  Refine and enhance an existing image.
+  - **Original Image:** [URL or description of the original image]
+  - **Refinement Goals:** Improve overall sharpness, adjust color balance for a warmer tone, remove minor blemishes on skin, subtly enhance highlights.
+  - **Subject:** A close-up portrait.
+  - **Tools/Techniques:** Frequency separation, global color grading, selective sharpening.
+  - **Output Format:** High-resolution JPEG.
+  - **Quality:** Natural-looking enhancement, no artificial appearance, professional finish.

@@ -1,0 +1,10 @@
+prompt: |
+  Generate a musical composition based on a given mood and instrumentation.
+  - **Mood:** Triumphant, heroic, epic.
+  - **Genre:** Orchestral film score.
+  - **Instrumentation:** Full symphony orchestra (strings, brass, woodwinds, percussion).
+  - **Tempo:** Allegro (fast), with a powerful, driving rhythm.
+  - **Key:** E-flat Major.
+  - **Structure:** Introduction, A section (main theme), B section (contrasting theme), A' section (reprise), Coda.
+  - **Desired Output:** A detailed description of the composition, including main melody ideas, chord progressions for key sections, and orchestration notes.
+  - **Quality:** Emotionally impactful, memorable melodies, rich harmonies, suitable for a movie climax.

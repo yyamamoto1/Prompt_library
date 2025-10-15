@@ -1,0 +1,11 @@
+prompt: |
+  Generate sales copy for a new product.
+  - **Product:** "Eco-Friendly Smart Water Bottle"
+  - **Target Audience:** Health-conscious individuals, environmentalists, tech enthusiasts.
+  - **Key Features:** Hydration tracking, self-cleaning, temperature control, made from recycled materials.
+  - **Benefits:** Improves health, reduces plastic waste, convenient, stylish.
+  - **Call to Action:** "Pre-order now and get 20% off!"
+  - **Tone:** Enthusiastic, persuasive, informative, benefit-oriented.
+  - **Length:** Short (150-200 words) for a website banner or social media ad.
+  - **Desired Output:** Engaging sales copy highlighting benefits and driving action.
+  - **Quality:** Clear, concise, compelling, addresses pain points, strong CTA.

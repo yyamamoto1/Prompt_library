@@ -1,0 +1,13 @@
+prompt: |
+  Design a curriculum for a specific subject and target audience.
+  - **Subject:** Introduction to Python Programming.
+  - **Target Audience:** Beginners with no prior programming experience (high school students or adults).
+  - **Learning Objectives:**
+    - Understand basic Python syntax.
+    - Learn about data types, variables, and operators.
+    - Master control flow (if/else, loops).
+    - Write simple functions.
+    - Solve basic programming problems.
+  - **Duration:** 8 weeks (2 hours per week).
+  - **Desired Output:** A detailed curriculum outline, including weekly topics, learning activities, and assessment ideas.
+  - **Quality:** Comprehensive, engaging, progressive, practical, suitable for beginners.
