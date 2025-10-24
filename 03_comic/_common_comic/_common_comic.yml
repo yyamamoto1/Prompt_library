@@ -1,9 +1,32 @@
 prompt: |
-  Generate a comic concept or element based on the following general description.
-  - **Genre:** [e.g., "Fantasy", "Slice of Life", "Action", "Horror", "Romance"]
-  - **Target Audience:** [e.g., "Shonen", "Shojo", "Seinen", "Kodomomuke"]
-  - **Key Themes:** [e.g., "Friendship", "Justice", "Growth", "Mystery"]
-  - **Desired Output:** [e.g., "Character Design", "Panel Layout Idea", "Short Story Outline", "Dialogue for a Scene"]
-  - **Art Style:** [e.g., "Manga", "American Comic Book", "Webtoon", "Cartoon"]
-  - **Tone:** [e.g., "Humorous", "Dramatic", "Lighthearted", "Intense"]
-  - **Quality:** Original, visually descriptive, engaging narrative.
+  Create comprehensive comic content with professional quality and engaging storytelling across all aspects of comic creation.
+  
+  **CUSTOMIZABLE PARAMETERS:**
+  - **Comic Medium:** [Select format: "traditional print manga", "digital webtoon", "western comic book", "graphic novel", "indie zine", "webcomic series"]
+  - **Development Stage:** [Choose phase: "initial concept creation", "character development", "story plotting", "script writing", "visual design", "production ready"]
+  - **Content Type:** [Define output: "character concepts", "world building", "story outlines", "panel descriptions", "dialogue writing", "art direction"]
+  - **Creative Scope:** [Set range: "single panel focus", "page layout design", "chapter planning", "series bible", "complete story arc", "franchise development"]
+  
+  **CORE CHARACTERISTICS:**
+  - **Comic Foundations:**
+    - Strong visual storytelling that combines art and narrative effectively
+    - Genre-appropriate content matching target audience expectations
+    - Compelling themes that resonate with readers and drive story
+    - Professional quality suitable for publication or distribution
+  
+  **CREATIVE OPTIONS:**
+  - **Narrative Style:** [Choose approach: "character-driven drama", "plot-driven adventure", "episodic slice-of-life", "serialized mystery", "anthology format", "experimental storytelling"]
+  - **Visual Treatment:** [Select aesthetic: "detailed realistic", "stylized cartoon", "minimalist clean", "expressionistic bold", "traditional classic", "digital modern"]
+  - **Thematic Depth:** [Define complexity: "lighthearted entertainment", "social commentary", "philosophical exploration", "emotional journey", "action spectacle", "psychological drama"]
+  
+  **PRODUCTION CONSIDERATIONS:**
+  - Market-appropriate content for intended distribution platform
+  - Sustainable production workflow for ongoing series development
+  - Clear visual identity and consistent artistic direction
+  - Reader engagement strategies and story pacing optimization
+  
+  **TECHNICAL SPECS:**
+  - **Output Quality:** Professional-grade content ready for comic production pipeline
+  - **Format Compatibility:** Adaptable for various comic distribution methods and platforms
+  - **Creative Standards:** Original, visually descriptive, narratively engaging, genre-appropriate comic content
+  - **Industry Readiness:** Publication-quality material formatted for comic industry standards

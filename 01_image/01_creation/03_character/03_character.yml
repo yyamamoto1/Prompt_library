@@ -1,16 +1,32 @@
 prompt: |
-  Generate a detailed character illustration.
-  - **Character Name:** Elara, the Forest Guardian
-  - **Race:** Elf
-  - **Gender:** Female
-  - **Age:** Appears to be in her late 20s (ageless)
-  - **Personality:** Wise, serene, protective, slightly melancholic
-  - **Clothing:** Forest-themed armor made of leather and leaves, adorned with glowing moss and ancient runes.
-  - **Props:** A gnarled wooden staff with a crystal orb, a quiver of glowing arrows.
-  - **Setting:** Deep within an ancient, magical forest, dappled sunlight filtering through the canopy.
-  - **Artistic Style:** Fantasy illustration, highly detailed, ethereal, inspired by pre-Raphaelite art and high fantasy concept art.
-  - **Camera:**
-    - **Type:** Digital painting software (e.g., Procreate, Photoshop)
-    - **Perspective:** Medium shot, slightly low angle to emphasize her stature.
-  - **Composition:** Rule of thirds, with Elara positioned to the left, looking towards the right, leading the viewer's eye into the forest.
-  - **Quality:** Masterpiece, intricate details, epic fantasy, vibrant colors, atmospheric lighting.
+  Generate a detailed character illustration with rich personality and distinctive visual design.
+  
+  **CUSTOMIZABLE PARAMETERS:**
+  - **Character Type:** [Select archetype: "fantasy hero", "sci-fi protagonist", "modern superhero", "historical figure", "mythological being", "original creation"]
+  - **Genre Setting:** [Choose world: "high fantasy realm", "cyberpunk future", "steampunk victorian", "post-apocalyptic", "contemporary urban", "space opera"]
+  - **Role/Class:** [Define function: "warrior guardian", "mystical mage", "skilled rogue", "wise mentor", "powerful ruler", "humble craftsperson"]
+  - **Mood/Tone:** [Set atmosphere: "heroic noble", "mysterious dark", "playful whimsical", "serious dramatic", "ethereal magical", "gritty realistic"]
+  
+  **CORE CHARACTERISTICS:**
+  - **Physical Design:**
+    - Distinctive facial features and body proportions
+    - Unique character silhouette and recognizable profile
+    - Authentic cultural or fantastical racial characteristics
+    - Age-appropriate appearance matching character background
+  
+  **STYLING OPTIONS:**
+  - **Artistic Style:** [Choose aesthetic: "anime/manga inspired", "western comic book", "realistic portrait", "fantasy art painting", "concept art design", "cartoon illustration"]
+  - **Clothing/Armor:** [Context-appropriate: "practical adventuring gear", "ceremonial formal wear", "battle-ready armor", "cultural traditional dress", "futuristic tech suit", "casual contemporary"]
+  - **Props/Weapons:** [Character-defining: "signature weapon", "magical artifacts", "professional tools", "cultural symbols", "technological devices", "personal mementos"]
+  
+  **ENVIRONMENTAL CONTEXT:**
+  - Background setting that reinforces character story
+  - Atmospheric lighting matching character mood
+  - Environmental details supporting character narrative
+  - Props and setting elements that enhance personality
+  
+  **TECHNICAL SPECS:**
+  - **Medium:** Digital illustration with professional rendering quality
+  - **Perspective:** Character-focused composition (portrait, medium shot, or full body as appropriate)
+  - **Composition:** Rule of thirds with dynamic pose and engaging eye direction
+  - **Quality:** 4K, masterpiece detail, intricate character design, atmospheric lighting, vibrant storytelling

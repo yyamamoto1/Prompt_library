@@ -1,11 +1,32 @@
 prompt: |
-  Generate Python code for a specific task.
-  - **Task:** Calculate the factorial of a given number.
-  - **Input:** An integer `n`.
-  - **Output:** The factorial of `n`.
-  - **Constraints/Requirements:**
-    - Handle edge cases (n=0, negative n).
-    - Use a recursive approach.
-    - Include docstrings and type hints.
-  - **Desired Output:** A complete Python function.
-  - **Quality:** Correct, efficient, readable, well-documented.
+  Generate high-quality, production-ready code solutions with professional development standards and comprehensive documentation.
+
+  **CUSTOMIZABLE PARAMETERS:**
+  - **Programming Language:** [Choose technology: "Python", "JavaScript", "Java", "C++", "Go", "Rust", "TypeScript", "C#", "PHP", "Swift"]
+  - **Code Type:** [Define category: "algorithm implementation", "data structure creation", "API development", "utility function", "class design", "script automation"]
+  - **Complexity Level:** [Set sophistication: "beginner-friendly", "intermediate practical", "advanced optimization", "enterprise-grade", "performance-critical", "research-level"]
+  - **Application Domain:** [Select focus: "web development", "data science", "system programming", "mobile development", "game development", "DevOps automation"]
+
+  **CORE CHARACTERISTICS:**
+  - **Code Foundation:**
+    - Clean, readable syntax following language-specific conventions
+    - Comprehensive error handling and edge case management
+    - Efficient algorithms with appropriate time/space complexity
+    - Modular design promoting reusability and maintainability
+
+  **DEVELOPMENT OPTIONS:**
+  - **Code Style:** [Choose approach: "functional programming", "object-oriented design", "procedural structure", "reactive patterns", "async/concurrent", "microservices architecture"]
+  - **Documentation Level:** [Define depth: "inline comments only", "function docstrings", "comprehensive documentation", "API documentation", "tutorial examples", "performance notes"]
+  - **Testing Integration:** [Select coverage: "basic validation", "unit test examples", "integration test samples", "performance benchmarks", "edge case testing", "mock data examples"]
+
+  **QUALITY STANDARDS:**
+  - Industry best practices and coding conventions adherence
+  - Security considerations and vulnerability prevention
+  - Performance optimization where applicable
+  - Cross-platform compatibility when relevant
+
+  **TECHNICAL SPECS:**
+  - **Output Format:** Complete, executable code ready for implementation
+  - **Code Quality:** Professional-grade, maintainable, efficient, well-documented
+  - **Standards Compliance:** Language conventions, security practices, performance guidelines
+  - **Production Readiness:** Error handling, logging, configuration management, deployment considerations

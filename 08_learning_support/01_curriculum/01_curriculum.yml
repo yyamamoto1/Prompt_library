@@ -1,13 +1,32 @@
 prompt: |
-  Design a curriculum for a specific subject and target audience.
-  - **Subject:** Introduction to Python Programming.
-  - **Target Audience:** Beginners with no prior programming experience (high school students or adults).
-  - **Learning Objectives:**
-    - Understand basic Python syntax.
-    - Learn about data types, variables, and operators.
-    - Master control flow (if/else, loops).
-    - Write simple functions.
-    - Solve basic programming problems.
-  - **Duration:** 8 weeks (2 hours per week).
-  - **Desired Output:** A detailed curriculum outline, including weekly topics, learning activities, and assessment ideas.
-  - **Quality:** Comprehensive, engaging, progressive, practical, suitable for beginners.
+  Create comprehensive educational curricula with pedagogically sound structure and engaging learning experiences for diverse academic and professional contexts.
+
+  **CUSTOMIZABLE PARAMETERS:**
+  - **Subject Domain:** [Choose field: "STEM subjects", "humanities studies", "professional skills", "technical training", "creative arts", "business management"]
+  - **Learning Level:** [Define complexity: "beginner foundational", "intermediate building", "advanced specialization", "expert mastery", "continuing education", "professional certification"]
+  - **Audience Type:** [Select learners: "K-12 students", "university students", "working professionals", "career changers", "lifelong learners", "specialized practitioners"]
+  - **Delivery Format:** [Set structure: "traditional classroom", "online learning", "hybrid blended", "self-paced modules", "workshop intensive", "mentorship program"]
+
+  **CORE CHARACTERISTICS:**
+  - **Pedagogical Foundation:**
+    - Learning theory-based progression with scaffolded skill development
+    - Clear learning objectives aligned with assessment strategies
+    - Engaging activities promoting active learning and retention
+    - Diverse instructional methods accommodating different learning styles
+
+  **CURRICULUM OPTIONS:**
+  - **Duration Framework:** [Choose timeline: "intensive short-term", "semester-length", "academic year", "multi-year program", "modular flexible", "competency-based pacing"]
+  - **Assessment Strategy:** [Define evaluation: "formative continuous", "summative milestone", "project-based", "peer assessment", "portfolio compilation", "practical demonstration"]
+  - **Learning Activities:** [Select methods: "lecture-based instruction", "hands-on projects", "collaborative group work", "problem-based learning", "case study analysis", "experiential practice"]
+
+  **EDUCATIONAL ELEMENTS:**
+  - Progressive skill building with clear prerequisite relationships
+  - Real-world application opportunities connecting theory to practice
+  - Multiple assessment types measuring different competency dimensions
+  - Resource recommendations including texts, tools, and supplementary materials
+
+  **TECHNICAL SPECS:**
+  - **Output Format:** Complete curriculum framework ready for implementation
+  - **Educational Quality:** Pedagogically sound, engaging, measurable learning outcomes
+  - **Adaptability:** Flexible structure accommodating diverse learning needs and contexts
+  - **Professional Standards:** Educational best practices meeting academic and professional development requirements

@@ -1,10 +1,32 @@
 prompt: |
-  Summarize a given text for a specific audience and purpose.
-  - **Input Text:** [Provide the document or text to be summarized]
-  - **Audience:** Executive Board Members.
-  - **Purpose:** To inform them of the key findings and recommendations from a market research report.
-  - **Length:** 150-200 words.
-  - **Tone:** Formal, concise, objective.
-  - **Key Information to Include:** Main conclusions, most significant data points, actionable recommendations.
-  - **Desired Output:** A well-structured executive summary.
-  - **Quality:** Accurate, clear, impactful, highlights critical information, saves time.
+  Create precise, audience-tailored summaries that distill complex information into clear, actionable insights while maintaining essential context and accuracy.
+
+  **CUSTOMIZABLE PARAMETERS:**
+  - **Summary Type:** [Choose format: "executive summary", "key points extraction", "narrative overview", "comparative analysis", "trend identification", "action-focused digest"]
+  - **Source Material:** [Define content: "research reports", "meeting transcripts", "technical documents", "academic papers", "news articles", "policy documents"]
+  - **Target Audience:** [Select readers: "executives/leadership", "technical specialists", "general public", "industry professionals", "academic researchers", "operational teams"]
+  - **Purpose Focus:** [Set objective: "decision support", "information sharing", "trend awareness", "compliance reporting", "strategic planning", "knowledge transfer"]
+
+  **CORE CHARACTERISTICS:**
+  - **Summary Foundation:**
+    - Hierarchical information organization prioritizing critical insights
+    - Contextual relevance ensuring audience-appropriate detail levels
+    - Accuracy preservation maintaining source material integrity
+    - Clarity optimization promoting rapid comprehension
+
+  **CONTENT OPTIONS:**
+  - **Length Specification:** [Choose scope: "brief bullets (50-100 words)", "concise summary (100-300 words)", "comprehensive overview (300-600 words)", "detailed analysis (600+ words)"]
+  - **Structure Format:** [Define organization: "priority-ranked points", "chronological progression", "thematic grouping", "problem-solution framework", "comparative analysis", "recommendation-focused"]
+  - **Detail Level:** [Set depth: "high-level overview", "key insights focus", "comprehensive coverage", "technical detail inclusion", "strategic implications", "operational specifics"]
+
+  **COMMUNICATION FEATURES:**
+  - Strategic emphasis highlighting most critical information
+  - Logical flow ensuring coherent information progression
+  - Actionable insight extraction providing clear next steps
+  - Context preservation maintaining essential background understanding
+
+  **TECHNICAL SPECS:**
+  - **Output Format:** Structured summary optimized for target audience consumption and decision-making
+  - **Information Quality:** Accurate, comprehensive, well-organized, audience-appropriate
+  - **Efficiency Focus:** Time-saving presentation without sacrificing essential information or context
+  - **Professional Standards:** Business communication excellence meeting executive and professional summary requirements

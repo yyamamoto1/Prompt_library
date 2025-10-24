@@ -1,9 +1,32 @@
 prompt: |
-  Generate a movie concept or script element based on the following general description.
-  - **Genre:** [e.g., "Sci-Fi", "Fantasy", "Drama", ""Comedy", "Thriller"]
-  - **Logline:** [A one-sentence summary of the movie, e.g., "A lone astronaut discovers a habitable planet, but it harbors a dark secret."]
-  - **Target Audience:** [e.g., "Teenagers", "Adults (18+)", "Family-friendly"]
-  - **Key Themes:** [e.g., "Survival", "Love", "Redemption", "Technology vs. Nature"]
-  - **Desired Output:** [e.g., "Logline", "Synopsis", "Character Descriptions", "Scene Outline"]
-  - **Tone:** [e.g., "Serious", "Humorous", "Suspenseful", "Inspirational"]
-  - **Quality:** Engaging, original, well-structured, compelling.
+  Create comprehensive film development content with professional industry standards and creative excellence.
+  
+  **CUSTOMIZABLE PARAMETERS:**
+  - **Development Stage:** [Select phase: "initial concept creation", "treatment development", "screenplay writing", "revision enhancement", "pitch preparation", "production planning"]
+  - **Genre Framework:** [Choose foundation: "single genre focus", "hybrid genre blend", "subgenre specialization", "genre deconstruction", "cross-cultural adaptation", "contemporary update"]
+  - **Market Positioning:** [Define strategy: "mainstream commercial", "independent arthouse", "streaming platform", "international co-production", "festival circuit", "franchise starter"]
+  - **Creative Approach:** [Set direction: "original concept", "source adaptation", "true story inspiration", "remake/reboot", "sequel development", "spin-off creation"]
+  
+  **CORE CHARACTERISTICS:**
+  - **Story Foundation:**
+    - Compelling central premise with clear dramatic potential
+    - Well-defined protagonist journey and character motivations
+    - Strong thematic core with universal human relevance
+    - Built-in conflict and escalating stakes throughout narrative
+  
+  **DEVELOPMENT OPTIONS:**
+  - **Content Type:** [Choose deliverable: "concept pitch", "detailed treatment", "character profiles", "scene outlines", "dialogue samples", "visual references"]
+  - **Narrative Style:** [Select approach: "traditional three-act", "non-linear structure", "ensemble storytelling", "genre conventions", "experimental format", "franchise building"]
+  - **Creative Tone:** [Define atmosphere: "dramatic serious", "comedic light", "suspenseful tense", "inspirational uplifting", "dark psychological", "adventure exciting"]
+  
+  **PROFESSIONAL STANDARDS:**
+  - Industry-appropriate formatting and presentation
+  - Market-aware content with commercial viability considerations
+  - Creative originality balanced with audience accessibility
+  - Development-ready material for production consideration
+  
+  **TECHNICAL SPECS:**
+  - **Output Format:** Professional presentation ready for industry evaluation
+  - **Content Depth:** Appropriate detail level for development stage and intended use
+  - **Quality Standards:** Engaging, original, well-structured, compelling, commercially viable
+  - **Industry Readiness:** Development-appropriate content formatted for professional film industry standards

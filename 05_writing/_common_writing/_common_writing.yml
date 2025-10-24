@@ -1,9 +1,32 @@
 prompt: |
-  Generate written content based on the following general description.
-  - **Content Type:** [e.g., "Blog Post", "Email", "Short Story", "Product Description", "Social Media Update"]
-  - **Topic:** [e.g., "Benefits of AI in daily life", "A heartwarming tale of friendship", "New features of our software"]
-  - **Target Audience:** [e.g., "General public", "Tech enthusiasts", "Potential customers", "Children"]
-  - **Tone:** [e.g., "Informative", "Persuasive", "Humorous", "Empathetic", "Formal", "Casual"]
-  - **Length:** [e.g., "500 words", "3 paragraphs", "1-2 sentences"]
-  - **Key Message/Call to Action:** [e.g., "Encourage sign-ups", "Educate readers", "Entertain", "Drive sales"]
-  - **Quality:** Clear, concise, engaging, grammatically correct, relevant.
+  Create high-quality written content with professional standards and versatile applications across multiple formats and purposes.
+
+  **CUSTOMIZABLE PARAMETERS:**
+  - **Content Category:** [Choose type: "marketing copy", "editorial content", "technical writing", "creative writing", "business communication", "educational material"]
+  - **Writing Purpose:** [Define objective: "inform and educate", "persuade and convert", "entertain and engage", "instruct and guide", "inspire and motivate", "communicate and connect"]
+  - **Audience Sophistication:** [Set level: "general public", "industry professionals", "subject matter experts", "beginners/newcomers", "decision makers", "technical specialists"]
+  - **Communication Style:** [Select approach: "formal professional", "conversational casual", "authoritative expert", "friendly approachable", "creative expressive", "analytical precise"]
+
+  **CORE CHARACTERISTICS:**
+  - **Writing Foundation:**
+    - Clear communication with purposeful message delivery
+    - Audience-appropriate language and complexity level
+    - Engaging structure maintaining reader interest throughout
+    - Professional quality meeting publication standards
+
+  **CONTENT OPTIONS:**
+  - **Format Versatility:** [Choose structure: "short-form content", "medium-length articles", "comprehensive guides", "bullet-point summaries", "narrative storytelling", "technical documentation"]
+  - **Tone Flexibility:** [Define voice: "informative neutral", "persuasive compelling", "entertaining humorous", "inspirational uplifting", "empathetic understanding", "authoritative confident"]
+  - **Length Adaptability:** [Set scope: "micro-content (25-100 words)", "short-form (100-500 words)", "medium-form (500-1500 words)", "long-form (1500+ words)"]
+
+  **QUALITY STANDARDS:**
+  - Grammar and syntax excellence with error-free presentation
+  - Logical flow and coherent organization of ideas
+  - Compelling openings and satisfying conclusions
+  - Strategic use of language for maximum impact
+
+  **TECHNICAL SPECS:**
+  - **Output Format:** Publication-ready content optimized for intended medium
+  - **Writing Quality:** Professional, engaging, clear, purposeful, audience-appropriate
+  - **Versatility:** Adaptable across multiple platforms, formats, and communication needs
+  - **Professional Standards:** Industry-appropriate content meeting high editorial and communication standards

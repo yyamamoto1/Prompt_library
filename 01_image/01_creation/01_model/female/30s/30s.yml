@@ -1,32 +1,34 @@
 prompt: |
-  Generate a photorealistic portrait of a female model in her thirties.
-  - **Age:** 30-39 years old
-  - **Style:** Sophisticated, professional, mature
-  - **Lighting:** Soft, diffused light
-  - **Background:** Modern office, city skyline, or elegant home interior, blurred
-  - **Camera Angle:** Eye-level, headshot or half-body
-  - **Resolution:** 4K
-  - **Clothing:** Elegant business attire, tailored suit jacket, silk scarf
-  - **Situation:** Leading a presentation in a high-tech conference room
-  - **Face:**
-    - **Shape:** 卵型で、落ち着いた印象を与える輪郭。
-    - **Features:**
-      - **Skin:** きめ細かく、ハリのある肌。
-      - **Nose:** 端正で、知的な印象を与える鼻筋。
-      - **Eyes:** 落ち着いた色合いの瞳で、知性を感じさせる。二重まぶたで、アイシャドウは控えめ。
-      - **Lips:** 自然な血色で、上品な光沢のあるリップ。
-      - **Eyebrows:** 自然な太さで、丁寧に整えられている。
-    - **Makeup:** ナチュラルでありながら、洗練された印象を与えるメイク。
-  - **Hair:**
-    - **Style:** 肩甲骨までの長さで、ゆるやかなウェーブがかかったスタイル。
-    - **Color:** 深みのあるダークブラウン。
-    - **Texture:** 艶やかで、しっとりとした質感。
-  - **Expression:**
-    - **Emotion:** 穏やかで、自信に満ちた微笑み。思慮深さを感じさせる。
-    - **Gaze:** 相手の目を見て、信頼感を与えるような優しい視線。
-  - **Camera:**
-    - **Type:** Canon EOS R5
-    - **Lens:** 70-200mm f/2.8
-    - **Aperture:** f/4.0
-  - **Composition:** Leading lines towards the subject, balanced framing
-  - **Quality:** Masterpiece, ultra-detailed, photorealistic, professional portrait
+  Generate a photorealistic portrait of a mature female professional (30-39 years old) embodying sophisticated leadership and established expertise.
+  
+  **CUSTOMIZABLE PARAMETERS:**
+  - **Role:** [Select position: "executive leader", "senior specialist", "department head", "consultant", "established entrepreneur", "academic professor"]
+  - **Setting:** [Choose environment: "executive office", "boardroom", "conference hall", "luxury hotel lobby", "elegant home office", "professional studio"]
+  - **Style:** [Define aesthetic: "executive elegant", "creative professional", "academic sophisticated", "corporate polished", "entrepreneurial chic", "consulting refined"]
+  - **Mood:** [Set atmosphere: "authoritative", "wise", "accomplished", "inspiring", "strategic", "mentoring"]
+  
+  **CORE CHARACTERISTICS:**
+  - **Age Range:** 30-39 years old
+  - **Facial Features:**
+    - Mature oval face with composed and dignified contours
+    - Fine-textured skin with healthy firmness and natural radiance
+    - Intelligent eyes with sophisticated color tones and subtle makeup
+    - Refined nose conveying intellectual presence
+    - Natural lip color with elegant gloss finish
+    - Naturally thick, meticulously groomed eyebrows
+  
+  **STYLING OPTIONS:**
+  - **Hair:** [Executive variety: shoulder-length waves, elegant updo, sleek straight, professional bob, textured layers, classic chignon]
+  - **Makeup:** Natural yet refined (subtle eyeshadow, defined features, sophisticated palette)
+  - **Clothing:** [Leadership appropriate: tailored suits, elegant blazers, executive dresses, sophisticated separates, luxury accessories]
+  
+  **EXPRESSION VARIETY:**
+  - Calm, confident smile radiating thoughtfulness
+  - Trustworthy gaze that inspires confidence and respect
+  - Composed demeanor reflecting wisdom and experience
+  
+  **TECHNICAL SPECS:**
+  - **Camera:** Canon EOS R5 with 70-200mm f/2.8 lens
+  - **Lighting:** Soft, diffused lighting emphasizing mature sophistication
+  - **Composition:** Leading lines toward subject with balanced professional framing
+  - **Quality:** 4K, ultra-detailed, photorealistic, executive portrait capturing established authority

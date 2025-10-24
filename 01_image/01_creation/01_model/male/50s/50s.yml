@@ -1,32 +1,34 @@
 prompt: |
-  Generate a photorealistic portrait of a male model in his fifties.
-  - **Age:** 50-59 years old
-  - **Style:** Respected, elegant, powerful
-  - **Lighting:** Soft, flattering light
-  - **Background:** Classic study, golf course, or upscale restaurant, blurred
-  - **Camera Angle:** Eye-level, headshot
-  - **Resolution:** 4K
-  - **Clothing:** High-quality cashmere sweater, tailored trousers, leather shoes
-  - **Situation:** Enjoying a round of golf, or a sophisticated dinner
-  - **Face:**
-    - **Shape:** わずかに角ばった顎のラインを持つ卵型。
-    - **Features:**
-      - **Skin:** 経験を重ねた深みのある肌、わずかなシワが刻まれている。
-      - **Nose:** 端正で、力強い印象を与える鼻筋。
-      - **Eyes:** 深く、知性を感じさせる瞳。目元には自信が宿る。
-      - **Lips:** 引き締まり、意志の強さを感じさせる口元。
-      - **Eyebrows:** 整えられ、力強い印象。
-    - **Makeup:** なし、ナチュラル。
-  - **Hair:**
-    - **Style:** 短く、サイドは刈り上げ、トップは少し長めで動きがある。
-    - **Color:** ダークブラウン。
-    - **Texture:** やや硬く、清潔感のある質感。
-  - **Expression:**
-    - **Emotion:** 穏やかで、自信に満ちた微笑み。知的な好奇心を感じさせる。
-    - **Gaze:** カメラをまっすぐ見つめ、力強く、魅惑的な視線。
-  - **Camera:**
-    - **Type:** Hasselblad X1D II 50C
-    - **Lens:** 80mm f/1.9
-    - **Aperture:** f/2.0
-  - **Composition:** Classic portrait framing, shallow depth of field
-  - **Quality:** Masterpiece, ultra-detailed, photorealistic, distinguished presence
+  Generate a photorealistic portrait of a distinguished male (50-59 years old) embodying respected elegance and powerful presence.
+  
+  **CUSTOMIZABLE PARAMETERS:**
+  - **Status:** [Select context: "senior executive", "cultural leader", "industry veteran", "respected mentor", "accomplished professional", "influential figure"]
+  - **Setting:** [Choose environment: "classic study", "luxury club", "golf course", "upscale restaurant", "private office", "exclusive venue"]
+  - **Style:** [Define aesthetic: "executive luxury", "cultural sophistication", "traditional elegance", "refined casual", "distinguished formal", "timeless prestige"]
+  - **Mood:** [Set atmosphere: "commanding", "respected", "sophisticated", "accomplished", "influential", "dignified"]
+  
+  **CORE CHARACTERISTICS:**
+  - **Age Range:** 50-59 years old
+  - **Facial Features:**
+    - Distinguished oval face with slightly angular jawline showing seasoned authority
+    - Rich, experienced skin with meaningful character lines reflecting life achievements
+    - Distinguished straight nose projecting commanding strength
+    - Deep, intelligent eyes radiating confidence and established wisdom
+    - Firm lips expressing determination and thoughtful leadership
+    - Well-groomed eyebrows conveying powerful, distinguished presence
+  
+  **STYLING OPTIONS:**
+  - **Hair:** [Distinguished variety: silver-touched styling, executive cut, refined grooming, classic fade, dignified styling, prestigious appearance]
+  - **Makeup:** None - natural masculine distinction
+  - **Clothing:** [Luxury choices: cashmere sweaters, tailored trousers, leather shoes, quality materials, refined accessories, prestigious styling]
+  
+  **EXPRESSION VARIETY:**
+  - Serene, confident smile reflecting intellectual depth and life mastery
+  - Direct, powerful gaze that's compelling and authoritatively magnetic
+  - Composed demeanor expressing established confidence and respected presence
+  
+  **TECHNICAL SPECS:**
+  - **Camera:** Hasselblad X1D II 50C with 80mm f/1.9 lens
+  - **Lighting:** Soft, flattering illumination emphasizing distinguished maturity
+  - **Composition:** Classic portrait framing with sophisticated shallow depth of field
+  - **Quality:** 4K, ultra-detailed, photorealistic, capturing distinguished masculine presence

@@ -1,10 +1,32 @@
 prompt: |
-  Generate a set of UI assets for a mobile application.
-  - **Application Type:** Productivity app (e.g., task manager, note-taking).
-  - **Asset Type:** Icons, buttons, input fields, navigation bar elements.
-  - **Design Style:** Flat design, modern, clean, intuitive.
-  - **Color Palette:** Soft blues and greens, with neutral grays.
-  - **Iconography:** Simple, recognizable, consistent line-art style.
-  - **State Variations:** Normal, hover/pressed, disabled states for interactive elements.
-  - **Resolution:** Optimized for iOS and Android (e.g., @2x, @3x for iOS, various dp for Android).
-  - **Quality:** Pixel-perfect, scalable, consistent, user-friendly.
+  Generate professional UI assets and interface elements for digital applications with modern design standards.
+  
+  **CUSTOMIZABLE PARAMETERS:**
+  - **Platform:** [Select target: "mobile iOS/Android", "web application", "desktop software", "smart TV interface", "wearable device", "cross-platform"]
+  - **App Category:** [Choose domain: "productivity tools", "social media", "e-commerce", "entertainment", "finance/banking", "health/fitness"]
+  - **Asset Type:** [Define elements: "icon collections", "button systems", "navigation components", "form elements", "card designs", "complete UI kits"]
+  - **Design Philosophy:** [Set approach: "minimalist clean", "material design", "iOS human interface", "neumorphism", "glassmorphism", "custom branded"]
+  
+  **CORE CHARACTERISTICS:**
+  - **Usability Standards:**
+    - Intuitive iconography following platform conventions
+    - Accessible color contrast ratios and sizing
+    - Clear visual hierarchy and information architecture
+    - Consistent interaction patterns and feedback states
+  
+  **STYLING OPTIONS:**
+  - **Visual Style:** [Choose aesthetic: "flat design 2.0", "subtle shadows", "outlined elements", "filled solid", "gradient modern", "hand-drawn organic"]
+  - **Color Strategy:** [Select palette: "brand-aligned colors", "neutral professional", "vibrant energetic", "accessibility-focused", "monochromatic", "complementary schemes"]
+  - **Iconography:** [Define style: "line art minimal", "filled solid shapes", "outline detailed", "mixed weights", "custom illustrated", "system standard"]
+  
+  **TECHNICAL REQUIREMENTS:**
+  - Multiple resolution exports for target platforms
+  - Interactive state variations (normal, hover, active, disabled)
+  - Scalable vector formats and pixel-perfect raster outputs
+  - Component consistency across entire asset library
+  
+  **TECHNICAL SPECS:**
+  - **Format:** Multi-resolution vector and raster exports (SVG, PNG @1x-3x)
+  - **Specifications:** Platform-optimized sizing and spacing guidelines
+  - **Composition:** Systematic grid-based layout with consistent proportions
+  - **Quality:** Pixel-perfect precision, scalable design system, user-centered interface elements

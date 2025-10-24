@@ -1,11 +1,32 @@
 prompt: |
-  Write a short scenario for a given situation.
-  - **Situation:** A detective discovers a crucial clue hidden in plain sight during a seemingly routine investigation.
-  - **Characters:**
-    - **Detective Miles Corbin (50s, male):** Jaded but sharp, a veteran of the force.
-    - **Victim's Neighbor (30s, female):** Overly helpful, slightly nervous.
-  - **Setting:** A cluttered living room in a suburban house.
-  - **Tone:** Suspenseful, observant, subtle tension.
-  - **Length:** 300-500 words.
-  - **Desired Output:** A narrative scenario, focusing on the detective's observations and internal monologue leading to the discovery.
-  - **Quality:** Engaging, builds suspense, realistic character interaction, clear descriptive language.
+  Create compelling narrative scenarios with rich character development and engaging storytelling elements.
+
+  **CUSTOMIZABLE PARAMETERS:**
+  - **Scenario Type:** [Choose format: "dramatic scene", "character interaction", "action sequence", "suspense moment", "emotional revelation", "conflict resolution"]
+  - **Genre Foundation:** [Select style: "mystery thriller", "romance drama", "comedy situation", "sci-fi encounter", "fantasy adventure", "realistic slice-of-life"]
+  - **Setting Scope:** [Define environment: "intimate indoor", "public outdoor", "workplace professional", "social gathering", "travel journey", "historical period"]
+  - **Character Focus:** [Set perspective: "single protagonist", "dual relationship", "ensemble group", "antagonist viewpoint", "multiple perspectives", "observer witness"]
+
+  **CORE CHARACTERISTICS:**
+  - **Narrative Foundation:**
+    - Compelling central conflict with clear stakes and urgency
+    - Well-developed character motivations and authentic dialogue
+    - Rich sensory details creating immersive atmosphere
+    - Progressive tension building toward satisfying resolution
+
+  **WRITING OPTIONS:**
+  - **Tone Style:** [Choose atmosphere: "suspenseful tense", "heartwarming gentle", "humorous light", "dramatic intense", "mysterious intriguing", "romantic passionate"]
+  - **Pacing Structure:** [Select rhythm: "fast-paced action", "slow-burn tension", "balanced progression", "explosive climax", "quiet contemplation", "escalating intensity"]
+  - **Length Format:** [Define scope: "flash fiction (100-300 words)", "short scene (300-800 words)", "extended sequence (800-1500 words)", "mini-story (1500-3000 words)"]
+
+  **SCENE ELEMENTS:**
+  - Dynamic character interactions with authentic voice and behavior
+  - Vivid setting descriptions that enhance mood and story
+  - Strategic use of dialogue to reveal character and advance plot
+  - Sensory details creating immersive reader experience
+
+  **TECHNICAL SPECS:**
+  - **Output Format:** Complete narrative scenario ready for reading or adaptation
+  - **Writing Quality:** Engaging, well-paced, character-driven, emotionally resonant
+  - **Story Elements:** Clear beginning-middle-end structure with satisfying character arc
+  - **Professional Standards:** Publication-ready prose with polished style and compelling storytelling

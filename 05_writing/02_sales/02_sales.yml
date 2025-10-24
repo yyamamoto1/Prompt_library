@@ -1,11 +1,32 @@
 prompt: |
-  Generate sales copy for a new product.
-  - **Product:** "Eco-Friendly Smart Water Bottle"
-  - **Target Audience:** Health-conscious individuals, environmentalists, tech enthusiasts.
-  - **Key Features:** Hydration tracking, self-cleaning, temperature control, made from recycled materials.
-  - **Benefits:** Improves health, reduces plastic waste, convenient, stylish.
-  - **Call to Action:** "Pre-order now and get 20% off!"
-  - **Tone:** Enthusiastic, persuasive, informative, benefit-oriented.
-  - **Length:** Short (150-200 words) for a website banner or social media ad.
-  - **Desired Output:** Engaging sales copy highlighting benefits and driving action.
-  - **Quality:** Clear, concise, compelling, addresses pain points, strong CTA.
+  Create high-converting sales copy that drives customer action through compelling messaging and persuasive communication.
+
+  **CUSTOMIZABLE PARAMETERS:**
+  - **Copy Type:** [Choose format: "product launch", "service promotion", "subscription offer", "limited-time deal", "brand awareness", "lead generation"]
+  - **Target Market:** [Define audience: "B2B professionals", "consumer retail", "premium luxury", "budget-conscious", "tech-savvy early adopters", "traditional mainstream"]
+  - **Sales Channel:** [Select platform: "website landing page", "email campaign", "social media ad", "print advertisement", "video script", "direct mail"]
+  - **Conversion Goal:** [Set objective: "immediate purchase", "lead capture", "trial signup", "consultation booking", "brand consideration", "customer retention"]
+
+  **CORE CHARACTERISTICS:**
+  - **Persuasion Foundation:**
+    - Clear value proposition with unique selling advantages
+    - Customer-focused benefits rather than feature-heavy descriptions
+    - Emotional appeal combined with logical reasoning
+    - Urgency and scarcity elements driving immediate action
+
+  **MESSAGING OPTIONS:**
+  - **Tone Style:** [Choose voice: "professional authoritative", "friendly conversational", "urgent compelling", "luxurious sophisticated", "innovative cutting-edge", "trustworthy reliable"]
+  - **Copy Length:** [Define scope: "headline only (5-15 words)", "short copy (50-150 words)", "medium copy (150-400 words)", "long-form (400-800 words)", "comprehensive (800+ words)"]
+  - **Persuasion Approach:** [Select strategy: "problem-solution focus", "benefit-driven appeal", "social proof emphasis", "authority positioning", "emotional storytelling", "logical comparison"]
+
+  **SALES ELEMENTS:**
+  - Attention-grabbing headlines with immediate value clarity
+  - Pain point identification with solution positioning
+  - Strong call-to-action with clear next steps
+  - Risk reversal and guarantee statements when applicable
+
+  **TECHNICAL SPECS:**
+  - **Output Format:** Market-ready sales copy optimized for conversion
+  - **Writing Quality:** Persuasive, clear, action-oriented, customer-focused
+  - **Conversion Elements:** Compelling headlines, benefit statements, strong CTAs, urgency triggers
+  - **Professional Standards:** Sales-optimized messaging with proven copywriting principles and conversion psychology

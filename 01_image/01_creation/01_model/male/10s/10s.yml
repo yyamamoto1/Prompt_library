@@ -1,32 +1,34 @@
 prompt: |
-  Generate a photorealistic portrait of a male model in his teens.
-  - **Age:** 16-19 years old
-  - **Style:** Youthful, energetic, natural
-  - **Lighting:** Bright, soft daylight
-  - **Background:** Schoolyard or sports field, slightly blurred
-  - **Camera Angle:** Eye-level, upper body shot
-  - **Resolution:** 4K
-  - **Clothing:** Casual, trendy hoodie and jeans, white sneakers
-  - **Situation:** Listening to music with headphones, walking in a bustling city street
-  - **Face:**
-    - **Shape:** わずかに角ばった顎のラインを持つ卵型。
-    - **Features:**
-      - **Skin:** 健康的な肌、ニキビや傷跡はなし。
-      - **Nose:** まっすぐで、適度な大きさ。
-      - **Eyes:** アーモンド型で、瞳は深い茶色。二重まぶたで、まつげは短く濃い。
-      - **Lips:** 自然な赤みがあり、引き締まった唇。
-      - **Eyebrows:** 自然な太さで、色は髪と同系色。
-    - **Makeup:** なし、ナチュラル。
-  - **Hair:**
-    - **Style:** 短く、サイドは刈り上げ、トップは少し長めで動きがある。
-    - **Color:** ダークブラウン。
-    - **Texture:** やや硬く、清潔感のある質感。
-  - **Expression:**
-    - **Emotion:** 自信に満ちた、わずかに口角が上がった笑顔。目元は力強く、決意を感じさせる。
-    - **Gaze:** カメラをまっすぐ見つめ、親しみやすく、少し挑戦的な視線。
-  - **Camera:**
-    - **Type:** Sony Alpha a7 III
-    - **Lens:** 50mm f/1.8
-    - **Aperture:** f/2.0
-  - **Composition:** Golden ratio, strong leading lines
-  - **Quality:** Masterpiece, ultra-detailed, photorealistic
+  Generate a photorealistic portrait of a teenage male (16-19 years old) with youthful energy and natural charisma.
+  
+  **CUSTOMIZABLE PARAMETERS:**
+  - **Activity:** [Specify context: "student athlete", "music enthusiast", "gamer", "artist", "social media creator", "casual hanging out"]
+  - **Setting:** [Choose environment: "school campus", "sports field", "skate park", "music studio", "gaming setup", "urban street"]
+  - **Style:** [Select aesthetic: "athletic sporty", "streetwear casual", "artistic creative", "tech-savvy", "preppy student", "alternative edge"]
+  - **Mood:** [Define atmosphere: "energetic", "confident", "determined", "playful", "focused", "rebellious"]
+  
+  **CORE CHARACTERISTICS:**
+  - **Age Range:** 16-19 years old
+  - **Facial Features:**
+    - Youthful oval face with slightly angular jawline showing emerging masculine features
+    - Healthy, clear skin with natural teenage vitality
+    - Straight, proportionate nose
+    - Almond-shaped eyes with deep brown color and natural double eyelids
+    - Natural lip color with firm definition
+    - Natural eyebrow thickness matching hair color
+  
+  **STYLING OPTIONS:**
+  - **Hair:** [Teen variety: modern fade, messy textured, classic side part, trendy quiff, athletic buzz cut, creative styling]
+  - **Makeup:** None - natural teenage masculine appeal
+  - **Clothing:** [Age-appropriate: casual hoodies, trendy jeans, sneakers, sports gear, school attire, youth fashion]
+  
+  **EXPRESSION VARIETY:**
+  - Confident smile with determination and youthful enthusiasm
+  - Direct gaze that's friendly yet slightly challenging
+  - Natural demeanor reflecting teenage energy and emerging confidence
+  
+  **TECHNICAL SPECS:**
+  - **Camera:** Sony Alpha a7 III with 50mm f/1.8 lens
+  - **Lighting:** Bright, soft daylight emphasizing youthful features
+  - **Composition:** Golden ratio with dynamic leading lines capturing teenage energy
+  - **Quality:** 4K, ultra-detailed, photorealistic, capturing authentic teenage masculinity

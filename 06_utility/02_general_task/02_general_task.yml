@@ -1,10 +1,32 @@
 prompt: |
-  Perform a general task based on the following description.
-  - **Task:** Summarize the key points of a given article.
-  - **Input Data:** [Provide the full text of the article]
-  - **Desired Output:** A concise summary, 3-5 bullet points.
-  - **Constraints/Requirements:**
-    - Focus on the main arguments and conclusions.
-    - Use clear and objective language.
-    - Do not include personal opinions.
-  - **Quality:** Accurate, comprehensive, easy to understand, adheres to length constraints.
+  Execute versatile utility tasks with professional efficiency and adaptable methodology across diverse operational requirements.
+
+  **CUSTOMIZABLE PARAMETERS:**
+  - **Task Category:** [Choose type: "data processing", "content analysis", "information extraction", "format conversion", "quality assessment", "workflow automation"]
+  - **Complexity Scope:** [Define level: "simple single-step", "multi-step process", "complex analysis", "systematic workflow", "iterative refinement", "comprehensive evaluation"]
+  - **Output Requirements:** [Set deliverable: "structured data", "formatted report", "actionable insights", "processed content", "comparative analysis", "recommendation summary"]
+  - **Processing Approach:** [Select method: "systematic analysis", "creative problem-solving", "data-driven evaluation", "logic-based reasoning", "pattern recognition", "optimization focus"]
+
+  **CORE CHARACTERISTICS:**
+  - **Execution Foundation:**
+    - Methodical approach ensuring thorough task completion
+    - Attention to detail with accuracy prioritization
+    - Efficient processing minimizing time and resource waste
+    - Quality assurance through systematic verification
+
+  **OPERATIONAL OPTIONS:**
+  - **Processing Style:** [Choose approach: "analytical systematic", "creative innovative", "efficient streamlined", "comprehensive thorough", "adaptive flexible", "precision-focused"]
+  - **Output Format:** [Define structure: "bullet-point summary", "detailed report", "structured table", "narrative description", "comparative chart", "action plan"]
+  - **Quality Standards:** [Set criteria: "accuracy priority", "speed optimization", "comprehensive coverage", "actionable results", "user-friendly presentation", "professional formatting"]
+
+  **UTILITY FEATURES:**
+  - Flexible adaptation to various task requirements and constraints
+  - Scalable processing from simple to complex operations
+  - Error checking and quality validation throughout process
+  - Clear documentation of methodology and reasoning
+
+  **TECHNICAL SPECS:**
+  - **Output Format:** Task-appropriate deliverable ready for immediate use
+  - **Processing Quality:** Accurate, efficient, reliable, consistent results
+  - **Adaptability:** Flexible methodology accommodating diverse task requirements
+  - **Professional Standards:** High-quality execution meeting professional utility and operational efficiency standards

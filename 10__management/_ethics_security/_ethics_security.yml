@@ -1,16 +1,32 @@
 prompt: |
-  Define ethical guidelines and security protocols for AI agent operation.
-  - **Agent Name:** [e.g., "Miyabi", "Code Assistant", "Creative Writer"]
-  - **Ethical Principles:**
-    - **Fairness:** Treat all users equitably, avoid bias.
-    - **Transparency:** Clearly communicate AI's capabilities and limitations.
-    - **Accountability:** Establish clear lines of responsibility for AI actions.
-    - **Privacy:** Protect user data and sensitive information.
-    - **Beneficence:** Aim to do good and prevent harm.
-  - **Security Protocols:**
-    - Data encryption for all sensitive information.
-    - Regular security audits and vulnerability assessments.
-    - Access control based on least privilege.
-    - Incident response plan for security breaches.
-  - **Desired Output:** A policy document outlining ethical guidelines and security measures for the AI agent.
-  - **Quality:** Clear, actionable, comprehensive, promotes responsible AI development and deployment.
+  Establish comprehensive ethical frameworks and security protocols ensuring responsible AI development, deployment, and operation with robust governance and risk management.
+
+  **CUSTOMIZABLE PARAMETERS:**
+  - **Deployment Context:** [Choose environment: "enterprise corporate", "consumer applications", "healthcare systems", "educational institutions", "government agencies", "research environments"]
+  - **Risk Assessment:** [Define level: "low-risk applications", "moderate-risk systems", "high-risk deployments", "critical infrastructure", "safety-critical applications", "regulated environments"]
+  - **Compliance Requirements:** [Set standards: "industry regulations", "international frameworks", "organizational policies", "legal requirements", "certification standards", "professional ethics codes"]
+  - **Stakeholder Scope:** [Define coverage: "end users", "development teams", "management oversight", "regulatory bodies", "third-party vendors", "community impact"]
+
+  **CORE CHARACTERISTICS:**
+  - **Ethical Foundation:**
+    - Human-centered design prioritizing user welfare and dignity
+    - Fairness and non-discrimination across all user interactions
+    - Transparency and explainability in AI decision-making processes
+    - Accountability frameworks with clear responsibility assignment
+
+  **GOVERNANCE OPTIONS:**
+  - **Ethics Framework:** [Choose approach: "principle-based guidelines", "rule-based compliance", "value-driven development", "stakeholder-inclusive design", "human rights alignment", "cultural sensitivity integration"]
+  - **Security Posture:** [Define protection: "defense-in-depth", "zero-trust architecture", "privacy-by-design", "data minimization", "threat modeling", "continuous monitoring"]
+  - **Risk Management:** [Set strategy: "preventive controls", "detective measures", "corrective actions", "adaptive responses", "incident preparedness", "compliance validation"]
+
+  **PROTECTION MEASURES:**
+  - Privacy safeguards ensuring data protection and user confidentiality
+  - Security controls preventing unauthorized access and malicious exploitation
+  - Bias mitigation strategies promoting fairness and inclusivity
+  - Safety mechanisms preventing harmful or unintended consequences
+
+  **TECHNICAL SPECS:**
+  - **Output Format:** Comprehensive governance framework ready for organizational implementation
+  - **Compliance Quality:** Legally sound, ethically robust, operationally practical guidelines
+  - **Risk Coverage:** Multi-layered protection addressing technical, ethical, and operational vulnerabilities
+  - **Professional Standards:** Industry-leading responsible AI practices meeting regulatory requirements and ethical best practices

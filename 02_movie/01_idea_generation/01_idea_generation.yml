@@ -1,9 +1,32 @@
 prompt: |
-  Generate creative movie ideas based on a given premise.
-  - **Premise:** A world where dreams can be shared and experienced by others.
-  - **Genre:** Sci-Fi, Psychological Thriller.
-  - **Target Audience:** Adults (18+).
-  - **Key Themes:** Privacy, reality vs. illusion, human connection, exploitation.
-  - **Desired Output:** 3 unique movie concepts, each with a logline, brief synopsis, and potential conflict.
-  - **Tone:** Dark, thought-provoking, suspenseful.
-  - **Quality:** Original, intriguing, high-concept.
+  Generate innovative and compelling movie concepts with strong commercial and artistic potential.
+  
+  **CUSTOMIZABLE PARAMETERS:**
+  - **Genre Foundation:** [Select primary: "science fiction", "psychological thriller", "romantic drama", "action adventure", "horror supernatural", "comedy ensemble"]
+  - **Concept Source:** [Choose inspiration: "original high-concept", "contemporary issue adaptation", "historical reimagining", "literary source material", "true story inspiration", "genre hybridization"]
+  - **Target Market:** [Define audience: "mainstream blockbuster", "independent arthouse", "streaming platform", "international co-production", "festival circuit", "franchise potential"]
+  - **Thematic Focus:** [Set core themes: "human relationships", "social commentary", "technological impact", "moral dilemmas", "survival stories", "coming-of-age"]
+  
+  **CORE CHARACTERISTICS:**
+  - **Story Foundation:**
+    - Compelling central premise with clear dramatic potential
+    - Strong protagonist journey with meaningful character arc
+    - Distinctive world-building or unique setting elements
+    - Built-in conflict and stakes that escalate throughout
+  
+  **DEVELOPMENT OPTIONS:**
+  - **Narrative Style:** [Choose approach: "linear chronological", "non-linear structure", "ensemble multi-story", "unreliable narrator", "anthology format", "documentary style"]
+  - **Tone/Mood:** [Select atmosphere: "dark psychological", "uplifting inspirational", "suspenseful tense", "quirky comedic", "epic dramatic", "intimate personal"]
+  - **Scale/Budget:** [Consider scope: "intimate character study", "moderate production", "high-concept spectacle", "location-driven", "effects-heavy", "performance-focused"]
+  
+  **CREATIVE DELIVERABLES:**
+  - Multiple unique concepts with distinct approaches to theme
+  - Compelling loglines that capture essence and hook audiences
+  - Brief synopses outlining story structure and key beats
+  - Central conflicts and dramatic tensions driving narrative
+  
+  **TECHNICAL SPECS:**
+  - **Output Format:** Professional pitch-ready concepts with market considerations
+  - **Concept Count:** 3-5 distinctive ideas with varying approaches and tones
+  - **Development Level:** High-concept foundation ready for detailed treatment
+  - **Quality:** Original, commercially viable, artistically compelling, industry-standard presentation

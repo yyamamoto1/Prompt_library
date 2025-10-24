@@ -1,10 +1,32 @@
 prompt: |
-  Generate a seamless 3D PBR material texture.
-  - **Material Type:** Rough, weathered concrete.
-  - **Texture Maps:** Albedo, Normal, Roughness, Metallic, Ambient Occlusion, Height.
-  - **Resolution:** 4K (4096x4096 pixels).
-  - **Seamless:** Perfectly tileable in all directions.
-  - **Wear and Tear:** Visible cracks, chipped edges, subtle discoloration from moisture.
-  - **Lighting Condition (for Albedo):** Neutral, even lighting.
-  - **Artistic Style:** Photorealistic, gritty, industrial.
-  - **Quality:** High-fidelity, game-ready, suitable for real-time rendering.
+  Generate high-quality 3D PBR (Physically Based Rendering) material textures optimized for modern rendering pipelines.
+  
+  **CUSTOMIZABLE PARAMETERS:**
+  - **Material Category:** [Select type: "architectural surfaces", "organic materials", "metal alloys", "fabric textiles", "stone/mineral", "synthetic plastics"]
+  - **Surface Condition:** [Choose state: "pristine new", "naturally weathered", "artificially aged", "battle-damaged", "industrial worn", "decorative finish"]
+  - **Use Case:** [Define purpose: "game development", "architectural visualization", "product rendering", "film/animation", "VR environments", "simulation training"]
+  - **Environment Context:** [Set conditions: "indoor clean", "outdoor weathered", "underwater corroded", "desert sand-blasted", "urban polluted", "space vacuum"]
+  
+  **CORE CHARACTERISTICS:**
+  - **PBR Compliance:**
+    - Physically accurate material properties and light interaction
+    - Proper metallic/non-metallic material classification
+    - Realistic roughness and specularity values
+    - Energy-conserving material behavior
+  
+  **STYLING OPTIONS:**
+  - **Texture Style:** [Choose aesthetic: "photorealistic scan", "stylized artistic", "hand-painted detailed", "procedural generated", "hybrid mixed", "minimalist clean"]
+  - **Detail Level:** [Select complexity: "macro surface only", "micro detail focus", "multi-scale layered", "extreme close-up", "overview pattern", "artistic interpretation"]
+  - **Variation:** [Define diversity: "uniform consistent", "natural variation", "systematic patterns", "random organic", "designed motifs", "damage patterns"]
+  
+  **TECHNICAL REQUIREMENTS:**
+  - Complete PBR map set: Albedo, Normal, Roughness, Metallic, AO, Height/Displacement
+  - Seamless tiling capabilities for infinite surface coverage
+  - Multiple resolution options for performance optimization
+  - Consistent lighting and color calibration across all maps
+  
+  **TECHNICAL SPECS:**
+  - **Resolution:** 4K (4096x4096) with scalable options (1K, 2K, 8K)
+  - **Format:** Industry-standard texture formats (PNG, EXR, TIFF)
+  - **Tiling:** Perfectly seamless in all directions with edge continuity
+  - **Quality:** High-fidelity, game-ready, real-time rendering optimized, production-quality assets

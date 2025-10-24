@@ -1,11 +1,32 @@
 prompt: |
-  Generate a clear and informative data visualization.
-  - **Data Type:** Quarterly sales performance for a tech company over the last 5 years.
-  - **Visualization Type:** Line chart with multiple lines (one for each product category).
-  - **Key Metrics:** Revenue, profit margin, customer acquisition cost.
-  - **Design Style:** Modern, minimalist, clean, professional.
-  - **Color Palette:** Corporate branding colors, accessible for colorblind individuals.
-  - **Labels:** Clear axis labels, data point labels for key values, interactive tooltips.
-  - **Annotations:** Highlight peak sales periods and significant dips with explanatory text.
-  - **Resolution:** High-resolution vector graphic (SVG or PDF equivalent).
-  - **Quality:** Accurate, easy to understand, visually appealing, actionable insights.
+  Generate a clear, informative, and visually compelling data visualization that effectively communicates insights.
+  
+  **CUSTOMIZABLE PARAMETERS:**
+  - **Data Domain:** [Select context: "business metrics", "scientific research", "social analytics", "financial markets", "demographic studies", "performance tracking"]
+  - **Chart Type:** [Choose visualization: "line charts", "bar graphs", "pie charts", "scatter plots", "heatmaps", "dashboard layouts"]
+  - **Complexity Level:** [Define scope: "single metric focus", "comparative analysis", "multi-dimensional data", "time series trends", "correlation studies", "comprehensive dashboards"]
+  - **Audience:** [Target viewers: "executive summary", "technical analysis", "public presentation", "academic research", "marketing insights", "operational monitoring"]
+  
+  **CORE CHARACTERISTICS:**
+  - **Data Integrity:**
+    - Accurate representation of underlying data relationships
+    - Clear scale and measurement indicators
+    - Honest visual proportions without misleading distortions
+    - Appropriate chart type selection for data nature
+  
+  **STYLING OPTIONS:**
+  - **Design Style:** [Choose aesthetic: "corporate professional", "scientific academic", "modern minimalist", "editorial infographic", "tech dashboard", "artistic creative"]
+  - **Color Strategy:** [Select approach: "brand-aligned palette", "accessibility-focused", "high-contrast clarity", "categorical distinction", "gradient emphasis", "monochromatic elegance"]
+  - **Layout Format:** [Define structure: "single chart focus", "comparison panels", "narrative sequence", "interactive dashboard", "infographic story", "report integration"]
+  
+  **COMMUNICATION CLARITY:**
+  - Clear, descriptive titles and axis labels
+  - Strategic use of annotations and callouts
+  - Logical data hierarchy and visual emphasis
+  - Accessible design following visualization best practices
+  
+  **TECHNICAL SPECS:**
+  - **Format:** High-resolution vector graphics (SVG/PDF quality)
+  - **Typography:** Professional, readable fonts with appropriate sizing
+  - **Composition:** Balanced layout with effective white space utilization
+  - **Quality:** Publication-ready, accurate data representation, visually appealing, actionable insights

@@ -1,10 +1,32 @@
 prompt: |
-  Generate SEO-optimized content for a blog post.
-  - **Topic:** "The Future of Artificial Intelligence in Healthcare"
-  - **Primary Keyword:** "AI in Healthcare"
-  - **Secondary Keywords:** "medical AI", "healthcare technology", "AI diagnostics", "patient care AI"
-  - **Target Audience:** Healthcare professionals, technology enthusiasts, general public interested in future trends.
-  - **Tone:** Informative, authoritative, forward-looking.
-  - **Length:** 800-1000 words.
-  - **Desired Output:** A blog post draft with optimized headings, meta description, and natural keyword integration.
-  - **Quality:** High-quality, well-researched, engaging, ranks well in search engines.
+  Create search engine optimized content that ranks high while delivering exceptional value to readers.
+
+  **CUSTOMIZABLE PARAMETERS:**
+  - **Content Type:** [Choose format: "blog post article", "landing page copy", "product description", "category page content", "FAQ section", "resource guide"]
+  - **SEO Strategy:** [Define approach: "informational intent", "commercial intent", "transactional intent", "navigational intent", "local SEO focus", "voice search optimization"]
+  - **Competition Level:** [Set difficulty: "low competition niche", "medium competition market", "high competition keywords", "long-tail opportunity", "emerging trend topic", "evergreen content"]
+  - **Content Depth:** [Select scope: "comprehensive pillar content", "focused topic cluster", "quick answer format", "detailed tutorial guide", "comparison analysis", "trend commentary"]
+
+  **CORE CHARACTERISTICS:**
+  - **SEO Foundation:**
+    - Strategic keyword integration maintaining natural flow and readability
+    - Optimized heading structure (H1, H2, H3) for search crawler understanding
+    - Meta elements including compelling titles and descriptions
+    - Internal and external linking opportunities for authority building
+
+  **OPTIMIZATION OPTIONS:**
+  - **Content Style:** [Choose approach: "authoritative expert", "conversational accessible", "technical detailed", "beginner-friendly", "news-style timely", "evergreen reference"]
+  - **Word Count:** [Define length: "short-form (300-600 words)", "medium-form (600-1200 words)", "long-form (1200-2500 words)", "comprehensive (2500+ words)"]
+  - **Search Intent:** [Target purpose: "educational how-to", "product research", "comparison shopping", "problem solving", "trend analysis", "local information"]
+
+  **SEO ELEMENTS:**
+  - Featured snippet optimization with clear, concise answers
+  - Schema markup opportunities for rich search results
+  - Image optimization suggestions with alt text recommendations
+  - User engagement signals through compelling introductions and conclusions
+
+  **TECHNICAL SPECS:**
+  - **Output Format:** Complete SEO-optimized content ready for publication
+  - **Search Quality:** High E-A-T (Expertise, Authority, Trustworthiness) signals
+  - **User Experience:** Scannable format with bullet points, subheadings, and clear structure
+  - **Ranking Factors:** Keyword optimization, content depth, user intent alignment, technical SEO best practices

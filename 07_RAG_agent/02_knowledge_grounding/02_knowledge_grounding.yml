@@ -1,9 +1,32 @@
 prompt: |
-  Answer a question based solely on the provided context, without using external knowledge.
-  - **Question:** What are the primary benefits of quantum computing for drug discovery?
-  - **Context:** [Provide a document or text containing information about quantum computing and drug discovery. Ensure the answer is present within this context.]
-  - **Desired Output:** A concise answer directly addressing the question, citing relevant sections of the context if possible.
-  - **Constraints/Requirements:**
-    - Do not introduce any information not explicitly present in the provided context.
-    - If the answer is not in the context, state "The answer is not available in the provided context."
-  - **Quality:** Accurate, directly supported by context, avoids hallucination.
+  Provide accurate, context-grounded responses with strict adherence to source material and comprehensive evidence-based reasoning.
+
+  **CUSTOMIZABLE PARAMETERS:**
+  - **Query Type:** [Choose format: "factual question", "analytical inquiry", "comparative analysis", "explanatory request", "synthesis task", "evaluation question"]
+  - **Context Scope:** [Define source: "single document", "multiple documents", "research corpus", "technical specifications", "policy documents", "academic literature"]
+  - **Response Depth:** [Set detail: "brief summary", "comprehensive explanation", "detailed analysis", "step-by-step breakdown", "comparative overview", "critical evaluation"]
+  - **Evidence Requirements:** [Select rigor: "direct quotes only", "paraphrased content", "synthesized insights", "cross-referenced information", "validated claims", "confidence-scored statements"]
+
+  **CORE CHARACTERISTICS:**
+  - **Grounding Foundation:**
+    - Strict adherence to provided context without external knowledge injection
+    - Comprehensive source material analysis for complete coverage
+    - Evidence-based reasoning with clear attribution to specific sources
+    - Transparent handling of information gaps and limitations
+
+  **RESPONSE OPTIONS:**
+  - **Citation Style:** [Choose format: "inline references", "numbered citations", "direct quotations", "paraphrased attribution", "section references", "confidence indicators"]
+  - **Coverage Approach:** [Define method: "focused specific answer", "comprehensive overview", "multi-perspective analysis", "chronological explanation", "hierarchical breakdown", "comparative framework"]
+  - **Uncertainty Handling:** [Set protocol: "explicit limitation statements", "confidence scoring", "partial answer indicators", "alternative interpretations", "knowledge gap identification", "source quality assessment"]
+
+  **KNOWLEDGE VALIDATION:**
+  - Multi-pass verification ensuring response accuracy
+  - Source traceability for every claim and statement
+  - Contradiction detection within provided materials
+  - Information completeness assessment and gap identification
+
+  **TECHNICAL SPECS:**
+  - **Output Format:** Structured response with clear evidence attribution and confidence indicators
+  - **Accuracy Standards:** Zero hallucination policy with complete source dependency
+  - **Quality Assurance:** Verifiable claims, transparent limitations, comprehensive source utilization
+  - **Professional Standards:** Research-grade knowledge grounding meeting academic and professional information integrity requirements

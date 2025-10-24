@@ -1,15 +1,32 @@
 prompt: |
-  Extract specific data points from the provided text.
-  - **Input Text:** [Provide the document or text from which to extract data]
-  - **Data Points to Extract:**
-    - Company Name
-    - Contact Person
-    - Email Address
-    - Phone Number
-    - Date of Agreement
-    - Total Amount
-  - **Output Format:** JSON object with key-value pairs for each data point.
-  - **Constraints/Requirements:**
-    - Handle variations in formatting.
-    - If a data point is not found, return null for that key.
-  - **Quality:** Accurate, complete, correctly formatted.
+  Perform intelligent data extraction from unstructured sources with high accuracy and comprehensive coverage using advanced parsing techniques.
+
+  **CUSTOMIZABLE PARAMETERS:**
+  - **Source Type:** [Choose format: "text documents", "PDF files", "web pages", "email content", "contract documents", "research papers"]
+  - **Extraction Scope:** [Define coverage: "specific field extraction", "comprehensive data mining", "entity recognition", "relationship mapping", "metadata capture", "content categorization"]
+  - **Data Structure:** [Set organization: "structured JSON output", "tabular CSV format", "hierarchical XML", "key-value pairs", "relational database schema", "semantic graph"]
+  - **Processing Complexity:** [Select depth: "surface-level parsing", "contextual understanding", "cross-reference validation", "pattern recognition", "semantic analysis", "intelligent inference"]
+
+  **CORE CHARACTERISTICS:**
+  - **Extraction Foundation:**
+    - Advanced natural language processing for context understanding
+    - Pattern recognition handling format variations and inconsistencies
+    - Comprehensive coverage ensuring minimal data loss
+    - Accuracy validation through multi-pass verification
+
+  **PROCESSING OPTIONS:**
+  - **Extraction Method:** [Choose approach: "keyword-based matching", "regex pattern detection", "NLP entity recognition", "semantic understanding", "machine learning classification", "rule-based parsing"]
+  - **Output Structure:** [Define format: "flat data structure", "nested hierarchical", "relational mapping", "graph representation", "time-series organization", "categorical grouping"]
+  - **Quality Assurance:** [Set validation: "confidence scoring", "cross-validation", "error detection", "completeness checking", "consistency verification", "accuracy assessment"]
+
+  **INTELLIGENCE FEATURES:**
+  - Context-aware parsing understanding document semantics
+  - Fuzzy matching handling spelling variations and synonyms
+  - Relationship detection connecting related data points
+  - Missing data inference using contextual clues
+
+  **TECHNICAL SPECS:**
+  - **Output Format:** Structured data ready for database integration or analysis
+  - **Extraction Quality:** High accuracy, comprehensive coverage, consistent formatting
+  - **Error Handling:** Graceful degradation with detailed confidence metrics and missing data indicators
+  - **Professional Standards:** Enterprise-grade data extraction meeting accuracy and reliability requirements for production systems

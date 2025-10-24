@@ -1,13 +1,32 @@
 prompt: |
-  Generate a photorealistic landscape image.
-  - **Scene:** Majestic mountain range at sunrise, with a clear alpine lake in the foreground.
-  - **Time of Day:** Sunrise, golden hour.
-  - **Weather:** Clear sky, light mist over the lake.
-  - **Artistic Style:** Photorealistic, epic, serene.
-  - **Camera:**
-    - **Type:** Sony Alpha a7R IV
-    - **Lens:** 16-35mm f/2.8 (wide-angle)
-    - **Aperture:** f/11 (for deep depth of field)
-    - **Shutter Speed:** 1/60s
-  - **Composition:** Rule of thirds, leading lines from the lake shore to the mountains.
-  - **Quality:** Masterpiece, ultra-detailed, breathtaking, high dynamic range.
+  Generate a stunning photorealistic landscape that captures the beauty and majesty of natural environments.
+  
+  **CUSTOMIZABLE PARAMETERS:**
+  - **Scene Type:** [Select environment: "mountain ranges", "coastal seascapes", "forest valleys", "desert landscapes", "arctic tundra", "tropical paradise"]
+  - **Time of Day:** [Choose lighting: "golden sunrise", "dramatic sunset", "blue hour twilight", "midday brightness", "starry night", "overcast moody"]
+  - **Weather Conditions:** [Define atmosphere: "clear sunny", "dramatic storms", "misty fog", "gentle rain", "snow-covered", "windswept clouds"]
+  - **Season:** [Set timeframe: "spring bloom", "summer lush", "autumn colors", "winter frost", "monsoon season", "eternal spring"]
+  
+  **CORE CHARACTERISTICS:**
+  - **Natural Elements:**
+    - Authentic geological formations and natural textures
+    - Realistic lighting conditions and atmospheric effects
+    - Genuine weather patterns and seasonal characteristics
+    - Organic composition following natural landscape rules
+  
+  **STYLING OPTIONS:**
+  - **Artistic Style:** [Choose aesthetic: "photorealistic documentary", "cinematic epic", "romantic pastoral", "dramatic wilderness", "minimalist zen", "vintage film"]
+  - **Color Palette:** [Select mood: "warm golden tones", "cool blue undertones", "vibrant saturated", "muted earth tones", "monochromatic", "high contrast"]
+  - **Perspective:** [Define viewpoint: "wide panoramic", "intimate close-up", "aerial overview", "ground-level immersion", "elevated vista", "through foreground elements"]
+  
+  **ENVIRONMENTAL VARIETY:**
+  - Dynamic range capturing both shadows and highlights
+  - Natural depth and layering from foreground to background
+  - Authentic atmospheric perspective and distance effects
+  - Realistic scale relationships between landscape elements
+  
+  **TECHNICAL SPECS:**
+  - **Camera:** Sony Alpha a7R IV with 16-35mm f/2.8 wide-angle lens
+  - **Settings:** f/11 aperture for optimal depth of field, appropriate shutter speed for conditions
+  - **Composition:** Rule of thirds with natural leading lines and balanced elements
+  - **Quality:** 4K, ultra-detailed, high dynamic range, breathtaking photorealistic landscape photography

@@ -1,10 +1,32 @@
 prompt: |
-  Generate a blog post based on a given topic and target audience.
-  - **Topic:** "5 Tips for Remote Work Productivity"
-  - **Target Audience:** Remote workers, freelancers, small business owners.
-  - **Tone:** Informative, encouraging, practical, friendly.
-  - **Length:** 700-900 words.
-  - **Structure:** Introduction, 5 distinct tips (each with a heading and explanation), Conclusion, Call to Action.
-  - **Call to Action:** "Share your own remote work tips in the comments below!"
-  - **Desired Output:** A complete blog post draft, ready for minor edits.
-  - **Quality:** Engaging, easy to read, provides actionable advice, SEO-friendly.
+  Create engaging blog content that connects with readers while delivering valuable insights and actionable information.
+
+  **CUSTOMIZABLE PARAMETERS:**
+  - **Post Type:** [Choose format: "how-to guide", "listicle article", "opinion piece", "case study analysis", "trend commentary", "personal story"]
+  - **Content Strategy:** [Define purpose: "educational informative", "entertaining engaging", "inspirational motivating", "problem-solving practical", "thought leadership", "community building"]
+  - **Blog Category:** [Select niche: "business professional", "lifestyle personal", "technology innovation", "health wellness", "creative arts", "industry-specific"]
+  - **Engagement Goal:** [Set objective: "social sharing", "comment discussion", "email subscriptions", "product interest", "brand awareness", "community growth"]
+
+  **CORE CHARACTERISTICS:**
+  - **Content Foundation:**
+    - Compelling hook that immediately captures reader attention
+    - Clear value proposition addressing specific reader needs
+    - Logical flow with smooth transitions between ideas
+    - Actionable takeaways readers can immediately implement
+
+  **WRITING OPTIONS:**
+  - **Tone Style:** [Choose voice: "conversational friendly", "professional authoritative", "personal authentic", "humorous entertaining", "inspirational uplifting", "analytical objective"]
+  - **Content Length:** [Define scope: "quick read (400-700 words)", "standard post (700-1200 words)", "in-depth article (1200-2000 words)", "comprehensive guide (2000+ words)"]
+  - **Structure Format:** [Select organization: "traditional introduction-body-conclusion", "problem-solution framework", "numbered list format", "story-driven narrative", "comparison analysis", "step-by-step tutorial"]
+
+  **BLOG ELEMENTS:**
+  - Scannable formatting with subheadings and bullet points
+  - Strategic keyword integration for search optimization
+  - Internal linking opportunities to related content
+  - Strong call-to-action encouraging reader engagement
+
+  **TECHNICAL SPECS:**
+  - **Output Format:** Publication-ready blog post with optimized structure
+  - **Reader Experience:** Engaging, informative, easy-to-scan, mobile-friendly content
+  - **SEO Integration:** Natural keyword usage, meta-friendly headlines, search-optimized structure
+  - **Engagement Quality:** Share-worthy content that encourages comments, social sharing, and return visits

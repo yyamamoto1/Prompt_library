@@ -1,12 +1,32 @@
 prompt: |
-  Write a scene for a movie script based on the provided details.
-  - **Movie Title:** The Dream Weaver
-  - **Scene Number:** 15
-  - **Setting:** A dimly lit, futuristic dream-sharing clinic.
-  - **Characters:**
-    - **Dr. Aris Thorne (40s, male):** A brilliant but weary neuroscientist.
-    - **Elara Vance (20s, female):** A new patient, anxious and vulnerable.
-  - **Action/Dialogue:** Dr. Thorne is explaining the dream-sharing process to Elara, who is hesitant. Elara expresses her fears about losing control.
-  - **Tone:** Tense, slightly ominous, scientific.
-  - **Desired Output:** A 2-page script excerpt, formatted professionally (e.g., Final Draft style).
-  - **Quality:** Realistic dialogue, strong character voice, clear scene description, builds suspense.
+  Write professional screenplay content with industry-standard formatting and compelling dramatic execution.
+  
+  **CUSTOMIZABLE PARAMETERS:**
+  - **Script Type:** [Select format: "feature film scene", "television episode segment", "short film complete", "web series episode", "documentary sequence", "animation script"]
+  - **Genre Style:** [Choose approach: "dramatic dialogue-heavy", "action sequence", "comedic timing", "horror suspense", "romantic interaction", "thriller tension"]
+  - **Scene Purpose:** [Define function: "character development", "plot advancement", "exposition delivery", "conflict escalation", "emotional climax", "transition sequence"]
+  - **Writing Stage:** [Set development: "initial draft", "revision polish", "dialogue punch-up", "action refinement", "character voice adjustment", "final shooting script"]
+  
+  **CORE CHARACTERISTICS:**
+  - **Screenplay Standards:**
+    - Industry-standard formatting (Final Draft/WriterDuet style)
+    - Proper scene headings, action lines, and character dialogue
+    - Cinematic writing style showing rather than telling
+    - Appropriate pacing and scene structure for medium
+  
+  **WRITING OPTIONS:**
+  - **Dialogue Style:** [Choose voice: "naturalistic conversational", "heightened dramatic", "genre-specific", "character-distinctive", "period-appropriate", "comedic timing"]
+  - **Action Description:** [Select approach: "minimal efficient", "detailed atmospheric", "character-focused", "visual-cinematic", "practical-production", "artistic-poetic"]
+  - **Scene Length:** [Define scope: "brief transition", "standard scene", "extended sequence", "montage series", "single location deep-dive", "multi-location complex"]
+  
+  **DRAMATIC STRUCTURE:**
+  - Clear scene objectives and character motivations
+  - Appropriate conflict and tension for story position
+  - Authentic character voices and relationship dynamics
+  - Visual storytelling through action and subtext
+  
+  **TECHNICAL SPECS:**
+  - **Format:** Professional screenplay formatting with proper margins and fonts
+  - **Length:** Appropriate scene length for dramatic content and pacing needs
+  - **Style:** Industry-standard action description and dialogue presentation
+  - **Quality:** Producible, character-driven, dramatically compelling, professionally formatted screenplay content

@@ -1,32 +1,34 @@
 prompt: |
-  Generate a photorealistic portrait of a male model in his sixties or older.
-  - **Age:** 60+ years old
-  - **Style:** Wise, dignified, kind
-  - **Lighting:** Soft, warm light
-  - **Background:** Cozy home, park bench, or traditional setting, blurred
-  - **Camera Angle:** Eye-level, headshot
-  - **Resolution:** 4K
-  - **Clothing:** Comfortable, classic tweed jacket, wool sweater, collared shirt
-  - **Situation:** Reading a newspaper by a fireplace, or enjoying a walk in a park
-  - **Face:**
-    - **Shape:** わずかに角ばった顎のラインを持つ卵型。
-    - **Features:**
-      - **Skin:** 経験を重ねた深みのある肌、わずかなシワが刻まれている。
-      - **Nose:** 端正で、力強い印象を与える鼻筋。
-      - **Eyes:** 深く、知性を感じさせる瞳。目元には自信が宿る。
-      - **Lips:** 引き締まり、意志の強さを感じさせる口元。
-      - **Eyebrows:** 整えられ、力強い印象。
-    - **Makeup:** なし、ナチュラル。
-  - **Hair:**
-    - **Style:** 短く、サイドは刈り上げ、トップは少し長めで動きがある。
-    - **Color:** ダークブラウン。
-    - **Texture:** やや硬く、清潔感のある質感。
-  - **Expression:**
-    - **Emotion:** 穏やかで、自信に満ちた微笑み。知的な好奇心を感じさせる。
-    - **Gaze:** カメラをまっすぐ見つめ、力強く、魅惑的な視線。
-  - **Camera:**
-    - **Type:** Leica M10-P
-    - **Lens:** 50mm f/0.95
-    - **Aperture:** f/1.4
-  - **Composition:** Warm, inviting framing, soft background blur
-  - **Quality:** Masterpiece, ultra-detailed, photorealistic, timeless wisdom
+  Generate a photorealistic portrait of a wise elderly male (60+ years old) embodying dignified kindness and profound life wisdom.
+  
+  **CUSTOMIZABLE PARAMETERS:**
+  - **Life Role:** [Select context: "beloved grandfather", "retired leader", "community elder", "wisdom keeper", "mentor emeritus", "cultural patriarch"]
+  - **Setting:** [Choose environment: "cozy home fireplace", "peaceful park bench", "traditional study", "family gathering", "nature retreat", "heritage location"]
+  - **Style:** [Define aesthetic: "comfortable elegance", "traditional dignity", "natural wisdom", "family warmth", "heritage classic", "gentle sophistication"]
+  - **Mood:** [Set atmosphere: "peaceful", "wise", "nurturing", "contemplative", "accepting", "benevolent"]
+  
+  **CORE CHARACTERISTICS:**
+  - **Age Range:** 60+ years old
+  - **Facial Features:**
+    - Gentle oval face with slightly angular jawline showing seasoned character
+    - Rich, experienced skin with meaningful lines reflecting life's journey
+    - Distinguished straight nose conveying gentle strength
+    - Deep, intelligent eyes radiating confidence and compassionate wisdom
+    - Firm lips expressing kindness and thoughtful consideration
+    - Well-groomed eyebrows conveying gentle, wise presence
+  
+  **STYLING OPTIONS:**
+  - **Hair:** [Elder variety: distinguished silver, classic short styling, natural gray, refined grooming, traditional cut, dignified appearance]
+  - **Makeup:** None - natural masculine wisdom
+  - **Clothing:** [Comfortable classics: tweed jackets, wool sweaters, collared shirts, quality materials, traditional patterns, comfortable elegance]
+  
+  **EXPRESSION VARIETY:**
+  - Serene, confident smile reflecting intellectual curiosity and life acceptance
+  - Direct, warm gaze that's compelling yet gentle and wise
+  - Composed demeanor expressing accumulated wisdom and peaceful strength
+  
+  **TECHNICAL SPECS:**
+  - **Camera:** Leica M10-P with 50mm f/0.95 lens
+  - **Lighting:** Soft, warm illumination emphasizing gentle wisdom
+  - **Composition:** Warm, inviting framing with soft background blur
+  - **Quality:** 4K, ultra-detailed, photorealistic, capturing timeless masculine wisdom

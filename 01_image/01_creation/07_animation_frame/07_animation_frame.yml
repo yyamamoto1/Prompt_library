@@ -1,10 +1,32 @@
 prompt: |
-  Generate a sequence of animation frames for a character walking cycle.
-  - **Character:** A stylized 2D anime girl, wearing a school uniform.
-  - **Action:** Walking cycle, facing right.
-  - **Frame Rate:** 24 frames per second (fps).
-  - **Number of Frames:** 12 frames for a complete loop.
-  - **Artistic Style:** Anime, cel-shaded, vibrant colors.
-  - **Background:** Transparent (alpha channel).
-  - **Resolution:** 512x512 pixels per frame.
-  - **Quality:** Smooth animation, consistent character design, clean lines.
+  Generate professional animation frames and sequences for character animation and motion graphics.
+  
+  **CUSTOMIZABLE PARAMETERS:**
+  - **Animation Type:** [Select sequence: "character walk cycles", "action sequences", "facial expressions", "object transformations", "environment effects", "UI animations"]
+  - **Character Style:** [Choose design: "2D anime/manga", "western cartoon", "realistic human", "stylized creature", "geometric abstract", "pixel art retro"]
+  - **Action/Movement:** [Define motion: "basic locomotion", "combat actions", "emotional gestures", "idle behaviors", "special abilities", "transformation sequences"]
+  - **Animation Context:** [Set purpose: "game sprites", "film animation", "web graphics", "mobile apps", "educational content", "advertising media"]
+  
+  **CORE CHARACTERISTICS:**
+  - **Animation Principles:**
+    - Proper timing and spacing for realistic motion
+    - Consistent character proportions and design throughout
+    - Smooth frame-to-frame transitions with natural arcs
+    - Appropriate anticipation, action, and follow-through
+  
+  **STYLING OPTIONS:**
+  - **Art Style:** [Choose aesthetic: "traditional 2D animation", "digital vector art", "hand-drawn sketched", "3D rendered frames", "mixed media collage", "minimalist geometric"]
+  - **Color Treatment:** [Select approach: "full color rendered", "monochromatic tones", "limited palette", "cel-shaded flat", "gradient blended", "high contrast"]
+  - **Background:** [Define setting: "transparent alpha", "simple solid color", "environmental context", "abstract patterns", "photographic composite", "illustrated backdrop"]
+  
+  **TECHNICAL REQUIREMENTS:**
+  - Frame rate optimization for intended playback medium
+  - Consistent timing and spacing calculations
+  - Loop-ready sequences with seamless transitions
+  - Multiple resolution exports for different platforms
+  
+  **TECHNICAL SPECS:**
+  - **Frame Rate:** Optimized for target platform (12fps, 24fps, 30fps, 60fps)
+  - **Resolution:** Scalable from web-ready to high-definition output
+  - **Format:** Animation-ready sequence with numbered frames or sprite sheets
+  - **Quality:** Smooth motion, consistent character design, professional animation standards

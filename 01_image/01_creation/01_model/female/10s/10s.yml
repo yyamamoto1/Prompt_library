@@ -1,32 +1,34 @@
 prompt: |
-  Generate a photorealistic portrait of a female model in her teens.
-  - **Age:** 16-19 years old
-  - **Style:** Youthful, fresh, natural
-  - **Lighting:** Bright, soft daylight
-  - **Background:** Urban street or park, slightly blurred
-  - **Camera Angle:** Eye-level, upper body shot
-  - **Resolution:** 4K
-  - **Clothing:** Casual, trendy hoodie and jeans, white sneakers
-  - **Situation:** Listening to music with headphones, walking in a bustling city street
-  - **Face:**
-    - **Shape:** 卵型で、頬骨はわずかに高く、顎のラインは柔らかい。
-    - **Features:**
-      - **Skin:** 透明感のある健康的な肌、そばかすはなし。
-      - **Nose:** 小さく、わずかに上を向いた鼻先。
-      - **Eyes:** アーモンド型で、瞳は明るいヘーゼル色。二重まぶたで、まつげは長くカールしている。
-      - **Lips:** 自然なピンク色で、ふっくらとした唇。
-      - **Eyebrows:** 自然なアーチを描き、色は髪と同系色。
-    - **Makeup:** Minimal, natural look
-  - **Hair:**
-    - **Style:** 胸元までの長さで、自然なビーチウェーブがかかっている。前髪は眉毛にかかる程度で、サイドに流している。
-    - **Color:** 太陽の光でハイライトが入ったハニーブロンド。
-    - **Texture:** 柔らかく、光沢があり、風になびくような質感。
-  - **Expression:**
-    - **Emotion:** わずかに口を開けて歯を見せる、元気で好奇心旺盛な笑顔。目元は楽しげに細められている。
-    - **Gaze:** カメラをまっすぐ見つめ、親しみやすく、少しいたずらっぽい視線。
-  - **Camera:**
-    - **Type:** Canon EOS R5
-    - **Lens:** 85mm f/1.4
-    - **Aperture:** f/2.8
-  - **Composition:** Rule of thirds, subject slightly off-center
-  - **Quality:** Masterpiece, ultra-detailed, photorealistic
+  Generate a photorealistic portrait of a teenage female model (16-19 years old) with youthful, fresh characteristics.
+  
+  **CUSTOMIZABLE PARAMETERS:**
+  - **Subject:** [Specify activity: "student studying", "athlete training", "artist creating", "musician performing", "casual hanging out"]
+  - **Setting:** [Choose environment: "school campus", "park", "café", "bedroom", "urban street", "beach", "library"]
+  - **Style:** [Select aesthetic: "natural", "trendy", "sporty", "artistic", "preppy", "bohemian"]
+  - **Mood:** [Define atmosphere: "playful", "confident", "dreamy", "energetic", "contemplative", "rebellious"]
+  
+  **CORE CHARACTERISTICS:**
+  - **Age Range:** 16-19 years old
+  - **Facial Features:** 
+    - Youthful oval face with soft jawline and slightly high cheekbones
+    - Clear, healthy skin with natural glow
+    - Bright, expressive almond-shaped eyes with long lashes
+    - Small, slightly upturned nose
+    - Natural pink lips with youthful fullness
+    - Natural eyebrow arch matching hair color
+  
+  **STYLING OPTIONS:**
+  - **Hair:** [Adaptable to scene: long beachy waves, sleek straight, messy bun, braided, short bob]
+  - **Makeup:** Minimal and age-appropriate (tinted lip balm, mascara, light blush)
+  - **Clothing:** [Context-appropriate: school uniform, casual wear, sportswear, artistic attire, trendy fashion]
+  
+  **EXPRESSION VARIETY:**
+  - Genuine smile showing youthful enthusiasm
+  - Curious and slightly mischievous gaze
+  - Natural, unposed demeanor reflecting teenage spontaneity
+  
+  **TECHNICAL SPECS:**
+  - **Camera:** Canon EOS R5 with 85mm f/1.4 lens
+  - **Lighting:** Soft, natural lighting emphasizing youthful features
+  - **Composition:** Rule of thirds with dynamic teenage energy
+  - **Quality:** 4K, ultra-detailed, photorealistic, capturing teenage authenticity

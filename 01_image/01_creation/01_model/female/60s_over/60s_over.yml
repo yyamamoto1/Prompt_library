@@ -1,32 +1,34 @@
 prompt: |
-  Generate a photorealistic portrait of a female model in her sixties or older.
-  - **Age:** 60+ years old
-  - **Style:** Wise, serene, dignified
-  - **Lighting:** Soft, warm light
-  - **Background:** Cozy home, nature, or traditional setting, blurred
-  - **Camera Angle:** Eye-level, headshot
-  - **Resolution:** 4K
-  - **Clothing:** Comfortable, classic, high-quality knitwear or a simple, elegant dress
-  - **Situation:** Sitting by a window with a cup of tea, looking out at a peaceful landscape
-  - **Face:**
-    - **Shape:** 卵型で、人生経験が刻まれた穏やかな輪郭。
-    - **Features:**
-      - **Skin:** 自然なシワとシミがあり、温かみのある肌。
-      - **Nose:** 穏やかで、親しみやすい印象を与える鼻筋。
-      - **Eyes:** 深く、優しい光を宿した瞳。目元には多くの笑いジワ。
-      - **Lips:** わずかに微笑み、優しさを感じさせる口元。
-      - **Eyebrows:** 自然な形を保ち、白髪が混じる。
-    - **Makeup:** ほとんどなく、自然な美しさを引き立てる。
-  - **Hair:**
-    - **Style:** 短めのグレイヘアで、ふんわりとしたパーマがかかっている。
-    - **Color:** 美しいシルバーグレイ。
-    - **Texture:** 柔らかく、清潔感のある質感。
-  - **Expression:**
-    - **Emotion:** 穏やかで、慈愛に満ちた微笑み。深い安らぎと知恵を感じさせる。
-    - **Gaze:** 遠くを見つめるような、思慮深く、すべてを受け入れるような視線。
-  - **Camera:**
-    - **Type:** Canon EOS R5
-    - **Lens:** 85mm f/1.4
-    - **Aperture:** f/1.8
-  - **Composition:** Soft, warm lighting, shallow depth of field
-  - **Quality:** Masterpiece, ultra-detailed, photorealistic, timeless wisdom
+  Generate a photorealistic portrait of a wise elderly female (60+ years old) embodying serene dignity and profound life wisdom.
+  
+  **CUSTOMIZABLE PARAMETERS:**
+  - **Life Role:** [Select context: "beloved grandmother", "retired professional", "community elder", "wisdom keeper", "artist emeritus", "spiritual guide"]
+  - **Setting:** [Choose environment: "cozy home window", "peaceful garden", "traditional tea room", "family gathering", "nature retreat", "cultural heritage site"]
+  - **Style:** [Define aesthetic: "timeless comfort", "elegant simplicity", "natural grace", "heritage classic", "artistic bohemian", "spiritual serenity"]
+  - **Mood:** [Set atmosphere: "peaceful", "wise", "nurturing", "contemplative", "accepting", "radiant"]
+  
+  **CORE CHARACTERISTICS:**
+  - **Age Range:** 60+ years old
+  - **Facial Features:**
+    - Oval face with gentle contours shaped by life experience
+    - Natural, warm-toned skin with authentic wrinkles and character marks
+    - Peaceful nose conveying approachable kindness
+    - Deep, gentle eyes holding compassionate light with abundant laugh lines
+    - Softly smiling lips expressing natural tenderness
+    - Natural eyebrows with silvering hair, maintaining graceful shape
+  
+  **STYLING OPTIONS:**
+  - **Hair:** [Elder elegance: short silver waves, soft permed style, classic silver bob, natural gray, elegant white, traditional updos]
+  - **Makeup:** Minimal to none, celebrating natural beauty and authentic aging
+  - **Clothing:** [Comfortable elegance: quality knitwear, simple dresses, soft cardigans, classic blouses, traditional patterns, comfort-focused fabrics]
+  
+  **EXPRESSION VARIETY:**
+  - Serene smile filled with compassionate wisdom and deep peace
+  - Thoughtful gaze reflecting acceptance and universal understanding
+  - Tranquil demeanor expressing life mastery and gentle strength
+  
+  **TECHNICAL SPECS:**
+  - **Camera:** Canon EOS R5 with 85mm f/1.4 lens
+  - **Lighting:** Soft, warm illumination emphasizing gentle wisdom
+  - **Composition:** Peaceful framing with shallow depth of field
+  - **Quality:** 4K, ultra-detailed, photorealistic, capturing timeless wisdom and serene beauty

@@ -1,8 +1,32 @@
 prompt: |
-  Generate a discussion flow for a meeting or conversation.
-  - **Topic:** Brainstorming new marketing strategies for a product launch.
-  - **Participants:** Marketing Team Lead, Product Manager, Social Media Specialist, Sales Representative.
-  - **Goal:** Generate 3-5 actionable marketing strategies.
-  - **Duration:** 60 minutes.
-  - **Desired Output:** A step-by-step agenda, including time allocations, key questions to ask, and expected outcomes for each segment.
-  - **Quality:** Structured, facilitates participation, leads to clear decisions, efficient.
+  Create structured discussion frameworks that facilitate productive communication and collaborative decision-making across diverse professional and social contexts.
+
+  **CUSTOMIZABLE PARAMETERS:**
+  - **Discussion Type:** [Choose format: "brainstorming session", "decision-making meeting", "problem-solving workshop", "strategic planning", "conflict resolution", "team building"]
+  - **Group Size:** [Define scope: "one-on-one dialogue", "small team (3-6)", "medium group (7-15)", "large gathering (16-30)", "virtual distributed", "hybrid mixed"]
+  - **Communication Style:** [Set approach: "formal structured", "informal collaborative", "facilitated guided", "open democratic", "expert-led", "consensus-building"]
+  - **Outcome Focus:** [Select goal: "idea generation", "consensus building", "problem resolution", "information sharing", "relationship building", "action planning"]
+
+  **CORE CHARACTERISTICS:**
+  - **Flow Foundation:**
+    - Logical progression ensuring comprehensive topic coverage
+    - Balanced participation encouraging all voices
+    - Clear objectives with measurable outcomes
+    - Time management optimizing efficiency and engagement
+
+  **DISCUSSION OPTIONS:**
+  - **Structure Format:** [Choose organization: "agenda-driven linear", "topic-cluster modular", "issue-priority ranked", "timeline chronological", "stakeholder-perspective", "solution-focused framework"]
+  - **Facilitation Style:** [Define leadership: "directive structured", "collaborative participatory", "coaching supportive", "mediating neutral", "expert informative", "democratic inclusive"]
+  - **Interaction Method:** [Select technique: "round-robin sharing", "open floor discussion", "breakout group analysis", "pair-share dialogue", "silent reflection integration", "rapid-fire ideation"]
+
+  **COMMUNICATION ELEMENTS:**
+  - Strategic questioning techniques promoting deep thinking
+  - Conflict navigation maintaining productive dialogue
+  - Decision-making frameworks ensuring clear conclusions
+  - Documentation strategies capturing key insights and commitments
+
+  **TECHNICAL SPECS:**
+  - **Output Format:** Complete discussion guide ready for immediate implementation
+  - **Communication Quality:** Engaging, inclusive, productive, outcome-oriented
+  - **Adaptability:** Flexible framework accommodating diverse group dynamics and objectives
+  - **Professional Standards:** Meeting facilitation best practices ensuring effective communication and collaborative success

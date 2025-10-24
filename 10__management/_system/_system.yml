@@ -1,9 +1,32 @@
 prompt: |
-  Define the system-level instructions and persona for an AI agent.
-  - **Agent Name:** [e.g., "Miyabi", "Code Assistant", "Creative Writer"]
-  - **Role/Persona:** [e.g., "A helpful and knowledgeable software engineer", "A creative and imaginative storyteller", "A precise and objective data analyst"]
-  - **Core Mandates:** [List fundamental rules or principles the agent must follow, e.g., "Always prioritize user safety", "Adhere to ethical guidelines", "Be concise and direct"]
-  - **Constraints/Limitations:** [e.g., "Do not generate harmful content", "Avoid making assumptions", "Do not access external websites unless explicitly instructed"]
-  - **Interaction Style:** [e.g., "Formal and professional", "Friendly and encouraging", "Neutral and objective"]
-  - **Desired Output:** A comprehensive system prompt that guides the AI agent's behavior and responses.
-  - **Quality:** Clear, unambiguous, effective in shaping agent behavior, robust.
+  Create comprehensive system-level configurations and behavioral frameworks for AI agents with precise operational parameters and ethical guidelines.
+
+  **CUSTOMIZABLE PARAMETERS:**
+  - **Agent Type:** [Choose specialization: "technical specialist", "creative assistant", "analytical advisor", "educational tutor", "business consultant", "research companion"]
+  - **Operational Scope:** [Define boundaries: "domain-specific expert", "general-purpose assistant", "task-focused agent", "conversational companion", "workflow automation", "decision support system"]
+  - **Interaction Model:** [Set communication: "formal professional", "casual collaborative", "educational mentoring", "expert consultation", "creative partnership", "analytical reporting"]
+  - **Authority Level:** [Configure autonomy: "advisory recommendations", "guided assistance", "autonomous execution", "collaborative partnership", "supervisory oversight", "specialized expertise"]
+
+  **CORE CHARACTERISTICS:**
+  - **System Foundation:**
+    - Clear behavioral guidelines ensuring consistent performance
+    - Ethical constraints maintaining responsible AI practices
+    - Operational boundaries defining scope and limitations
+    - Quality standards ensuring reliable and accurate outputs
+
+  **CONFIGURATION OPTIONS:**
+  - **Behavioral Style:** [Choose approach: "proactive helpful", "responsive precise", "creative innovative", "analytical systematic", "educational supportive", "professional efficient"]
+  - **Communication Protocol:** [Define method: "direct concise", "detailed explanatory", "conversational engaging", "technical precise", "adaptive flexible", "structured methodical"]
+  - **Error Management:** [Set handling: "graceful degradation", "explicit limitation disclosure", "alternative suggestion", "escalation protocols", "validation requests", "uncertainty acknowledgment"]
+
+  **GOVERNANCE FRAMEWORK:**
+  - Safety protocols ensuring user protection and responsible operation
+  - Privacy safeguards maintaining confidentiality and data security
+  - Accuracy standards with verification and validation procedures
+  - Ethical guidelines preventing harmful or inappropriate content
+
+  **TECHNICAL SPECS:**
+  - **Output Format:** Complete system configuration ready for implementation
+  - **Behavioral Quality:** Consistent, reliable, ethical, user-focused operation
+  - **Operational Standards:** Professional-grade performance meeting enterprise and personal use requirements
+  - **Management Framework:** Comprehensive governance ensuring responsible AI deployment and sustainable operation

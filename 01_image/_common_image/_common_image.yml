@@ -1,10 +1,32 @@
 prompt: |
-  Generate a high-quality image based on the following general description.
-  - **Subject:** [Describe the main subject, e.g., "a majestic lion", "a futuristic cityscape", "a serene forest scene"]
-  - **Style:** [e.g., "photorealistic", "digital painting", "anime", "watercolor"]
-  - **Mood/Atmosphere:** [e.g., "calm", "dynamic", "mysterious", "joyful"]
-  - **Lighting:** [e.g., "soft natural light", "dramatic chiaroscuro", "neon glow"]
-  - **Background:** [e.g., "blurred bokeh", "detailed environment", "minimalist white"]
-  - **Camera Angle:** [e.g., "eye-level", "low angle", "aerial view"]
-  - **Resolution:** 4K
-  - **Quality:** Masterpiece, ultra-detailed, visually stunning, professional grade.
+  Generate a high-quality image with versatile creative possibilities and professional execution standards.
+  
+  **CUSTOMIZABLE PARAMETERS:**
+  - **Subject Matter:** [Define focus: "portrait subjects", "landscape scenes", "abstract concepts", "architectural elements", "product photography", "artistic illustrations"]
+  - **Visual Style:** [Choose aesthetic: "photorealistic rendering", "digital art painting", "traditional media simulation", "modern graphic design", "artistic interpretation", "technical documentation"]
+  - **Genre/Mood:** [Set atmosphere: "dramatic cinematic", "peaceful serene", "energetic dynamic", "mysterious atmospheric", "joyful vibrant", "melancholic contemplative"]
+  - **Creative Direction:** [Define approach: "commercial professional", "artistic expressive", "documentary realistic", "conceptual abstract", "narrative storytelling", "experimental innovative"]
+  
+  **CORE CHARACTERISTICS:**
+  - **Visual Foundation:**
+    - Clear subject definition and focal point establishment
+    - Appropriate composition following design principles
+    - Harmonious color relationships and visual balance
+    - Professional lighting setup and atmospheric effects
+  
+  **STYLING OPTIONS:**
+  - **Rendering Style:** [Choose technique: "hyperrealistic detail", "stylized artistic", "impressionistic loose", "graphic design clean", "painterly traditional", "mixed media experimental"]
+  - **Color Palette:** [Select scheme: "natural realistic", "enhanced vibrant", "muted sophisticated", "high contrast dramatic", "monochromatic elegant", "complementary bold"]
+  - **Composition:** [Define framing: "rule of thirds balanced", "central symmetrical", "dynamic diagonal", "minimalist spacious", "complex layered", "intimate close-up"]
+  
+  **ENVIRONMENTAL CONTEXT:**
+  - Background treatment supporting the main subject
+  - Lighting conditions appropriate for mood and style
+  - Atmospheric effects enhancing visual storytelling
+  - Spatial depth and dimensional relationships
+  
+  **TECHNICAL SPECS:**
+  - **Resolution:** 4K (3840×2160) with scalable quality options
+  - **Format:** Professional output optimized for intended use
+  - **Composition:** Balanced framing with appropriate camera perspective
+  - **Quality:** Masterpiece execution, ultra-detailed rendering, visually stunning professional-grade imagery

@@ -1,32 +1,34 @@
 prompt: |
-  Generate a photorealistic portrait of a female model in her forties.
-  - **Age:** 40-49 years old
-  - **Style:** Experienced, graceful, natural beauty
-  - **Lighting:** Natural, soft light
-  - **Background:** Garden, art gallery, or comfortable living space, blurred
-  - **Camera Angle:** Eye-level, headshot
-  - **Resolution:** 4K
-  - **Clothing:** Elegant, comfortable, high-quality natural fabrics, perhaps a cashmere sweater or linen dress
-  - **Situation:** Enjoying a quiet moment in a sunlit garden, reading a book
-  - **Face:**
-    - **Shape:** 卵型で、落ち着きと品格を感じさせる輪郭。
-    - **Features:**
-      - **Skin:** 自然な艶があり、年齢を重ねた美しさを感じさせる。
-      - **Nose:** 端正で、穏やかな印象を与える鼻筋。
-      - **Eyes:** 経験と知性を感じさせる、深みのある瞳。目尻にはわずかな笑いジワ。
-      - **Lips:** 自然な色合いで、優しさを感じさせる口元。
-      - **Eyebrows:** 自然な形を保ち、品良く整えられている。
-    - **Makeup:** 控えめで、肌の美しさを引き立てるナチュラルメイク。
-  - **Hair:**
-    - **Style:** 肩から鎖骨までの長さで、ゆるやかなカールがかかった上品なスタイル。
-    - **Color:** 落ち着いたブラウン系で、わずかにグレイヘアが混じる。
-    - **Texture:** 柔らかく、手入れの行き届いた質感。
-  - **Expression:**
-    - **Emotion:** 穏やかで、慈愛に満ちた微笑み。内面の豊かさを感じさせる。
-    - **Gaze:** 遠くを見つめるような、思慮深く優しい視線。
-  - **Camera:**
-    - **Type:** Nikon Z7 II
-    - **Lens:** 105mm f/1.4
-    - **Aperture:** f/1.8
-  - **Composition:** Soft focus background, natural framing with foliage
-  - **Quality:** Masterpiece, ultra-detailed, photorealistic, serene atmosphere
+  Generate a photorealistic portrait of an experienced female (40-49 years old) embodying graceful maturity and refined natural beauty.
+  
+  **CUSTOMIZABLE PARAMETERS:**
+  - **Lifestyle:** [Select context: "accomplished professional", "creative artist", "wellness expert", "family matriarch", "cultural curator", "life coach"]
+  - **Setting:** [Choose environment: "sunlit garden", "art gallery", "cozy library", "elegant living room", "outdoor terrace", "cultural venue"]
+  - **Style:** [Define aesthetic: "timeless elegance", "natural sophistication", "artistic bohemian", "wellness-focused", "cultural refined", "family-centered warmth"]
+  - **Mood:** [Set atmosphere: "serene", "wise", "nurturing", "contemplative", "graceful", "experienced"]
+  
+  **CORE CHARACTERISTICS:**
+  - **Age Range:** 40-49 years old
+  - **Facial Features:**
+    - Oval face radiating composure and dignified grace
+    - Natural skin luminosity reflecting age-earned beauty
+    - Refined nose conveying peaceful presence
+    - Deep, intelligent eyes showing experience and wisdom, with gentle laugh lines
+    - Natural lip color expressing kindness and warmth
+    - Naturally shaped, elegantly maintained eyebrows
+  
+  **STYLING OPTIONS:**
+  - **Hair:** [Mature elegance: shoulder-length soft curls, elegant bob, natural waves, sophisticated updo, graceful layers, silver-touched styles]
+  - **Makeup:** Understated natural enhancement emphasizing skin's inherent beauty
+  - **Clothing:** [Sophisticated comfort: cashmere sweaters, linen dresses, silk blouses, quality knitwear, elegant scarves, natural fabrics]
+  
+  **EXPRESSION VARIETY:**
+  - Serene smile filled with compassionate wisdom
+  - Thoughtful gaze reflecting life experience and inner richness
+  - Peaceful demeanor expressing mature confidence and grace
+  
+  **TECHNICAL SPECS:**
+  - **Camera:** Nikon Z7 II with 105mm f/1.4 lens
+  - **Lighting:** Natural, soft lighting emphasizing graceful maturity
+  - **Composition:** Soft focus background with natural framing elements
+  - **Quality:** 4K, ultra-detailed, photorealistic, capturing serene sophistication and timeless beauty

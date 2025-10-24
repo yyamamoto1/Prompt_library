@@ -1,32 +1,34 @@
 prompt: |
-  Generate a photorealistic portrait of a female model in her twenties.
-  - **Age:** 20-29 years old
-  - **Style:** Modern, confident, elegant
-  - **Lighting:** Studio lighting or golden hour
-  - **Background:** Cafe, office, or stylish interior, blurred
-  - **Camera Angle:** Eye-level, headshot or half-body
-  - **Resolution:** 4K
-  - **Clothing:** Chic business casual, tailored blazer, silk blouse
-  - **Situation:** Engaged in a thoughtful conversation at a modern cafe
-  - **Face:**
-    - **Shape:** 卵型で、シャープな顎のラインと高い頬骨。
-    - **Features:**
-      - **Skin:** 滑らかで均一な肌色、健康的な輝き。
-      - **Nose:** 細く、まっすぐな鼻筋。
-      - **Eyes:** 大きく、アーモンド型で、瞳は明るい茶色。二重まぶたで、まつげは長く、マスカラで強調されている。
-      - **Lips:** 鮮やかな赤色のリップスティックを塗った、ふっくらとした唇。
-      - **Eyebrows:** 整えられたアーチ型で、色はダークブラウン。
-    - **Makeup:** 洗練されたメイクアップ、アイラインとリップが特徴的。
-  - **Hair:**
-    - **Style:** 肩までの長さのボブ、内巻きにブローされ、光沢がある。
-    - **Color:** 落ち着いたアッシュブラウン。
-    - **Texture:** 滑らかで、まとまりのある質感。
-  - **Expression:**
-    - **Emotion:** 自信に満ちた、わずかに微笑む表情。知的な好奇心を感じさせる。
-    - **Gaze:** カメラをまっすぐ見つめ、力強く、魅惑的な視線。
-  - **Camera:**
-    - **Type:** Fujifilm GFX 100S
-    - **Lens:** 110mm f/2
-    - **Aperture:** f/2.0
-  - **Composition:** Rule of thirds, leading lines from the cafe interior
-  - **Quality:** Masterpiece, ultra-detailed, photorealistic, cinematic lighting
+  Generate a photorealistic portrait of a young adult female (20-29 years old) embodying modern confidence and sophistication.
+  
+  **CUSTOMIZABLE PARAMETERS:**
+  - **Profession:** [Select role: "business professional", "creative artist", "tech specialist", "healthcare worker", "entrepreneur", "graduate student"]
+  - **Setting:** [Choose environment: "modern office", "co-working space", "art studio", "urban café", "rooftop terrace", "contemporary home"]
+  - **Style:** [Define aesthetic: "professional", "creative", "minimalist", "bohemian", "urban chic", "academic"]
+  - **Mood:** [Set atmosphere: "confident", "ambitious", "contemplative", "innovative", "sophisticated", "approachable"]
+  
+  **CORE CHARACTERISTICS:**
+  - **Age Range:** 20-29 years old
+  - **Facial Features:**
+    - Refined oval face with defined jawline and prominent cheekbones
+    - Smooth, even skin tone with healthy radiance
+    - Large, expressive almond-shaped eyes with professional makeup
+    - Straight, well-defined nose
+    - Full lips with sophisticated color choices
+    - Carefully groomed eyebrows with professional shaping
+  
+  **STYLING OPTIONS:**
+  - **Hair:** [Professional variety: sleek bob, low chignon, side-swept waves, modern pixie, long straight, textured layers]
+  - **Makeup:** Polished and contemporary (defined eyes, contoured features, statement lips)
+  - **Clothing:** [Context-appropriate: business attire, creative casual, smart casual, contemporary formal, trendy professional]
+  
+  **EXPRESSION VARIETY:**
+  - Confident smile reflecting professional competence
+  - Intelligent gaze showing focus and determination
+  - Poised demeanor balancing approachability with authority
+  
+  **TECHNICAL SPECS:**
+  - **Camera:** Fujifilm GFX 100S with 110mm f/2 lens
+  - **Lighting:** Professional studio or golden hour lighting for sophisticated appeal
+  - **Composition:** Rule of thirds with leading lines emphasizing professional environment
+  - **Quality:** 4K, ultra-detailed, photorealistic, cinematic lighting capturing contemporary femininity

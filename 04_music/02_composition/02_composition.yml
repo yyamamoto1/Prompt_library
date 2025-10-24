@@ -1,10 +1,32 @@
 prompt: |
-  Generate a musical composition based on a given mood and instrumentation.
-  - **Mood:** Triumphant, heroic, epic.
-  - **Genre:** Orchestral film score.
-  - **Instrumentation:** Full symphony orchestra (strings, brass, woodwinds, percussion).
-  - **Tempo:** Allegro (fast), with a powerful, driving rhythm.
-  - **Key:** E-flat Major.
-  - **Structure:** Introduction, A section (main theme), B section (contrasting theme), A' section (reprise), Coda.
-  - **Desired Output:** A detailed description of the composition, including main melody ideas, chord progressions for key sections, and orchestration notes.
-  - **Quality:** Emotionally impactful, memorable melodies, rich harmonies, suitable for a movie climax.
+  Create detailed musical compositions with professional arrangement and sophisticated harmonic development.
+  
+  **CUSTOMIZABLE PARAMETERS:**
+  - **Musical Style:** [Select genre: "orchestral symphonic", "jazz ensemble", "electronic ambient", "chamber classical", "folk acoustic", "experimental contemporary"]
+  - **Ensemble Size:** [Choose instrumentation: "solo piano", "string quartet", "small jazz combo", "full orchestra", "electronic setup", "mixed acoustic-electronic"]
+  - **Compositional Purpose:** [Define function: "film/TV scoring", "concert performance", "background ambient", "dance/movement", "meditation/relaxation", "experimental art music"]
+  - **Emotional Landscape:** [Set mood spectrum: "single emotion focus", "contrasting emotional journey", "gradual mood development", "complex layered feelings", "dramatic emotional shifts", "subtle atmospheric evolution"]
+  
+  **CORE CHARACTERISTICS:**
+  - **Musical Foundation:**
+    - Clear melodic themes that are memorable and developable
+    - Sophisticated harmonic progressions supporting emotional intent
+    - Rhythmic elements that drive forward motion and energy
+    - Formal structure that creates satisfying musical narrative arc
+  
+  **COMPOSITIONAL OPTIONS:**
+  - **Harmonic Language:** [Choose approach: "traditional tonal", "modern extended harmony", "modal ancient scales", "jazz sophisticated", "atonal experimental", "world music scales"]
+  - **Textural Approach:** [Select style: "melody with accompaniment", "polyphonic interwoven", "homophonic block chords", "contrapuntal layered", "minimalist repetitive", "dense orchestral"]
+  - **Formal Structure:** [Define organization: "sonata-allegro form", "theme and variations", "rondo ABACA", "through-composed", "verse-chorus song", "free-form organic"]
+  
+  **TECHNICAL ELEMENTS:**
+  - Detailed melodic and harmonic content for each musical section
+  - Specific orchestration and instrumentation choices
+  - Dynamic and tempo markings for performance interpretation
+  - Transitional passages connecting major musical sections
+  
+  **TECHNICAL SPECS:**
+  - **Output Format:** Complete compositional description ready for musical notation or performance
+  - **Technical Detail:** Specific musical elements including themes, progressions, and orchestration
+  - **Performance Considerations:** Practical instrumental writing and ensemble balance
+  - **Quality:** Emotionally impactful, melodically memorable, harmonically rich, professionally crafted musical composition

@@ -1,14 +1,32 @@
 prompt: |
-  Define testing criteria and a template for evaluating AI agent performance.
-  - **Agent Name:** [e.g., "Miyabi", "Code Assistant", "Creative Writer"]
-  - **Task to Test:** [e.g., "Generate Python code for a given problem", "Summarize a research paper", "Create a marketing slogan"]
-  - **Evaluation Criteria:**
-    - **Accuracy:** Is the output factually correct and free of errors?
-    - **Relevance:** Does the output directly address the prompt and user intent?
-    - **Completeness:** Does the output provide all necessary information or fulfill all requirements?
-    - **Coherence:** Is the output logically structured and easy to understand?
-    - **Creativity/Originality:** (If applicable) Is the output novel and imaginative?
-    - **Safety/Ethics:** Does the output adhere to safety guidelines and ethical principles?
-  - **Testing Methodology:** [e.g., "Manual review by human evaluators", "Automated unit tests", "A/B testing with real users"]
-  - **Desired Output:** A testing plan document, including a scoring rubric and a template for test cases.
-  - **Quality:** Comprehensive, objective, reproducible, provides actionable insights for improvement.
+  Develop comprehensive testing frameworks and evaluation methodologies for AI systems with rigorous quality assurance and performance validation protocols.
+
+  **CUSTOMIZABLE PARAMETERS:**
+  - **Testing Scope:** [Choose coverage: "functional testing", "performance evaluation", "safety assessment", "user experience validation", "integration testing", "stress testing"]
+  - **System Type:** [Define target: "conversational AI", "content generation", "decision support", "analysis tools", "creative systems", "technical assistants"]
+  - **Evaluation Method:** [Select approach: "automated testing", "human evaluation", "comparative analysis", "longitudinal studies", "A/B testing", "user feedback integration"]
+  - **Quality Dimensions:** [Set criteria: "accuracy/correctness", "relevance/utility", "safety/ethics", "performance/efficiency", "user satisfaction", "robustness/reliability"]
+
+  **CORE CHARACTERISTICS:**
+  - **Testing Foundation:**
+    - Systematic evaluation protocols ensuring comprehensive coverage
+    - Objective measurement criteria with quantifiable metrics
+    - Reproducible testing procedures enabling consistent assessment
+    - Multi-dimensional analysis capturing diverse quality aspects
+
+  **EVALUATION OPTIONS:**
+  - **Assessment Framework:** [Choose structure: "rubric-based scoring", "binary pass/fail", "continuous rating scales", "comparative ranking", "threshold-based classification", "multi-criteria decision analysis"]
+  - **Test Case Design:** [Define scenarios: "edge case validation", "typical use scenarios", "stress test conditions", "adversarial inputs", "cross-domain evaluation", "temporal consistency checks"]
+  - **Validation Level:** [Set rigor: "basic functionality", "comprehensive evaluation", "enterprise-grade testing", "research-quality assessment", "certification standards", "continuous monitoring"]
+
+  **QUALITY ASSURANCE:**
+  - Bias detection and fairness evaluation across diverse use cases
+  - Performance benchmarking against established standards
+  - Safety validation ensuring responsible AI operation
+  - User experience assessment measuring practical effectiveness
+
+  **TECHNICAL SPECS:**
+  - **Output Format:** Complete testing framework with implementation guidelines and evaluation templates
+  - **Testing Quality:** Rigorous, objective, comprehensive, actionable evaluation methodology
+  - **Standards Compliance:** Industry best practices meeting professional testing and quality assurance requirements
+  - **Improvement Integration:** Systematic feedback loops enabling continuous system enhancement and optimization

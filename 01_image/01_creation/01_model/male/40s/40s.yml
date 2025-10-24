@@ -1,32 +1,34 @@
 prompt: |
-  Generate a photorealistic portrait of a male model in his forties.
-  - **Age:** 40-49 years old
-  - **Style:** Experienced, distinguished, charismatic
-  - **Lighting:** Natural, warm light
-  - **Background:** Library, executive office, or scenic outdoor view, blurred
-  - **Camera Angle:** Eye-level, headshot
-  - **Resolution:** 4K
-  - **Clothing:** Bespoke suit, open-collar shirt, elegant tie
-  - **Situation:** Pondering a complex problem in a study, or enjoying a moment of reflection outdoors
-  - **Face:**
-    - **Shape:** わずかに角ばった顎のラインを持つ卵型。
-    - **Features:**
-      - **Skin:** 経験を重ねた深みのある肌、わずかなシワが刻まれている。
-      - **Nose:** 端正で、力強い印象を与える鼻筋。
-      - **Eyes:** 深く、知性を感じさせる瞳。目元には自信が宿る。
-      - **Lips:** 引き締まり、意志の強さを感じさせる口元。
-      - **Eyebrows:** 整えられ、力強い印象。
-    - **Makeup:** なし、ナチュラル。
-  - **Hair:**
-    - **Style:** 短く、サイドは刈り上げ、トップは少し長めで動きがある。
-    - **Color:** ダークブラウン。
-    - **Texture:** やや硬く、清潔感のある質感。
-  - **Expression:**
-    - **Emotion:** 穏やかで、自信に満ちた微笑み。知的な好奇心を感じさせる。
-    - **Gaze:** カメラをまっすぐ見つめ、力強く、魅惑的な視線。
-  - **Camera:**
-    - **Type:** Leica SL2
-    - **Lens:** 75mm f/2
-    - **Aperture:** f/2.8
-  - **Composition:** Balanced, elegant framing, soft background blur
-  - **Quality:** Masterpiece, ultra-detailed, photorealistic, timeless elegance
+  Generate a photorealistic portrait of an experienced male (40-49 years old) embodying distinguished charisma and mature wisdom.
+  
+  **CUSTOMIZABLE PARAMETERS:**
+  - **Life Stage:** [Select context: "seasoned executive", "established artist", "mentor figure", "industry expert", "accomplished professional", "wise leader"]
+  - **Setting:** [Choose environment: "private study", "executive library", "scenic outdoor", "luxury venue", "cultural space", "contemplative setting"]
+  - **Style:** [Define aesthetic: "distinguished elegance", "artistic sophistication", "executive presence", "intellectual depth", "refined casual", "timeless class"]
+  - **Mood:** [Set atmosphere: "contemplative", "authoritative", "wise", "charismatic", "accomplished", "reflective"]
+  
+  **CORE CHARACTERISTICS:**
+  - **Age Range:** 40-49 years old
+  - **Facial Features:**
+    - Mature oval face with slightly angular jawline showing seasoned masculinity
+    - Rich, experienced skin with subtle character lines telling life stories
+    - Distinguished straight nose projecting strength and authority
+    - Deep, intelligent eyes radiating confidence and accumulated wisdom
+    - Firm lips expressing determination and thoughtful consideration
+    - Well-groomed eyebrows conveying powerful, refined presence
+  
+  **STYLING OPTIONS:**
+  - **Hair:** [Mature variety: distinguished fade, salt-pepper styling, classic cut, executive grooming, textured sophistication, refined styling]
+  - **Makeup:** None - natural masculine maturity
+  - **Clothing:** [Sophisticated choices: bespoke suits, open-collar shirts, elegant ties, luxury materials, refined accessories, distinguished styling]
+  
+  **EXPRESSION VARIETY:**
+  - Serene, confident smile reflecting intellectual curiosity and life experience
+  - Direct, powerful gaze that's compelling and thoughtfully magnetic
+  - Composed demeanor expressing mature confidence and philosophical depth
+  
+  **TECHNICAL SPECS:**
+  - **Camera:** Leica SL2 with 75mm f/2 lens
+  - **Lighting:** Natural, warm lighting emphasizing distinguished maturity
+  - **Composition:** Balanced, elegant framing with sophisticated background blur
+  - **Quality:** 4K, ultra-detailed, photorealistic, capturing timeless masculine elegance

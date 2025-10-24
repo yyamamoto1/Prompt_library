@@ -1,13 +1,32 @@
 prompt: |
-  Describe a comic panel for a specific scene.
-  - **Comic Title:** "Aethelgard Chronicles"
-  - **Scene:** Kaito confronts a group of steampunk guards in a narrow alleyway.
-  - **Panel Number:** 1
-  - **Panel Layout:** Full-page splash panel, dynamic action.
-  - **Characters:** Kaito (center, mid-air, throwing smoke bomb), 3 steampunk guards (left, right, foreground, surprised/confused expressions).
-  - **Background:** Dark, grimy alleyway, steam vents, flickering gas lamps.
-  - **Action:** Kaito leaps from a rooftop, smoke bomb already released, guards reacting in slow motion.
-  - **Perspective:** Slightly low angle, looking up at Kaito, emphasizing his agility.
-  - **Art Style:** Shonen manga, detailed, high contrast.
-  - **Desired Output:** A detailed description of the panel, suitable for an artist to draw from.
-  - **Quality:** Visually impactful, conveys motion, clear character expressions.
+  Create detailed comic panel descriptions with clear visual direction for artistic execution and compelling storytelling.
+  
+  **CUSTOMIZABLE PARAMETERS:**
+  - **Panel Type:** [Select format: "splash page dramatic", "standard rectangular", "irregular shaped", "borderless bleed", "multi-panel sequence", "close-up detail"]
+  - **Scene Function:** [Choose purpose: "action sequence", "dialogue exchange", "emotional moment", "establishing shot", "transition beat", "climactic reveal"]
+  - **Artistic Focus:** [Define emphasis: "character expressions", "dynamic movement", "environmental detail", "atmospheric mood", "symbolic imagery", "technical precision"]
+  - **Visual Style:** [Set approach: "manga detailed", "western comic bold", "indie artistic", "cartoon simplified", "realistic rendered", "experimental mixed"]
+  
+  **CORE CHARACTERISTICS:**
+  - **Panel Composition:**
+    - Clear focal point directing reader attention and visual flow
+    - Appropriate perspective and camera angle for story moment
+    - Balanced composition with effective use of negative space
+    - Strong visual storytelling that advances narrative without words
+  
+  **VISUAL OPTIONS:**
+  - **Character Staging:** [Choose positioning: "heroic prominence", "intimate close-up", "ensemble interaction", "environmental integration", "action dynamics", "emotional isolation"]
+  - **Background Treatment:** [Select detail: "fully rendered environment", "simplified suggestion", "atmospheric mood", "symbolic abstraction", "photographic reference", "minimalist design"]
+  - **Lighting/Mood:** [Define atmosphere: "dramatic chiaroscuro", "bright optimistic", "moody atmospheric", "flat even lighting", "supernatural glow", "realistic natural"]
+  
+  **TECHNICAL DIRECTION:**
+  - Specific artistic guidance for consistent visual execution
+  - Clear character positioning and expression direction
+  - Environmental details supporting story and mood
+  - Panel-to-panel flow consideration for page layout
+  
+  **TECHNICAL SPECS:**
+  - **Output Format:** Detailed panel description ready for artist execution
+  - **Visual Clarity:** Specific direction for character poses, expressions, and environmental details
+  - **Narrative Function:** Panel purpose clearly defined within story sequence
+  - **Quality:** Visually impactful, motion-conveying, expression-clear, artistically directed panel descriptions

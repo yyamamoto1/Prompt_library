@@ -1,8 +1,32 @@
 prompt: |
-  Generate episode ideas for a comic series based on existing characters and world.
-  - **Comic Title:** "Aethelgard Chronicles"
-  - **Main Characters:** Kaito (Shadow Thief), Elara (Forest Guardian), Professor Eldrin (Steampunk Inventor).
-  - **Current Story Arc:** The heroes are searching for a lost artifact that can stabilize the city's core, which is the heart of the colossal beast.
-  - **Desired Output:** 3 distinct episode ideas, each with a brief synopsis, key plot points, and potential character development moments.
-  - **Tone:** Adventure, mystery, lighthearted moments mixed with serious stakes.
-  - **Quality:** Engaging, advances the plot, utilizes character strengths, introduces new challenges.
+  Develop engaging comic episode concepts that advance story arcs while showcasing character development and world exploration.
+  
+  **CUSTOMIZABLE PARAMETERS:**
+  - **Series Type:** [Select format: "ongoing adventure series", "episodic slice-of-life", "mystery investigation", "action battle manga", "romantic comedy", "supernatural thriller"]
+  - **Episode Function:** [Choose purpose: "plot advancement", "character spotlight", "world exploration", "relationship development", "comic relief", "dramatic climax"]
+  - **Story Arc Position:** [Define placement: "arc beginning setup", "middle development", "climactic confrontation", "resolution aftermath", "transition bridge", "standalone adventure"]
+  - **Narrative Focus:** [Set emphasis: "action sequences", "dialogue character moments", "mystery solving", "emotional drama", "comedic situations", "world-building reveal"]
+  
+  **CORE CHARACTERISTICS:**
+  - **Episode Structure:**
+    - Clear beginning hook that draws readers into the story
+    - Meaningful character interactions and development opportunities
+    - Progressive plot advancement supporting larger narrative arc
+    - Satisfying conclusion with appropriate cliffhanger or resolution
+  
+  **DEVELOPMENT OPTIONS:**
+  - **Episode Type:** [Choose style: "action-packed adventure", "character introspection", "ensemble cast focus", "antagonist spotlight", "world lore exploration", "relationship dynamics"]
+  - **Conflict Level:** [Select intensity: "low-stakes personal", "moderate challenge", "high-stakes danger", "emotional confrontation", "comedic misunderstanding", "philosophical dilemma"]
+  - **Character Growth:** [Define development: "skill advancement", "relationship deepening", "personal revelation", "moral challenge", "past revelation", "future goal setting"]
+  
+  **CREATIVE DELIVERABLES:**
+  - Multiple episode concepts with distinct approaches and themes
+  - Synopsis outlining key story beats and character moments
+  - Plot progression that serves overall series narrative
+  - Character development opportunities and relationship dynamics
+  
+  **TECHNICAL SPECS:**
+  - **Output Format:** Episode proposals ready for comic script development
+  - **Story Structure:** Beginning, middle, end with appropriate pacing for comic medium
+  - **Character Integration:** Meaningful roles for main cast with growth opportunities
+  - **Quality:** Engaging, plot-advancing, character-utilizing, creatively challenging episode concepts

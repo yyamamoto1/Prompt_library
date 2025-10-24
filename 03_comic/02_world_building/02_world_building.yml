@@ -1,13 +1,32 @@
 prompt: |
-  Develop a detailed world for a comic series.
-  - **Comic Title:** "Aethelgard Chronicles"
-  - **Genre:** High Fantasy, Steampunk.
-  - **Core Concept:** A world where ancient magic clashes with burgeoning steampunk technology, set in a sprawling city built on the back of a colossal, slumbering beast.
-  - **Key Elements to Develop:**
-    - **Geography:** Major cities, unique landmarks, dangerous wilderness areas.
-    - **Cultures/Societies:** Dominant races, social structures, political systems, daily life.
-    - **Magic System:** Rules, limitations, types of magic, how it interacts with technology.
-    - **Technology:** Key steampunk inventions, their impact on society, limitations.
-    - **Flora/Fauna:** Unique creatures and plants of Aethelgard.
-  - **Desired Output:** A 1000-word world-building document, including concept art descriptions for key locations and creatures.
-  - **Quality:** Original, internally consistent, rich in detail, inspiring for storytelling.
+  Create comprehensive fictional worlds with rich lore, consistent systems, and compelling narrative potential for comic storytelling.
+  
+  **CUSTOMIZABLE PARAMETERS:**
+  - **Genre Foundation:** [Select base: "high fantasy epic", "urban modern fantasy", "sci-fi space opera", "steampunk alternate history", "post-apocalyptic survival", "slice-of-life contemporary"]
+  - **World Scale:** [Define scope: "single city focus", "nation-spanning", "continental epic", "planetary civilization", "multi-dimensional", "intimate community"]
+  - **Development Depth:** [Choose detail: "overview concept", "detailed bible", "specific location focus", "culture deep-dive", "historical timeline", "system mechanics"]
+  - **Narrative Function:** [Set purpose: "adventure backdrop", "character conflict source", "mystery investigation", "social commentary", "romance setting", "action playground"]
+  
+  **CORE CHARACTERISTICS:**
+  - **World Foundations:**
+    - Internally consistent rules and systems that support storytelling
+    - Unique elements that distinguish from existing fictional worlds
+    - Clear conflicts and tensions that drive narrative possibilities
+    - Rich cultural details that inform character backgrounds and motivations
+  
+  **DEVELOPMENT OPTIONS:**
+  - **World Elements:** [Choose focus: "geography and locations", "cultures and societies", "magic/technology systems", "political structures", "historical events", "daily life details"]
+  - **Visual Style:** [Select approach: "realistic grounded", "fantastical imaginative", "technologically advanced", "historically inspired", "culturally diverse", "artistically stylized"]
+  - **Complexity Level:** [Define systems: "simple accessible", "moderately detailed", "extensively complex", "scientifically grounded", "magically mysterious", "socially nuanced"]
+  
+  **WORLD-BUILDING DELIVERABLES:**
+  - Comprehensive world guide with key systems and locations
+  - Visual concept descriptions for important settings
+  - Cultural and social framework for character development
+  - Conflict sources and story potential identification
+  
+  **TECHNICAL SPECS:**
+  - **Documentation:** Organized world bible with clear sections and cross-references
+  - **Visual References:** Detailed descriptions enabling consistent artistic representation
+  - **Narrative Integration:** Story-relevant details that enhance comic plotting and character development
+  - **Quality:** Original, internally consistent, richly detailed, narratively inspiring world-building content

@@ -1,8 +1,32 @@
 prompt: |
-  Perform an image editing task.
-  - **Original Image:** [URL or description of the original image]
-  - **Desired Changes:** Remove the background and replace it with a solid white color. Enhance the subject's eyes to be more vibrant.
-  - **Subject:** A portrait of a person.
-  - **Tools/Techniques:** Advanced masking, color correction, dodge and burn.
-  - **Output Format:** PNG with transparency (for background removal).
-  - **Quality:** Seamless integration, natural look, high resolution.
+  Perform professional image editing and enhancement with precise technical execution.
+  
+  **CUSTOMIZABLE PARAMETERS:**
+  - **Editing Category:** [Select task: "background removal/replacement", "color correction/grading", "object manipulation", "skin retouching", "composition blending", "artistic effects"]
+  - **Image Type:** [Choose source: "portrait photography", "product images", "landscape photos", "architectural shots", "event photography", "stock imagery"]
+  - **Editing Complexity:** [Define scope: "basic adjustments", "selective enhancements", "composite creation", "major reconstruction", "artistic transformation", "commercial polish"]
+  - **Output Purpose:** [Set destination: "social media", "print marketing", "web publishing", "e-commerce", "professional portfolio", "artistic exhibition"]
+  
+  **CORE CHARACTERISTICS:**
+  - **Technical Excellence:**
+    - Precise selection and masking techniques
+    - Seamless color matching and blending
+    - Natural lighting consistency and shadow integration
+    - High-quality resolution maintenance throughout process
+  
+  **STYLING OPTIONS:**
+  - **Enhancement Style:** [Choose approach: "natural realistic", "commercial polished", "artistic stylized", "vintage nostalgic", "modern cinematic", "dramatic editorial"]
+  - **Color Treatment:** [Select method: "true-to-life correction", "creative color grading", "selective color emphasis", "monochrome conversion", "split-toning effects", "HDR processing"]
+  - **Detail Level:** [Define precision: "global adjustments", "selective area focus", "detailed pixel work", "multiple layer composite", "extensive retouching", "artistic interpretation"]
+  
+  **TECHNICAL REQUIREMENTS:**
+  - Professional-grade editing techniques and workflows
+  - Non-destructive editing practices with layer management
+  - Appropriate format selection for intended use
+  - Quality control for print and digital distribution
+  
+  **TECHNICAL SPECS:**
+  - **Format:** Optimized output for intended use (PNG, JPEG, TIFF, PSD)
+  - **Resolution:** Maintained or enhanced from original with appropriate sizing
+  - **Color Space:** Proper color profile management for accurate reproduction
+  - **Quality:** Seamless professional results, natural appearance, commercial-ready standards

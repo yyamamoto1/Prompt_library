@@ -1,12 +1,32 @@
 prompt: |
-  Analyze a movie script or concept for specific elements.
-  - **Movie Title/Concept:** "The Dream Weaver" (or provide the script/concept text directly).
-  - **Analysis Focus:** Character arcs of Dr. Aris Thorne and Elara Vance.
-  - **Key Questions:**
-    - How do their motivations evolve throughout the story?
-    - What are their strengths and weaknesses?
-    - Are their arcs compelling and believable?
-    - What are the turning points for each character?
-  - **Desired Output:** A detailed character analysis report (500-700 words).
-  - **Tone:** Objective, critical, insightful.
-  - **Quality:** Thorough, well-supported with examples, provides actionable feedback.
+  Provide comprehensive analysis of film content with professional industry insight and constructive evaluation.
+  
+  **CUSTOMIZABLE PARAMETERS:**
+  - **Analysis Type:** [Select focus: "script structure analysis", "character development study", "thematic exploration", "genre convention review", "market viability assessment", "production consideration"]
+  - **Content Stage:** [Choose material: "concept/treatment", "first draft script", "revised screenplay", "completed film", "comparative study", "franchise development"]
+  - **Analysis Depth:** [Define scope: "overview assessment", "detailed breakdown", "specific element focus", "comprehensive evaluation", "comparative analysis", "development recommendations"]
+  - **Professional Context:** [Set perspective: "development executive", "script reader coverage", "academic study", "creative consultation", "production planning", "marketing assessment"]
+  
+  **CORE CHARACTERISTICS:**
+  - **Analytical Framework:**
+    - Structured evaluation using established industry standards
+    - Evidence-based observations with specific examples
+    - Balanced assessment of strengths and areas for improvement
+    - Constructive feedback with actionable development suggestions
+  
+  **EVALUATION OPTIONS:**
+  - **Story Elements:** [Choose focus: "three-act structure", "character journey mapping", "dialogue effectiveness", "pacing and rhythm", "conflict escalation", "resolution satisfaction"]
+  - **Technical Craft:** [Select aspects: "scene construction", "visual storytelling", "genre adherence", "tone consistency", "theme integration", "commercial appeal"]
+  - **Industry Standards:** [Apply criteria: "format compliance", "budget considerations", "casting potential", "marketing hooks", "audience targeting", "franchise possibilities"]
+  
+  **ANALYTICAL APPROACH:**
+  - Objective professional evaluation with critical insight
+  - Industry-relevant assessment criteria and benchmarks
+  - Constructive development suggestions for improvement
+  - Contextual understanding of market and audience factors
+  
+  **TECHNICAL SPECS:**
+  - **Report Format:** Professional coverage-style analysis with clear section organization
+  - **Length:** Appropriate depth for analysis scope (500-2000 words as needed)
+  - **Tone:** Objective, insightful, constructive, industry-professional
+  - **Quality:** Thorough evaluation, well-supported conclusions, actionable feedback, development-focused recommendations

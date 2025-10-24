@@ -1,32 +1,34 @@
 prompt: |
-  Generate a photorealistic portrait of a female model in her fifties.
-  - **Age:** 50-59 years old
-  - **Style:** Distinguished, elegant, confident
-  - **Lighting:** Soft, flattering light
-  - **Background:** Classic interior, library, or scenic outdoor view, blurred
-  - **Camera Angle:** Eye-level, headshot
-  - **Resolution:** 4K
-  - **Clothing:** Luxurious, timeless pieces, such as a silk blouse with a pearl necklace, or a tailored wool jacket
-  - **Situation:** Attending a classical music concert, or enjoying a glass of wine on a balcony overlooking a city
-  - **Face:**
-    - **Shape:** 卵型で、落ち着きと威厳を感じさせる輪郭。
-    - **Features:**
-      - **Skin:** 経験を重ねた深みのある肌、自然なシワが刻まれている。
-      - **Nose:** 品格のある、まっすぐな鼻筋。
-      - **Eyes:** 穏やかで、深い知性を感じさせる瞳。目元には優しげなシワ。
-      - **Lips:** 自然な色合いで、上品な微笑みを浮かべる口元。
-      - **Eyebrows:** 丁寧に整えられ、顔立ちを引き立てる。
-    - **Makeup:** 控えめでありながら、顔立ちを美しく見せる上品なメイク。
-  - **Hair:**
-    - **Style:** 肩にかかる程度の長さで、ゆるやかなカールがかかったエレガントなスタイル。
-    - **Color:** 自然なグレイヘアが混じる、落ち着いたシルバーブラウン。
-    - **Texture:** 柔らかく、豊かな質感。
-  - **Expression:**
-    - **Emotion:** 穏やかで、自信に満ちた微笑み。内面の強さと優しさを感じさせる。
-    - **Gaze:** 相手を包み込むような、温かく優しい視線。
-  - **Camera:**
-    - **Type:** Leica SL2
-    - **Lens:** 75mm f/2
-    - **Aperture:** f/2.8
-  - **Composition:** Balanced, elegant framing, soft background blur
-  - **Quality:** Masterpiece, ultra-detailed, photorealistic, timeless elegance
+  Generate a photorealistic portrait of a distinguished female (50-59 years old) embodying timeless elegance and confident sophistication.
+  
+  **CUSTOMIZABLE PARAMETERS:**
+  - **Role:** [Select context: "cultural leader", "senior executive", "accomplished artist", "mentor figure", "philanthropist", "wisdom keeper"]
+  - **Setting:** [Choose environment: "classic library", "luxury hotel lobby", "art gallery opening", "cultural venue", "elegant home", "scenic balcony"]
+  - **Style:** [Define aesthetic: "timeless luxury", "cultural sophistication", "artistic elegance", "executive prestige", "classical refinement", "heritage chic"]
+  - **Mood:** [Set atmosphere: "distinguished", "wise", "confident", "nurturing", "accomplished", "inspiring"]
+  
+  **CORE CHARACTERISTICS:**
+  - **Age Range:** 50-59 years old
+  - **Facial Features:**
+    - Oval face radiating composure and dignified presence
+    - Rich, experienced skin with natural depth and character lines
+    - Dignified straight nose conveying grace and refinement
+    - Peaceful, deeply intelligent eyes with gentle wisdom lines
+    - Natural lip color with elegant, knowing smile
+    - Meticulously groomed eyebrows enhancing facial structure
+  
+  **STYLING OPTIONS:**
+  - **Hair:** [Distinguished variety: shoulder-length elegant curls, sophisticated silver-brown, graceful updo, classic bob, natural silver highlights, refined waves]
+  - **Makeup:** Understated elegance enhancing natural beauty with refined sophistication
+  - **Clothing:** [Luxury timeless: silk blouses with pearls, tailored wool jackets, cashmere wraps, designer scarves, classic jewelry, heritage pieces]
+  
+  **EXPRESSION VARIETY:**
+  - Serene, confident smile reflecting inner strength and kindness
+  - Warm, embracing gaze that offers comfort and wisdom
+  - Poised demeanor expressing life mastery and graceful authority
+  
+  **TECHNICAL SPECS:**
+  - **Camera:** Leica SL2 with 75mm f/2 lens
+  - **Lighting:** Soft, flattering illumination highlighting distinguished beauty
+  - **Composition:** Balanced, elegant framing with sophisticated background blur
+  - **Quality:** 4K, ultra-detailed, photorealistic, capturing timeless elegance and distinguished presence

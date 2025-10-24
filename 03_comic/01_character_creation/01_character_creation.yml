@@ -1,12 +1,32 @@
 prompt: |
-  Create a new comic character based on the provided details.
-  - **Character Name:** Kaito, the Shadow Thief
-  - **Gender:** Male
-  - **Age:** 17
-  - **Personality:** Mischievous, agile, secretly kind-hearted, a bit of a lone wolf.
-  - **Appearance:** Slim build, spiky black hair, piercing blue eyes, wears a dark hooded cloak with glowing green accents.
-  - **Powers/Abilities:** Can manipulate shadows, move silently, and pick any lock.
-  - **Backstory (brief):** Orphaned at a young age, he uses his skills to steal from the corrupt rich to help the poor in his district.
-  - **Art Style:** Shonen manga, dynamic, expressive.
-  - **Desired Output:** Character design sheet (front, back, side views), 3 key expressions, and a brief character profile.
-  - **Quality:** Unique, memorable, visually appealing, fits the genre.
+  Develop compelling comic characters with distinctive visual design and rich narrative potential.
+  
+  **CUSTOMIZABLE PARAMETERS:**
+  - **Comic Genre:** [Select style: "shonen action", "shoujo romance", "seinen mature", "superhero western", "indie slice-of-life", "webcomic experimental"]
+  - **Character Role:** [Define function: "protagonist hero", "antagonist villain", "supporting ally", "comic relief", "mentor figure", "love interest"]
+  - **Character Archetype:** [Choose foundation: "reluctant hero", "reformed villain", "mysterious mentor", "plucky sidekick", "tragic anti-hero", "wise elder"]
+  - **Visual Complexity:** [Set detail: "simple iconic design", "detailed realistic", "stylized cartoon", "anime-inspired", "western comic book", "experimental artistic"]
+  
+  **CORE CHARACTERISTICS:**
+  - **Character Foundation:**
+    - Distinctive visual silhouette and recognizable design elements
+    - Clear personality traits that drive story conflict and growth
+    - Unique abilities or skills that serve narrative function
+    - Compelling backstory that explains motivations and goals
+  
+  **DESIGN OPTIONS:**
+  - **Art Style:** [Choose aesthetic: "manga black-white", "full-color superhero", "watercolor indie", "digital anime", "traditional ink", "mixed media collage"]
+  - **Design Elements:** [Select features: "costume/clothing focus", "supernatural abilities", "technological gadgets", "cultural influences", "animal companions", "symbolic accessories"]
+  - **Expression Range:** [Define emotions: "heroic determination", "comedic exaggeration", "dramatic intensity", "subtle nuance", "action dynamics", "romantic charm"]
+  
+  **DEVELOPMENT DELIVERABLES:**
+  - Complete character design sheets with multiple angles
+  - Emotional expression studies and key poses
+  - Character profile with personality and background
+  - Visual references for consistent artistic representation
+  
+  **TECHNICAL SPECS:**
+  - **Output Format:** Professional character sheets ready for comic production
+  - **Design Views:** Multiple angles (front, back, side, three-quarter) with detail studies
+  - **Style Guide:** Consistent visual language for ongoing series development
+  - **Quality:** Unique, memorable, genre-appropriate, production-ready character designs
