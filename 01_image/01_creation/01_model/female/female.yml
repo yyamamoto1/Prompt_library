@@ -1,8 +1,76 @@
 prompt: |
-  Generate a realistic portrait of a female model.
-  - **Style:** Photorealistic, high detail
-  - **Lighting:** Soft, natural light
-  - **Background:** Simple, blurred background
-  - **Expression:** Neutral or slightly smiling
-  - **Camera Angle:** Eye-level, headshot
-  - **Resolution:** 4K
+  Generate a photorealistic portrait of a female model with comprehensive customization options for diverse use cases.
+
+  **CUSTOMIZABLE PARAMETERS:**
+  - **Age Range:** [Specify: "teenage (16-19)", "young adult (20-29)", "adult (30-39)", "mature (40-49)", "senior (50-59)", "elder (60+)"]
+  - **Ethnicity:** [Select: "East Asian", "Southeast Asian", "South Asian", "Caucasian", "African", "Hispanic/Latino", "Middle Eastern", "Mixed heritage"]
+  - **Profession:** [Choose role: "business professional", "creative artist", "healthcare worker", "student", "entrepreneur", "athlete", "academic", "service industry"]
+  - **Setting:** [Define environment: "professional office", "outdoor natural", "urban cityscape", "home interior", "studio backdrop", "cafe/restaurant", "artistic space"]
+  - **Style:** [Select aesthetic: "professional", "casual", "elegant", "sporty", "artistic", "minimalist", "trendy", "classic"]
+  - **Mood:** [Set atmosphere: "confident", "approachable", "sophisticated", "energetic", "contemplative", "joyful", "serious", "relaxed"]
+
+  **CORE FACIAL CHARACTERISTICS:**
+  - **Face Structure:**
+    - Balanced oval or heart-shaped face with harmonious proportions
+    - Natural skin tone with healthy complexion and subtle texture
+    - High cheekbones providing dimensional interest
+    - Well-defined jawline appropriate to age range
+
+  - **Eyes:**
+    - Expressive almond or round-shaped eyes with natural depth
+    - Clear, bright irises with realistic light reflection
+    - Natural eyelashes with appropriate length and volume
+    - Eyebrows shaped to complement face structure and style
+
+  - **Nose & Mouth:**
+    - Proportionate nose shape fitting overall facial harmony
+    - Natural lips with appropriate fullness and color
+    - Authentic skin texture showing realistic detail
+
+  **STYLING VARIATIONS:**
+  - **Hair:** [Adaptable options: long flowing, shoulder-length bob, short pixie, updo/bun, braided styles, natural waves, straight sleek, curly textured] - Color and style should match chosen ethnicity and age
+  - **Makeup:** [Range: none/natural, light everyday, polished professional, glamorous evening, artistic creative] - Age and context appropriate
+  - **Clothing:** [Context-based: business attire, casual wear, formal dress, athletic gear, creative fashion, cultural traditional, minimalist modern]
+  - **Accessories:** [Optional: glasses, jewelry, headwear, scarves] - Style-appropriate selection
+
+  **EXPRESSION & POSE OPTIONS:**
+  - **Facial Expression:** Natural smile, confident gaze, thoughtful look, joyful laugh, serious determination, gentle warmth, professional poise
+  - **Head Position:** Straight-on, slight tilt, three-quarter turn, profile angle, looking up/down
+  - **Body Language:** Relaxed posture, confident stance, approachable demeanor, dynamic movement, elegant composure
+
+  **TECHNICAL SPECIFICATIONS:**
+  - **Camera Setup:**
+    - Body: Canon EOS R5, Sony A7R IV, or Fujifilm GFX 100S
+    - Lens: 85mm f/1.4 or 50mm f/1.2 portrait lens
+    - Aperture: f/1.8-f/2.8 for beautiful bokeh and subject isolation
+
+  - **Lighting Design:**
+    - Primary: Soft, directional light for dimensional modeling
+    - Style options: Natural window light, studio Rembrandt, butterfly, soft diffused, golden hour outdoor
+    - Quality: Soft shadows, gentle highlights, natural skin tone rendering
+
+  - **Composition:**
+    - Framing: Rule of thirds placement for visual interest
+    - Background: Complementary but non-distracting bokeh or contextual blur
+    - Depth: Shallow depth of field isolating subject
+    - Space: Appropriate negative space for balance
+
+  - **Image Quality:**
+    - Resolution: 4K minimum (3840 × 2160) or higher
+    - Detail Level: Ultra-detailed, photorealistic rendering
+    - Color Grading: Natural, accurate skin tones with subtle enhancement
+    - Sharpness: Critical focus on eyes, with gradual falloff
+    - Texture: Realistic skin texture, hair detail, fabric rendering
+
+  **CONTEXTUAL CONSIDERATIONS:**
+  - Ensure age-appropriate styling and makeup choices
+  - Maintain cultural sensitivity and authentic representation
+  - Match clothing and setting to specified profession/context
+  - Create natural, authentic expressions avoiding overly posed appearance
+  - Consider lighting and color palette harmony with subject characteristics
+
+  **OUTPUT SPECIFICATIONS:**
+  - Masterpiece quality, ultra-detailed, photorealistic
+  - Cinematic lighting with professional polish
+  - Natural and authentic representation
+  - Versatile for commercial, editorial, or artistic applications

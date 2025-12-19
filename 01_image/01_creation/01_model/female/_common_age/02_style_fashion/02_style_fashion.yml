@@ -1,28 +1,167 @@
 prompt: |
-  Generate a photorealistic portrait of a female model showcasing a specific fashion style.
-  - **Fashion Style:** Bohemian chic
-  - **Clothing:** Flowy maxi dress, wide-brimmed hat, layered jewelry
-  - **Hair:** Long, wavy, natural
-  - **Background:** Sunny outdoor setting, perhaps a field or beach, blurred
-  - **Lighting:** Soft, warm sunlight
-  - **Expression:** Relaxed, dreamy
-  - **Resolution:** 4K
-  - **Face:**
-    - **Shape:** 卵型で、柔らかい輪郭。
-    - **Features:**
-      - **Skin:** 自然な艶があり、健康的な肌。
-      - **Nose:** 小さく、可愛らしい鼻。
-      - **Eyes:** 大きく、優しい瞳。
-      - **Lips:** 自然な色合いで、ふっくらとした唇。
-      - **Eyebrows:** 自然な形。
-    - **Makeup:** Minimal, natural look.
-  - **Hair:**
-    - **Style:** 胸元までの長さで、自然なビーチウェーブがかかっている。
-    - **Color:** 太陽の光でハイライトが入ったハニーブロンド。
-    - **Texture:** 柔らかく、光沢があり、風になびくような質感。
-  - **Camera:**
-    - **Type:** Canon EOS R5
-    - **Lens:** 85mm f/1.4
-    - **Aperture:** f/1.8
-  - **Composition:** Soft focus background, natural framing with foliage
-  - **Quality:** Masterpiece, ultra-detailed, photorealistic, serene atmosphere
+  Generate a photorealistic portrait of a female model showcasing a specific fashion style aesthetic with comprehensive styling details.
+
+  **FASHION STYLE CATEGORIES:**
+  [Select one and customize specific elements]
+
+  **1. BOHEMIAN CHIC / FREE-SPIRITED**
+  - **Aesthetic:** Relaxed, artistic, nature-inspired, layered textures
+  - **Key Clothing:**
+    - Flowing maxi dresses with ethnic prints or solid earth tones
+    - Crochet or knit cardigans, fringe details
+    - Wide-brimmed felt or straw hats
+    - Suede or leather accessories, woven belts
+  - **Jewelry:** Layered necklaces, stacked bracelets, turquoise/amber stones, feather earrings
+  - **Footwear:** Leather sandals, ankle boots, bare feet (outdoor setting)
+  - **Hair:** Long, loose beach waves, natural texture, braided accents, flower crown optional
+  - **Makeup:** Minimal, sun-kissed glow, nude lips, natural bronze
+  - **Setting:** Sunny field, beach, desert landscape, music festival, outdoor market
+  - **Mood:** Relaxed, dreamy, carefree, artistic
+
+  **2. BUSINESS PROFESSIONAL / POWER EXECUTIVE**
+  - **Aesthetic:** Polished, structured, authoritative, sophisticated
+  - **Key Clothing:**
+    - Tailored blazer (neutral colors: black, navy, gray, camel)
+    - Crisp button-down shirts or silk blouses
+    - Pencil skirts or tailored trousers
+    - Sheath dresses with clean lines
+  - **Jewelry:** Minimalist gold or silver, small hoops or studs, classic watch
+  - **Footwear:** Pointed-toe pumps, structured heels, polished leather
+  - **Hair:** Sleek low bun, polished bob, professional blowout, neat side part
+  - **Makeup:** Polished professional - subtle eyes, defined brows, sophisticated lip
+  - **Setting:** Corporate office, boardroom, city street, modern architecture
+  - **Mood:** Confident, authoritative, composed, powerful
+
+  **3. CASUAL STREET STYLE / URBAN CONTEMPORARY**
+  - **Aesthetic:** Trendy, effortless, youthful, mix-and-match
+  - **Key Clothing:**
+    - Oversized hoodies or graphic tees
+    - High-waisted jeans or cargo pants
+    - Leather or denim jackets
+    - Sneakers culture staples, athleisure pieces
+  - **Jewelry:** Minimal chains, hoop earrings, layered necklaces, casual watches
+  - **Footwear:** White sneakers, chunky boots, platform shoes
+  - **Hair:** Messy bun, slicked-back ponytail, natural texture, trendy colors
+  - **Makeup:** Fresh minimal or bold lips, winged liner, dewy skin
+  - **Setting:** Urban street, coffee shop, skate park, city backdrop
+  - **Mood:** Cool, confident, relaxed, trendy
+
+  **4. ELEGANT EVENING / SOPHISTICATED GLAMOUR**
+  - **Aesthetic:** Luxurious, refined, dramatic, timeless
+  - **Key Clothing:**
+    - Floor-length gowns or cocktail dresses
+    - Silk, satin, velvet luxe fabrics
+    - Fitted silhouettes or dramatic flowing designs
+    - Embellished details, sequins, lace
+  - **Jewelry:** Statement pieces - chandelier earrings, diamond necklaces, cocktail rings
+  - **Footwear:** Strappy heels, jeweled sandals, classic pumps
+  - **Hair:** Elegant updo, Hollywood waves, polished sleek styling
+  - **Makeup:** Dramatic - smokey eyes, red lips, contoured features, highlighter glow
+  - **Setting:** Gala venue, luxury hotel, theater, upscale restaurant
+  - **Mood:** Sophisticated, dramatic, glamorous, confident
+
+  **5. ATHLEISURE / ACTIVE LIFESTYLE**
+  - **Aesthetic:** Functional, modern, health-conscious, dynamic
+  - **Key Clothing:**
+    - Form-fitting leggings or yoga pants
+    - Sports bras, crop tops, tank tops
+    - Zip-up jackets, windbreakers
+    - Technical fabrics, breathable materials
+  - **Jewelry:** Minimal - small studs, fitness tracker, simple necklace
+  - **Footwear:** Running shoes, training sneakers, athletic slides
+  - **Hair:** High ponytail, sporty braid, athletic headband, natural texture
+  - **Makeup:** Minimal or none, natural glow, lip balm, fresh-faced
+  - **Setting:** Gym, yoga studio, outdoor trail, park, urban fitness space
+  - **Mood:** Energetic, healthy, determined, active
+
+  **6. ROMANTIC FEMININE / SOFT ELEGANCE**
+  - **Aesthetic:** Delicate, graceful, vintage-inspired, ultra-feminine
+  - **Key Clothing:**
+    - Floral print dresses, lace details
+    - Soft pastel colors - blush, lavender, mint, cream
+    - A-line skirts, ruffled blouses
+    - Cardigans, vintage-inspired pieces
+  - **Jewelry:** Delicate chains, pearl earrings, dainty rings, vintage brooches
+  - **Footwear:** Ballet flats, kitten heels, strappy sandals
+  - **Hair:** Soft curls, loose waves, hair ribbons, vintage-inspired styling
+  - **Makeup:** Soft romantic - pink blush, nude lips, subtle shimmer, natural beauty
+  - **Setting:** Garden, café, bookshop, vintage interior, soft indoor lighting
+  - **Mood:** Gentle, romantic, dreamy, soft
+
+  **7. MINIMALIST MODERN / CLEAN AESTHETIC**
+  - **Aesthetic:** Simple, refined, intentional, quality-focused
+  - **Key Clothing:**
+    - Monochromatic outfits - black, white, gray, beige
+    - Clean lines, simple silhouettes
+    - High-quality basics, architectural cuts
+    - Neutral tones, minimal patterns
+  - **Jewelry:** Geometric shapes, simple gold/silver, one statement piece
+  - **Footwear:** Clean sneakers, simple heels, minimalist leather
+  - **Hair:** Sleek straight, simple bun, natural texture, effortless styling
+  - **Makeup:** Natural perfected - even skin, subtle definition, nude lips
+  - **Setting:** Modern architecture, clean studio, minimal interior, urban landscape
+  - **Mood:** Calm, intentional, sophisticated, understated
+
+  **8. EDGY ALTERNATIVE / FASHION-FORWARD**
+  - **Aesthetic:** Bold, unconventional, artistic, statement-making
+  - **Key Clothing:**
+    - Leather jackets, studded details
+    - Bold prints, mixing patterns
+    - Asymmetric cuts, avant-garde pieces
+    - Dark color palette with pops of bold color
+  - **Jewelry:** Statement pieces, multiple piercings, chunky chains, bold rings
+  - **Footwear:** Combat boots, platform shoes, unique designer pieces
+  - **Hair:** Bold cuts, vibrant colors, undercuts, creative styling
+  - **Makeup:** Experimental - dark lips, graphic liner, bold brows, creative color
+  - **Setting:** Urban grunge, industrial space, art district, nightlife venue
+  - **Mood:** Bold, rebellious, confident, artistic
+
+  **UNIVERSAL FACIAL CHARACTERISTICS:**
+  - **Face Shape:** Balanced oval or heart-shaped face with soft to defined jawline
+  - **Skin:** Healthy, clear complexion with natural radiance (adjust makeup intensity by style)
+  - **Eyes:** Expressive, proportionate to face, makeup intensity varies by fashion style
+  - **Nose:** Natural, proportionate, complementing overall facial harmony
+  - **Lips:** Full, natural shape, lip color matching fashion aesthetic
+  - **Eyebrows:** Well-groomed, shaped to complement style (bold for edgy, natural for bohemian, defined for professional)
+
+  **HAIR SPECIFICATIONS BY STYLE:**
+  - **Length:** Varies by aesthetic (long flowing, shoulder-length, short chic, styled updo)
+  - **Color:** Matching style mood (natural tones, sun-kissed highlights, bold fashion colors, classic neutrals)
+  - **Texture:** Style-appropriate (beachy waves, sleek straight, romantic curls, edgy texture)
+  - **Styling:** Professional finish matching fashion category
+
+  **TECHNICAL SPECIFICATIONS:**
+  - **Camera Setup:**
+    - Body: Canon EOS R5, Sony A7R IV, or Fujifilm GFX 100S
+    - Lens: 85mm f/1.4 or 50mm f/1.2 for fashion detail
+    - Aperture: f/1.8-f/2.8 for style-focused depth
+
+  - **Lighting by Style:**
+    - Bohemian: Soft, warm natural sunlight, golden hour glow
+    - Professional: Clean, even lighting, subtle shadows for structure
+    - Street: Urban mixed lighting, natural outdoor, dynamic
+    - Evening: Dramatic, low-key lighting, accent lights, glamour lighting
+    - Athleisure: Bright, clean, energetic lighting
+    - Romantic: Soft, diffused, warm golden tones
+    - Minimalist: Even, clean, natural or studio softbox
+    - Edgy: Dramatic shadows, high contrast, moody lighting
+
+  - **Composition:**
+    - Framing emphasizing fashion details and overall style aesthetic
+    - Background complementing fashion style (blurred bokeh or contextual environment)
+    - Rule of thirds with attention to outfit details and proportions
+    - Depth isolating subject while suggesting style context
+
+  - **Image Quality:**
+    - Resolution: 4K minimum (3840 × 2160)
+    - Detail: Ultra-detailed fabric textures, jewelry details, styling elements
+    - Color: Accurate to fashion aesthetic (warm bohemian, cool minimalist, dramatic evening)
+    - Sharpness: Critical focus on face and key fashion elements
+    - Texture: Realistic fabric, skin, hair rendering
+
+  **OUTPUT SPECIFICATIONS:**
+  - Masterpiece quality, ultra-detailed, photorealistic
+  - Fashion style clearly communicated through all visual elements
+  - Cohesive aesthetic from styling to lighting to setting
+  - Commercial-ready for fashion editorials, lookbooks, style guides
+  - Authentic representation of chosen fashion aesthetic

@@ -1,28 +1,206 @@
 prompt: |
-  Generate a photorealistic portrait of a female model in a specific hobby or role.
-  - **Role:** Software Developer
-  - **Setting:** Modern office environment, surrounded by monitors and code
-  - **Clothing:** Comfortable but professional, perhaps a hoodie over a t-shirt
-  - **Props:** Laptop, coffee mug, headphones
-  - **Expression:** Focused, engaged, slightly thoughtful
-  - **Lighting:** Ambient office lighting
-  - **Resolution:** 4K
-  - **Face:**
-    - **Shape:** 卵型で、知的な印象を与える輪郭。
-    - **Features:**
-      - **Skin:** 健康的で均一な肌色。
-      - **Nose:** 端正な形。
-      - **Eyes:** 集中力のある瞳。
-      - **Lips:** 引き締まった口元。
-      - **Eyebrows:** 整えられ、知的な印象。
-    - **Makeup:** Minimal, natural look.
-  - **Hair:**
-    - **Style:** 肩までの長さで、ストレートまたはゆるいウェーブ。
-    - **Color:** 自然なブラウン。
-    - **Texture:** 滑らかで、手入れの行き届いた質感。
-  - **Camera:**
-    - **Type:** Sony Alpha a7 III
-    - **Lens:** 50mm f/1.8
-    - **Aperture:** f/2.8
-  - **Composition:** Centered, clean background
-  - **Quality:** Masterpiece, ultra-detailed, photorealistic, versatile
+  Generate a photorealistic portrait of a female model in a specific hobby or professional role with authentic contextual details.
+
+  **PROFESSIONAL ROLES & HOBBIES:**
+  [Select one and customize specific elements]
+
+  **CREATIVE & ARTISTIC ROLES:**
+
+  **1. ARTIST / PAINTER**
+  - **Setting:** Art studio with canvases, easels, paint supplies, natural light
+  - **Clothing:** Paint-splattered apron over comfortable clothing, casual jeans, loose shirt
+  - **Props:** Paintbrushes, palette, canvas, art supplies, sketchbook
+  - **Expression:** Focused creative concentration, passionate engagement, contemplative
+  - **Hair:** Pulled back in messy bun or ponytail, practical styling
+  - **Hands:** Paint stains visible, holding brush or palette
+  - **Atmosphere:** Creative energy, artistic clutter, inspiring workspace
+
+  **2. MUSICIAN / SINGER**
+  - **Setting:** Recording studio, concert stage, music practice room, home studio
+  - **Clothing:** Range from casual rehearsal wear to performance attire
+  - **Props:** Instrument (guitar, violin, piano), microphone, sheet music, headphones
+  - **Expression:** Passionate, lost in music, emotional connection, joyful
+  - **Hair:** Varies - practical for practice, styled for performance
+  - **Posture:** Holding instrument naturally, engaged with music
+  - **Atmosphere:** Musical energy, soundproofed space, warm lighting
+
+  **3. PHOTOGRAPHER**
+  - **Setting:** Photography studio, outdoor location, urban environment
+  - **Clothing:** Practical casual - jeans, comfortable tops, photography vest optional
+  - **Props:** Professional camera, lenses, light meter, equipment bag
+  - **Expression:** Observant, focused, creative vision, thoughtful composition
+  - **Hair:** Practical styling allowing movement and work
+  - **Posture:** Camera held naturally, photographer's stance
+  - **Atmosphere:** Creative workspace, equipment visible, artistic environment
+
+  **4. WRITER / AUTHOR**
+  - **Setting:** Home office, library, cozy café, bookshop corner
+  - **Clothing:** Comfortable casual - cardigan, glasses, relaxed professional
+  - **Props:** Laptop, coffee mug, notebooks, stacked books, reading glasses
+  - **Expression:** Thoughtful, contemplative, intellectually engaged, distant focus
+  - **Hair:** Natural, effortless styling, possibly tucked behind ear
+  - **Posture:** Leaning over laptop/notebook, thoughtful hand positions
+  - **Atmosphere:** Quiet, intellectual, cozy lighting, book-filled space
+
+  **TECHNICAL & PROFESSIONAL ROLES:**
+
+  **5. SOFTWARE DEVELOPER / TECH PROFESSIONAL**
+  - **Setting:** Modern office, tech startup, co-working space, home setup with monitors
+  - **Clothing:** Smart casual - comfortable hoodie, t-shirt, jeans, or business casual
+  - **Props:** Laptop, multiple monitors, mechanical keyboard, coffee mug, headphones
+  - **Expression:** Focused concentration, problem-solving intensity, engaged
+  - **Hair:** Practical styling, possibly casual ponytail or natural down
+  - **Posture:** Leaning toward screen, hands on keyboard
+  - **Atmosphere:** Tech environment, blue screen glow, modern workspace
+
+  **6. SCIENTIST / RESEARCHER**
+  - **Setting:** Laboratory, research facility, university office, field research site
+  - **Clothing:** Lab coat over professional attire, safety glasses optional
+  - **Props:** Laboratory equipment, microscope, beakers, research papers, tablet
+  - **Expression:** Analytical, curious, intellectual focus, discovery excitement
+  - **Hair:** Practical, professional styling, possibly tied back for safety
+  - **Posture:** Examining samples, taking notes, engaged with research
+  - **Atmosphere:** Clean, scientific, professional lighting, equipment visible
+
+  **7. BUSINESS EXECUTIVE / ENTREPRENEUR**
+  - **Setting:** Executive office, boardroom, modern workspace, city skyline view
+  - **Clothing:** Professional business attire - tailored suit, blouse, polished accessories
+  - **Props:** Laptop, tablet, coffee, business documents, smartphone
+  - **Expression:** Confident, authoritative, strategic thinking, decisive
+  - **Hair:** Polished professional styling - sleek, elegant, commanding
+  - **Posture:** Confident stance, professional positioning
+  - **Atmosphere:** Executive environment, modern, sophisticated lighting
+
+  **8. ARCHITECT / DESIGNER**
+  - **Setting:** Design studio, drafting table, modern office with blueprints
+  - **Clothing:** Smart casual creative - structured yet comfortable, stylish practical
+  - **Props:** Blueprints, drafting tools, computer with CAD software, models
+  - **Expression:** Creative focus, visionary thinking, problem-solving
+  - **Hair:** Stylish yet practical, creative professional aesthetic
+  - **Posture:** Reviewing plans, sketching, examining models
+  - **Atmosphere:** Creative professional space, architectural elements, clean lighting
+
+  **HEALTH & WELLNESS ROLES:**
+
+  **9. YOGA INSTRUCTOR / WELLNESS COACH**
+  - **Setting:** Yoga studio, peaceful outdoor space, wellness center, beach
+  - **Clothing:** Athletic wear - yoga pants, sports bra/tank, breathable fabrics
+  - **Props:** Yoga mat, meditation cushion, essential oils, water bottle
+  - **Expression:** Serene, centered, peaceful confidence, welcoming
+  - **Hair:** Practical for movement - ponytail, braid, natural flow
+  - **Posture:** Yoga pose or instructional position, graceful
+  - **Atmosphere:** Calm, natural lighting, peaceful environment
+
+  **10. DOCTOR / NURSE / HEALTHCARE PROFESSIONAL**
+  - **Setting:** Hospital, clinic, medical office, healthcare facility
+  - **Clothing:** Medical scrubs or white coat, stethoscope, professional attire
+  - **Props:** Medical equipment, stethoscope, tablet with patient info, clipboard
+  - **Expression:** Caring, professional, focused, compassionate
+  - **Hair:** Professional, practical styling, possibly tied back
+  - **Posture:** Confident, caring demeanor, professional stance
+  - **Atmosphere:** Medical environment, clean lighting, professional setting
+
+  **LIFESTYLE & HOBBY ACTIVITIES:**
+
+  **11. CHEF / CULINARY ARTIST**
+  - **Setting:** Professional kitchen, home cooking space, restaurant kitchen
+  - **Clothing:** Chef's whites, apron, casual cooking attire
+  - **Props:** Cooking utensils, fresh ingredients, plated dishes, knife
+  - **Expression:** Passionate, focused on craft, creative engagement
+  - **Hair:** Practical - tied back, chef's hat optional, professional
+  - **Posture:** Cooking motion, plating food, tasting, engaged with work
+  - **Atmosphere:** Kitchen environment, warm lighting, culinary focus
+
+  **12. ATHLETE / FITNESS TRAINER**
+  - **Setting:** Gym, outdoor track, sports facility, training ground
+  - **Clothing:** Athletic wear - sports attire, training gear, team uniform
+  - **Props:** Sports equipment, weights, fitness gear, water bottle
+  - **Expression:** Determined, energetic, focused, strong
+  - **Hair:** Athletic practical - high ponytail, braid, headband
+  - **Posture:** Active stance, training position, athletic readiness
+  - **Atmosphere:** Dynamic, energetic, bright lighting, active environment
+
+  **13. GARDENER / BOTANIST / FLORIST**
+  - **Setting:** Garden, greenhouse, flower shop, outdoor botanical setting
+  - **Clothing:** Practical casual - jeans, comfortable shirt, garden apron, gloves
+  - **Props:** Plants, flowers, gardening tools, watering can, flower arrangements
+  - **Expression:** Peaceful, nurturing, connected with nature, content
+  - **Hair:** Natural, practical styling, possibly under sun hat
+  - **Posture:** Tending plants, arranging flowers, working with nature
+  - **Atmosphere:** Natural, organic, soft natural lighting, green environment
+
+  **14. BARISTA / CAFÉ WORKER**
+  - **Setting:** Coffee shop, café counter, espresso bar
+  - **Clothing:** Casual professional - apron, comfortable trendy attire
+  - **Props:** Coffee equipment, latte art, cups, espresso machine
+  - **Expression:** Friendly, approachable, focused on craft, warm
+  - **Hair:** Practical yet stylish - natural, casual professional
+  - **Posture:** Making coffee, serving customer, engaged with work
+  - **Atmosphere:** Cozy café environment, warm lighting, inviting space
+
+  **UNIVERSAL FACIAL CHARACTERISTICS:**
+  - **Face Shape:** Oval or balanced face with intellectual or engaged appearance
+  - **Skin:** Healthy, natural complexion appropriate to role and activity level
+  - **Eyes:** Focused, engaged eyes showing concentration or passion for role
+  - **Expression:** Authentic to activity - focused (tech), creative (artist), caring (healthcare)
+  - **Eyebrows:** Well-maintained, natural shaping conveying role-appropriate intelligence or creativity
+  - **Lips:** Natural color, expression matching emotional engagement with role
+  - **Overall:** Authentic character embodying genuine engagement with hobby/profession
+
+  **HAIR STYLING BY ROLE:**
+  - **Professional:** Polished, neat styling (executive, doctor, lawyer)
+  - **Creative:** Natural, artistic, potentially unconventional (artist, musician)
+  - **Technical:** Practical, comfortable, low-maintenance (developer, scientist)
+  - **Active:** Athletic, tied back, functional (athlete, yoga instructor)
+  - **Service:** Clean, professional, approachable (barista, healthcare)
+  - **Length & Color:** Appropriate to role and personal style
+  - **Texture:** Natural, well-maintained, realistic to activity level
+
+  **MAKEUP BY ROLE:**
+  - **Corporate/Professional:** Polished, professional enhancement
+  - **Creative/Artistic:** Minimal to artistic expression
+  - **Technical/Scientific:** Minimal, natural, practical
+  - **Active/Athletic:** None to minimal, natural glow
+  - **Healthcare:** Professional, subtle, clean
+  - **Service/Hospitality:** Approachable, natural to polished
+
+  **HANDS & DETAILS:**
+  - Show hands engaged with role-specific activities
+  - Natural signs of profession (paint stains for artist, calluses for musician, clean for professional)
+  - Authentic interaction with props and environment
+  - Natural posture and body language reflecting genuine engagement
+
+  **TECHNICAL SPECIFICATIONS:**
+  - **Camera Setup:**
+    - Body: Sony Alpha a7 III, Canon EOS R5, or appropriate for setting
+    - Lens: 50mm f/1.8 or 35mm f/1.4 for environmental context
+    - Aperture: f/2.0-f/2.8 for subject focus with environmental context
+
+  - **Lighting by Setting:**
+    - **Indoor Professional:** Clean office lighting, soft ambient
+    - **Creative Studio:** Natural window light, artistic soft light
+    - **Medical/Lab:** Clean, even professional lighting
+    - **Outdoor/Active:** Natural sunlight, golden hour when appropriate
+    - **Café/Service:** Warm, inviting ambient lighting
+    - **Tech Environment:** Mixed lighting with subtle monitor glow
+
+  - **Composition:**
+    - Environmental storytelling showing role context
+    - Rule of thirds with relevant props and setting visible
+    - Depth of field isolating subject while showing environment
+    - Natural framing using environmental elements
+
+  - **Image Quality:**
+    - Resolution: 4K minimum (3840 × 2160)
+    - Detail: Ultra-detailed with authentic environmental textures
+    - Color: Natural, appropriate to setting and lighting
+    - Texture: Realistic skin, clothing, environmental detail
+    - Atmosphere: Authentic to profession/hobby, immersive
+
+  **OUTPUT SPECIFICATIONS:**
+  - Masterpiece quality, ultra-detailed, photorealistic
+  - Authentic representation of profession/hobby with genuine engagement
+  - Environmental context supporting role narrative
+  - Natural interaction with props and setting
+  - Versatile for professional portfolios, lifestyle content, career illustrations
+  - Avoiding stereotypes while maintaining role authenticity
