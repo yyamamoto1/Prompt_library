@@ -1,8 +1,82 @@
 prompt: |
-  Generate a realistic portrait of a male model.
-  - **Style:** Photorealistic, high detail
-  - **Lighting:** Soft, natural light
-  - **Background:** Simple, blurred background
-  - **Expression:** Neutral or confident
-  - **Camera Angle:** Eye-level, headshot
-  - **Resolution:** 4K
+  Generate a photorealistic portrait of a male model with comprehensive customization options for diverse use cases.
+
+  **CUSTOMIZABLE PARAMETERS:**
+  - **Age Range:** [Specify: "teenage (16-19)", "young adult (20-29)", "adult (30-39)", "mature (40-49)", "distinguished (50-59)", "senior (60+)"]
+  - **Ethnicity:** [Select: "East Asian", "Southeast Asian", "South Asian", "Caucasian", "African", "Hispanic/Latino", "Middle Eastern", "Mixed heritage"]
+  - **Profession:** [Choose role: "business executive", "entrepreneur", "creative professional", "athlete", "academic", "technologist", "tradesman", "healthcare professional"]
+  - **Setting:** [Define environment: "executive office", "urban outdoor", "industrial workspace", "home study", "studio backdrop", "gym/sports venue", "modern architecture", "natural landscape"]
+  - **Style:** [Select aesthetic: "executive polished", "casual confident", "athletic dynamic", "creative edgy", "academic refined", "rugged masculine", "minimalist modern", "classic sophisticated"]
+  - **Mood:** [Set atmosphere: "authoritative", "confident", "approachable", "determined", "contemplative", "dynamic", "sophisticated", "relaxed"]
+
+  **CORE FACIAL CHARACTERISTICS:**
+  - **Face Structure:**
+    - Strong, well-defined masculine face shape (oval, square, or angular)
+    - Healthy skin with natural texture and age-appropriate character
+    - Defined jawline conveying strength and confidence
+    - Prominent cheekbones adding dimensional depth
+
+  - **Eyes:**
+    - Intense, expressive eyes with natural depth and focus
+    - Clear irises with realistic light reflection and detail
+    - Natural eyebrows with masculine definition
+    - Subtle expression lines conveying character and experience
+
+  - **Facial Hair:**
+    - [Options: clean-shaven, light stubble, full beard, styled goatee, mustache, designer stubble]
+    - Well-groomed and style-appropriate to profession and age
+    - Natural growth patterns with realistic texture
+
+  - **Nose & Mouth:**
+    - Strong, proportionate nose fitting facial structure
+    - Natural lip shape with masculine definition
+    - Realistic skin texture with pore detail and character
+
+  **STYLING VARIATIONS:**
+  - **Hair:** [Adaptable options: short professional cut, modern fade, textured crop, slicked back, messy styled, classic side part, long tied back, buzz cut] - Color and style matching ethnicity, age, and aesthetic
+  - **Grooming:** [Standards: clean polished, casual natural, rugged masculine, creative styled] - Context and profession appropriate
+  - **Clothing:** [Context-based: tailored suit, business casual, smart casual, athletic wear, creative fashion, workwear, formal attire, outdoor gear]
+  - **Accessories:** [Optional: watches, glasses, ties, pocket squares, casual jewelry, hats, technical gear] - Style-appropriate selection
+
+  **EXPRESSION & POSE OPTIONS:**
+  - **Facial Expression:** Confident smile, intense gaze, thoughtful contemplation, determined focus, approachable warmth, serious authority, relaxed ease
+  - **Head Position:** Direct eye contact, slight angle, three-quarter profile, side profile, looking up/down, dynamic tilt
+  - **Body Language:** Powerful stance, relaxed confidence, arms crossed authority, hands in pockets casual, active movement, composed stillness
+
+  **TECHNICAL SPECIFICATIONS:**
+  - **Camera Setup:**
+    - Body: Nikon Z7 II, Canon EOS R5, or Sony A7R IV
+    - Lens: 85mm f/1.4 or 70-200mm f/2.8 portrait lens
+    - Aperture: f/2.0-f/2.8 for subject isolation and dimensional depth
+
+  - **Lighting Design:**
+    - Primary: Directional light emphasizing masculine features and definition
+    - Style options: Hard side lighting, soft Rembrandt, natural outdoor, dramatic low-key, bright high-key, golden hour
+    - Quality: Defined shadows for structure, controlled highlights, authentic skin tone
+
+  - **Composition:**
+    - Framing: Strong diagonal lines, rule of thirds, powerful positioning
+    - Background: Contextual environment or smooth bokeh complementing subject
+    - Depth: Strategic depth of field emphasizing facial features
+    - Space: Balanced negative space with masculine presence
+
+  - **Image Quality:**
+    - Resolution: 4K minimum (3840 × 2160) or higher
+    - Detail Level: Ultra-detailed, photorealistic rendering with texture
+    - Color Grading: Natural, accurate tones with subtle masculine enhancement
+    - Sharpness: Critical focus on eyes and key facial features
+    - Texture: Realistic skin, hair, fabric, and environmental detail
+
+  **CONTEXTUAL CONSIDERATIONS:**
+  - Ensure age-appropriate styling and grooming choices
+  - Maintain cultural sensitivity and authentic representation
+  - Match clothing, grooming, and setting to specified profession
+  - Create natural, authentic expressions avoiding overly posed stiffness
+  - Consider lighting style that enhances masculine features appropriately
+  - Balance strength and approachability based on intended use
+
+  **OUTPUT SPECIFICATIONS:**
+  - Masterpiece quality, ultra-detailed, photorealistic
+  - Cinematic lighting with professional polish
+  - Authentic masculine representation with character
+  - Versatile for commercial, editorial, corporate, or artistic applications

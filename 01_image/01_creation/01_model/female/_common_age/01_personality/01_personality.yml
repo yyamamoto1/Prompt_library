@@ -1,28 +1,134 @@
 prompt: |
-  Generate a photorealistic portrait of a female model embodying a specific personality.
-  - **Personality:** Confident and charismatic
-  - **Expression:** Strong, direct gaze with a subtle smirk
-  - **Pose:** Dynamic, hands on hips or arms crossed
-  - **Clothing:** Stylish, modern business attire
-  - **Background:** Urban cityscape at dusk, blurred
-  - **Lighting:** Dramatic, with strong shadows
-  - **Resolution:** 4K
-  - **Face:**
-    - **Shape:** 卵型で、シャープな顎のラインと高い頬骨。
-    - **Features:**
-      - **Skin:** 滑らかで均一な肌色、健康的な輝き。
-      - **Nose:** 細く、まっすぐな鼻筋。
-      - **Eyes:** 大きく、アーモンド型で、瞳は明るい茶色。二重まぶたで、まつげは長く、マスカラで強調されている。
-      - **Lips:** 鮮やかな赤色のリップスティックを塗った、ふっくらとした唇。
-      - **Eyebrows:** 整えられたアーチ型で、色はダークブラウン。
-    - **Makeup:** 洗練されたメイクアップ、アイラインとリップが特徴的。
-  - **Hair:**
-    - **Style:** 肩までの長さのボブ、内巻きにブローされ、光沢がある。
-    - **Color:** 落ち着いたアッシュブラウン。
-    - **Texture:** 滑らかで、まとまりのある質感。
-  - **Camera:**
-    - **Type:** Fujifilm GFX 100S
-    - **Lens:** 110mm f/2
-    - **Aperture:** f/2.0
-  - **Composition:** Rule of thirds, leading lines from the cafe interior
-  - **Quality:** Masterpiece, ultra-detailed, photorealistic, cinematic lighting
+  Generate a photorealistic portrait of a female model embodying a specific personality archetype with nuanced character depth.
+
+  **PRIMARY PERSONALITY ARCHETYPES:**
+  [Select one and customize details]
+
+  **1. CONFIDENT & CHARISMATIC LEADER**
+  - **Core Traits:** Assertive, magnetic presence, natural authority, inspiring confidence
+  - **Expression:** Strong, direct gaze with subtle knowing smile or determined focus
+  - **Body Language:** Powerful stance - hands on hips, arms crossed confidently, or relaxed authority pose
+  - **Energy:** Commanding yet approachable, radiating self-assurance
+
+  **2. CREATIVE & ARTISTIC SOUL**
+  - **Core Traits:** Imaginative, expressive, unconventional, emotionally intuitive
+  - **Expression:** Dreamy, contemplative gaze or passionate intensity
+  - **Body Language:** Fluid, natural poses with artistic grace, creative hand positioning
+  - **Energy:** Ethereal, inspirational, deeply authentic
+
+  **3. INTELLECTUAL & ANALYTICAL**
+  - **Core Traits:** Thoughtful, perceptive, curious, knowledge-seeking
+  - **Expression:** Focused, intelligent gaze with subtle analytical assessment
+  - **Body Language:** Composed, poised, with subtle professional confidence
+  - **Energy:** Sharp, insightful, quietly confident
+
+  **4. WARM & NURTURING CAREGIVER**
+  - **Core Traits:** Compassionate, empathetic, supportive, genuine warmth
+  - **Expression:** Soft, welcoming smile with kind, understanding eyes
+  - **Body Language:** Open, inviting posture, gentle gestures
+  - **Energy:** Comforting, approachable, radiating care
+
+  **5. ADVENTUROUS & FREE-SPIRITED**
+  - **Core Traits:** Bold, spontaneous, independent, energetic
+  - **Expression:** Bright, enthusiastic smile or determined adventurous gaze
+  - **Body Language:** Dynamic, active poses suggesting movement and freedom
+  - **Energy:** Vibrant, exciting, unrestrained
+
+  **6. SOPHISTICATED & ELEGANT**
+  - **Core Traits:** Refined, graceful, cultured, poised
+  - **Expression:** Serene, composed smile or mysterious subtle gaze
+  - **Body Language:** Elegant posture, refined gestures, classic positioning
+  - **Energy:** Timeless, polished, effortlessly graceful
+
+  **FACIAL CHARACTERISTICS MATCHING PERSONALITY:**
+  - **Face Structure:**
+    - Oval or heart-shaped face with balanced proportions
+    - Sharp, defined jawline for assertive personalities / Soft contours for nurturing types
+    - High, prominent cheekbones adding dimensional character
+    - Skin: Smooth, healthy complexion with natural radiance
+
+  - **Eyes (Personality Window):**
+    - Large, expressive almond-shaped eyes
+    - Eye color: Bright brown, deep hazel, or striking blue/green (match personality)
+    - Double eyelids with long, naturally enhanced lashes
+    - Confident: Direct, unwavering gaze / Creative: Dreamy, distant focus
+    - Nurturing: Warm, soft eye contact / Adventurous: Bright, eager expression
+
+  - **Eyebrows:**
+    - Well-groomed arch shape complementing personality
+    - Dark brown to match hair, professionally shaped
+    - Strong arch for confident types / Soft arch for nurturing types
+
+  - **Lips & Expression:**
+    - Full, naturally shapely lips
+    - Confident: Bold red or power lipstick / Creative: Natural or artistic colors
+    - Sophisticated: Classic red or nude elegance / Nurturing: Soft pink or natural tones
+    - Expression matching chosen personality archetype
+
+  **HAIR STYLING BY PERSONALITY:**
+  - **Confident Leader:** Sleek bob with polished finish, power ponytail, or sharp geometric cut
+  - **Creative Artist:** Flowing waves, messy artistic styling, unconventional cuts or colors
+  - **Intellectual:** Neat bob, sophisticated updo, or practical styled elegance
+  - **Nurturing:** Soft waves, gentle curls, approachable medium length
+  - **Adventurous:** Textured layers, beachy waves, practical but stylish
+  - **Sophisticated:** Classic updo, elegant waves, timeless styling
+  - Color: Sophisticated ash brown, rich chocolate, or personality-appropriate tones
+  - Texture: Smooth, glossy, well-maintained with natural movement
+
+  **MAKEUP APPROACH BY PERSONALITY:**
+  - **Confident:** Polished professional - defined eyes, contoured features, statement lips (red or bold)
+  - **Creative:** Artistic expression - unique color choices, creative application, experimental
+  - **Intellectual:** Minimal enhancement - natural tones, subtle definition, understated
+  - **Nurturing:** Soft natural - gentle colors, warm tones, approachable freshness
+  - **Adventurous:** Fresh minimal - dewy skin, natural lip, sun-kissed glow
+  - **Sophisticated:** Classic elegance - winged liner, perfect red lip, timeless beauty
+
+  **CLOTHING & STYLING:**
+  - **Confident:** Modern power suit, structured blazer, bold statement pieces
+  - **Creative:** Artistic layers, unique textures, unconventional fashion, expressive pieces
+  - **Intellectual:** Smart professional attire, quality basics, classic tailoring
+  - **Nurturing:** Soft fabrics, comfortable elegance, approachable casual chic
+  - **Adventurous:** Athletic casual, functional fashion, versatile layers
+  - **Sophisticated:** Designer pieces, classic cuts, luxury fabrics, timeless elegance
+
+  **SETTING & ENVIRONMENT:**
+  - **Confident:** Urban cityscape at dusk, executive office, modern architecture
+  - **Creative:** Art studio, bohemian space, natural outdoor, artistic venues
+  - **Intellectual:** Library, study, bookshop, academic setting, clean modern space
+  - **Nurturing:** Cozy home interior, garden, café, welcoming domestic spaces
+  - **Adventurous:** Outdoor nature, urban exploration, dynamic locations
+  - **Sophisticated:** Upscale venue, gallery, elegant interior, luxury setting
+
+  **TECHNICAL SPECIFICATIONS:**
+  - **Camera Setup:**
+    - Body: Fujifilm GFX 100S or Canon EOS R5
+    - Lens: 110mm f/2 or 85mm f/1.4 portrait lens
+    - Aperture: f/2.0-f/2.8 for personality-focused depth
+
+  - **Lighting by Personality:**
+    - **Confident:** Dramatic with strong shadows, directional power lighting
+    - **Creative:** Soft artistic, natural window light, creative color gels
+    - **Intellectual:** Clean, even studio lighting, soft professional
+    - **Nurturing:** Warm, soft illumination, gentle golden tones
+    - **Adventurous:** Natural outdoor, dynamic lighting, golden hour
+    - **Sophisticated:** Classic Rembrandt, elegant soft light, refined shadows
+
+  - **Composition:**
+    - Rule of thirds with leading lines supporting personality narrative
+    - Background: Complementary blur or contextual environment
+    - Depth: Shallow focus isolating subject, emphasizing personality
+    - Framing: Personality-appropriate positioning and negative space
+
+  - **Image Quality:**
+    - Resolution: 4K minimum (3840 × 2160)
+    - Detail: Ultra-detailed, masterpiece quality, photorealistic
+    - Color: Cinematic grading matching personality mood
+    - Texture: Realistic skin, hair, fabric detail
+    - Atmosphere: Lighting and composition reinforcing personality essence
+
+  **OUTPUT SPECIFICATIONS:**
+  - Masterpiece quality, ultra-detailed, photorealistic rendering
+  - Personality essence clearly communicated through all visual elements
+  - Authentic, nuanced character depth avoiding stereotypes
+  - Cinematic lighting with professional polish
+  - Versatile for character-driven commercial, editorial, or storytelling applications

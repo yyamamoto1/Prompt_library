@@ -1,28 +1,153 @@
 prompt: |
-  Generate a photorealistic portrait of a male model embodying a specific personality.
-  - **Personality:** Calm and intellectual
-  - **Expression:** Thoughtful, gentle smile
-  - **Pose:** Leaning against a bookshelf, holding a book
-  - **Clothing:** Smart casual, perhaps a tweed jacket
-  - **Background:** Cozy library or study, blurred
-  - **Lighting:** Soft, warm indoor lighting
-  - **Resolution:** 4K
-  - **Face:**
-    - **Shape:** わずかに角ばった顎のラインを持つ卵型。
-    - **Features:**
-      - **Skin:** 健康的で引き締まった肌。
-      - **Nose:** 端正な形。
-      - **Eyes:** 深く、知性を感じさせる瞳。
-      - **Lips:** 引き締まった口元。
-      - **Eyebrows:** 整えられ、力強い印象。
-    - **Makeup:** なし、ナチュラル。
-  - **Hair:**
-    - **Style:** 短く、清潔感のあるスタイル。
-    - **Color:** 自然なブラウン。
-    - **Texture:** やや硬く、手入れの行き届いた質感。
-  - **Camera:**
-    - **Type:** Nikon Z7 II
-    - **Lens:** 85mm f/1.4
-    - **Aperture:** f/1.8
-  - **Composition:** Soft focus background, natural framing with foliage
-  - **Quality:** Masterpiece, ultra-detailed, photorealistic, serene atmosphere
+  Generate a photorealistic portrait of a male model embodying a specific personality archetype with authentic masculine character depth.
+
+  **PRIMARY MASCULINE PERSONALITY ARCHETYPES:**
+  [Select one and customize details]
+
+  **1. AUTHORITATIVE LEADER / EXECUTIVE**
+  - **Core Traits:** Commanding presence, decisive, confident, strategic thinker, inspiring
+  - **Expression:** Powerful direct gaze, subtle confident smile, or serious determination
+  - **Body Language:** Strong stance - arms crossed authority, hands in pockets confidence, commanding posture
+  - **Energy:** Powerful, magnetic, authoritative yet approachable
+
+  **2. INTELLECTUAL / SCHOLAR / THINKER**
+  - **Core Traits:** Thoughtful, analytical, curious, wise, contemplative
+  - **Expression:** Thoughtful contemplation, gentle knowing smile, distant intellectual focus
+  - **Body Language:** Relaxed leaning against bookshelf, holding book, thoughtful hand positions
+  - **Energy:** Calm, intelligent, quietly confident, introspective
+
+  **3. CREATIVE ARTIST / VISIONARY**
+  - **Core Traits:** Imaginative, expressive, non-conformist, passionate, artistic
+  - **Expression:** Intense creative gaze, passionate focus, or dreamy contemplation
+  - **Body Language:** Expressive gestures, natural creative poses, artistic stance
+  - **Energy:** Passionate, inspiring, authentic, emotionally present
+
+  **4. RUGGED MASCULINE / ADVENTURER**
+  - **Core Traits:** Bold, adventurous, independent, strong, resilient
+  - **Expression:** Determined gaze, subtle confident smile, weathered strength
+  - **Body Language:** Confident casual stance, outdoor-ready posture, physical presence
+  - **Energy:** Powerful, grounded, naturally confident, capable
+
+  **5. CHARISMATIC CHARMER / ROMANTIC**
+  - **Core Traits:** Warm, engaging, emotionally expressive, charming, approachable
+  - **Expression:** Warm genuine smile, playful eyes, inviting demeanor
+  - **Body Language:** Open posture, relaxed confidence, engaging stance
+  - **Energy:** Magnetic, warm, emotionally available, engaging
+
+  **6. STOIC WARRIOR / PROTECTOR**
+  - **Core Traits:** Disciplined, honorable, protective, resilient, principled
+  - **Expression:** Serious intensity, controlled emotion, determined focus
+  - **Body Language:** Strong upright posture, ready stance, powerful presence
+  - **Energy:** Controlled strength, protective, reliable, formidable
+
+  **7. AMBITIOUS ENTREPRENEUR / INNOVATOR**
+  - **Core Traits:** Driven, visionary, risk-taker, innovative, dynamic
+  - **Expression:** Sharp focused gaze, ambitious determination, strategic thinking
+  - **Body Language:** Forward-leaning energy, dynamic posture, action-ready
+  - **Energy:** Dynamic, ambitious, forward-thinking, energetic
+
+  **8. CALM MENTOR / WISE GUIDE**
+  - **Core Traits:** Patient, understanding, wise, supportive, experienced
+  - **Expression:** Gentle smile, compassionate gaze, peaceful wisdom
+  - **Body Language:** Relaxed open posture, welcoming stance, grounded presence
+  - **Energy:** Peaceful, wise, reassuring, stable
+
+  **FACIAL CHARACTERISTICS MATCHING PERSONALITY:**
+  - **Face Structure:**
+    - Strong masculine face - oval or angular with defined features
+    - Leader/Warrior: Sharp, angular jawline conveying strength
+    - Intellectual/Mentor: Softer oval with thoughtful appearance
+    - Adventurer: Rugged, defined bone structure
+    - Skin: Healthy, masculine texture with age-appropriate character
+
+  - **Eyes (Window to Character):**
+    - Intense, masculine eyes with depth and presence
+    - Leader: Direct, commanding gaze / Intellectual: Thoughtful, contemplative
+    - Creative: Intense, passionate focus / Adventurer: Bold, determined
+    - Charmer: Warm, engaging eyes / Warrior: Focused, intense
+    - Eye color matching personality: Deep brown, steel gray, intense blue
+
+  - **Facial Hair:**
+    - Leader: Clean-shaven or light stubble, executive grooming
+    - Intellectual: Well-groomed beard or clean professional
+    - Creative: Artistic beard styling or designer stubble
+    - Adventurer: Full beard or rugged stubble
+    - Charmer: Designer stubble or clean-shaven
+    - Warrior: Short beard or strategic stubble
+    - Grooming matching personality and role
+
+  - **Eyebrows & Expression:**
+    - Strong, masculine eyebrows with natural definition
+    - Shaped to enhance personality: bold for leader, natural for adventurer
+    - Expression lines conveying character and experience
+    - Firm masculine lips reflecting personality strength
+
+  **HAIR STYLING BY PERSONALITY:**
+  - **Authoritative Leader:** Executive cut, slicked back, polished professional styling
+  - **Intellectual:** Classic neat cut, side part, academic styling, possibly glasses
+  - **Creative Artist:** Longer styled, artistic messy, unconventional cuts
+  - **Rugged Adventurer:** Short practical, textured natural, windswept casual
+  - **Charismatic Charmer:** Stylish modern cut, effortlessly styled, trendy
+  - **Stoic Warrior:** Military-inspired short, buzz cut, disciplined styling
+  - **Ambitious Entrepreneur:** Modern business cut, styled with product, sharp
+  - **Calm Mentor:** Natural gray/silver, distinguished styling, relaxed
+  - Color: Natural brown, distinguished gray, personality-appropriate tones
+  - Texture: Well-maintained, masculine, realistic to personality
+
+  **CLOTHING & STYLING:**
+  - **Authoritative Leader:** Tailored suit, executive attire, luxury watch, power dressing
+  - **Intellectual:** Tweed jacket, smart casual, glasses, academic professionalcasual
+  - **Creative Artist:** Artistic layers, unique pieces, expressive fashion, unconventional
+  - **Rugged Adventurer:** Outdoor wear, denim, leather jacket, practical rugged
+  - **Charismatic Charmer:** Stylish casual, fitted clothing, fashionable accessories
+  - **Stoic Warrior:** Simple functional, dark colors, minimal accessories, practical
+  - **Ambitious Entrepreneur:** Sharp business casual, modern professional, tech-savvy style
+  - **Calm Mentor:** Comfortable refined, quality basics, timeless pieces
+
+  **SETTING & ENVIRONMENT:**
+  - **Authoritative Leader:** Executive office, boardroom, city skyline, modern architecture
+  - **Intellectual:** Library, study, bookshop, academic office, quiet contemplative space
+  - **Creative Artist:** Art studio, creative workspace, urban artistic district, gallery
+  - **Rugged Adventurer:** Outdoor nature, mountains, rugged terrain, wilderness
+  - **Charismatic Charmer:** Urban sophisticated, trendy venue, social setting, stylish cafe
+  - **Stoic Warrior:** Minimal stark background, gym, training facility, simple power
+  - **Ambitious Entrepreneur:** Startup office, modern workspace, city street, dynamic environment
+  - **Calm Mentor:** Peaceful garden, comfortable home, serene natural setting, warm interior
+
+  **TECHNICAL SPECIFICATIONS:**
+  - **Camera Setup:**
+    - Body: Nikon Z7 II, Canon EOS R5, or Sony A7R IV
+    - Lens: 85mm f/1.4 or 70-200mm f/2.8
+    - Aperture: f/1.8-f/2.8 for personality-focused depth
+
+  - **Lighting by Personality:**
+    - **Leader:** Dramatic directional, emphasizing power and structure
+    - **Intellectual:** Soft warm indoor, cozy study lighting, thoughtful
+    - **Creative:** Natural artistic light, creative shadows, expressive
+    - **Adventurer:** Natural outdoor, golden hour, rugged authentic
+    - **Charmer:** Soft flattering, warm engaging, inviting
+    - **Warrior:** Hard dramatic, strong shadows, powerful contrast
+    - **Entrepreneur:** Modern clean, dynamic lighting, energetic
+    - **Mentor:** Warm gentle, peaceful soft light, reassuring
+
+  - **Composition:**
+    - Rule of thirds with personality-supporting environmental elements
+    - Strong diagonal lines for leaders/warriors, soft curves for mentors
+    - Background complementing personality archetype
+    - Depth emphasizing character while suggesting context
+    - Masculine presence with appropriate negative space
+
+  - **Image Quality:**
+    - Resolution: 4K minimum (3840 × 2160)
+    - Detail: Ultra-detailed, masterpiece quality, photorealistic
+    - Color: Masculine color grading matching personality mood
+    - Texture: Realistic skin, facial hair, clothing, environmental detail
+    - Atmosphere: Lighting and composition reinforcing personality essence
+
+  **OUTPUT SPECIFICATIONS:**
+  - Masterpiece quality, ultra-detailed, photorealistic rendering
+  - Masculine personality essence clearly communicated through all elements
+  - Authentic character depth with nuanced expression
+  - Avoiding stereotypes while maintaining archetypal strength
+  - Cinematic lighting with professional polish
+  - Versatile for character-driven commercial, editorial, storytelling applications
