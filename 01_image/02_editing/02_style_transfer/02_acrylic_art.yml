@@ -1,0 +1,227 @@
+prompt: |
+  Transform any illustration into a physical multi-layered acrylic art installation with ultra-clear, highly luminous materials. CRITICAL: The original art style, linework, and character features MUST BE STRICTLY PRESERVED without abstraction or simplification.
+
+  **CUSTOMIZABLE PARAMETERS:**
+  - **Base Panel Size:** [Select margin: "tight 2cm margin", "standard 4cm margin", "generous 6cm margin", "minimal 1cm margin"]
+  - **Acrylic Transmission:** [Light quality: "ultra-clear glass-like", "high transmission luminous", "crystal clear brilliant", "diamond clarity"]
+  - **Lighting Direction:** [Angle: "45-degree diagonal", "60-degree steep", "30-degree shallow", "cross-diagonal dual"]
+  - **Wall Color:** [Background: "pure white matte", "off-white textured", "light grey concrete", "warm white plaster"]
+  - **Standoff Style:** [Hardware: "polished chrome", "brushed nickel", "matte black", "brass gold", "transparent acrylic"]
+  - **Caustic Intensity:** [Shadow projection: "vibrant high contrast", "moderate glow", "subtle soft", "dramatic saturated"]
+
+  **AI INSTRUCTION: STYLE PRESERVATION RULE**
+
+  Carefully analyze the provided **[Input Illustration]**:
+
+  1. **ABSOLUTE PRESERVATION REQUIREMENTS:**
+     - Original linework style MUST remain identical (thickness, texture, style)
+     - Character features and proportions preserved exactly
+     - Art style characteristics maintained (anime, realistic, cartoon, etc.)
+     - No abstraction, simplification, or reinterpretation of the drawing
+     - Facial expressions and details kept precisely as input
+     - All fine details and intricate elements preserved
+
+  2. **What Changes (Material Only):**
+     - Medium transforms from digital/paper to transparent acrylic
+     - Physical depth added through layer separation
+     - Light transmission effects added
+     - Caustic shadow projections created
+     - **The artwork itself remains visually identical**
+
+  **COMPOSITION RULE:**
+
+  The final product photography creates a perfectly straight-on frontal view of a wall-mounted acrylic installation:
+
+  1. **Aspect Ratio Matching:**
+     - Output dimensions MUST match input illustration proportions
+     - Portrait input → portrait output
+     - Landscape input → landscape output
+     - Square input → square output
+
+  2. **Base Panel Specifications:**
+     - Large clear acrylic base panel serves as foundation
+     - Mounted to white wall using visible metallic standoffs
+     - Panel edges are perfectly straight and beveled
+     - Ultra-clear transparency with slight edge glow
+
+  3. **Containment Rule (CRITICAL):**
+     - The ENTIRE die-cut illustration must fit within base panel boundaries
+     - No artwork elements extend beyond the base panel edges
+     - Appropriate clear margin maintained between art and panel edge
+     - Margin allows base panel visibility on all sides
+
+  4. **Mounting Hardware:**
+     - 4-6 visible metallic standoffs securing base to wall
+     - Positioned at corners and strategic points
+     - Creates 2-3cm air gap between panel and wall
+     - Hardware casts subtle shadows on wall
+
+  **MATERIAL PHYSICS RULE (HIGH TRANSMISSION):**
+
+  The illustration is reconstructed as a physical multi-layered installation using ultra-clear, highly luminous tinted acrylic sheets optimized for maximal light transmission:
+
+  1. **Material Construction Method:**
+     - Each color area is a separate die-cut acrylic layer
+     - Colors are the intrinsic color of the transparent material itself
+     - NOT painted or printed - the material IS colored glass-like acrylic
+     - Layers stacked with 3-5mm spacing creating dimensional depth
+
+  2. **Color-Specific Material Properties:**
+
+     **For Skin/White/Light Areas:**
+     - MUST be **pure, colorless, ultra-clear glass-like acrylic**
+     - Absolute transparency like crystal or water
+     - Zero tint or coloration
+     - Allows 95%+ light transmission
+     - Subtle prismatic edge refraction
+
+     **For Colored Areas (Hair/Clothes/Eyes/Accessories):**
+     - **Highly translucent colored acrylic** with vibrant hue
+     - Material itself IS the color (like colored glass)
+     - Extremely see-through quality (70-85% light transmission)
+     - Light passes through showing vivid color
+     - No opacity or solid appearance
+     - Jewel-like luminosity
+
+     **For Dark/Black Areas:**
+     - Deep tinted acrylic (dark grey, navy, or charcoal tint)
+     - Still maintains translucency (40-60% transmission)
+     - Not completely opaque - light filters through
+     - Rich depth with dimensional glow
+
+  3. **Edge Treatment:**
+     - Precisely laser-cut or CNC-routed edges
+     - Polished to diamond clarity
+     - Slight light refraction at edge boundaries
+     - Clean, professional finish quality
+
+  4. **Layer Stacking Appearance:**
+     - Multiple acrylic sheets layered with air gaps
+     - Creates parallax depth effect
+     - Each layer perfectly registered to others
+     - Professional precision alignment
+
+  **LIGHTING & SHADOW PHYSICS:**
+
+  Strong directional lighting creates the signature characteristic of this medium - bright, glowing, colorful caustic projections:
+
+  1. **Primary Lighting:**
+     - Strong cool-toned directional light (5500K-6500K)
+     - Positioned at 45-60 degree diagonal angle
+     - Creates defined shadows and light paths
+     - LED or halogen quality (not warm incandescent)
+
+  2. **Light Transmission Behavior:**
+     - Light passes THROUGH the highly transparent acrylic artwork
+     - Colored areas filter the light into colored projections
+     - Clear areas transmit pure white light
+     - Creates vibrant chromatic caustics on wall
+
+  3. **Caustic Shadow Characteristics (CRITICAL):**
+     - **NOT dark or heavy shadows**
+     - Bright, glowing, highly translucent colorful projections
+     - Show original artwork colors as luminous shapes on wall
+     - Wall texture visible underneath colored light
+     - Shadow area feels light and airy, not opaque
+     - Vibrant color transmission creates "stained glass window" effect
+
+  4. **Wall Interaction:**
+     - Projected caustics reveal wall's physical texture
+     - Slight blur/softness due to distance from acrylic to wall
+     - Color intensity varies with acrylic layer thickness
+     - Multiple overlapping color projections create rich gradients
+
+  5. **Ambient Environment:**
+     - Subtle environmental fill light prevents complete darkness
+     - White wall reflects soft bounced light
+     - Overall bright, gallery-like presentation
+     - Clean, modern aesthetic
+
+  **DEPTH & DIMENSIONALITY:**
+
+  - **Parallax Effect:** Multiple layers create subtle offset when viewed frontally
+  - **Edge Glow:** Light catches acrylic edges creating luminous outlines
+  - **Spatial Depth:** 1-2cm total depth from front layer to base panel
+  - **Shadow Projection Distance:** Caustics cast 2-5cm behind installation
+  - **Volumetric Quality:** Artwork has physical presence in space
+
+  **PHOTOGRAPHY STYLE:**
+
+  - **Camera Position:** Perfectly straight-on, perpendicular to wall surface
+  - **Framing:** Entire artwork centered with even margins
+  - **Focus:** Sharp detail on acrylic layers and caustic projections
+  - **Depth of Field:** Medium (f/5.6-f/8) - keeps all layers and wall in focus
+  - **Lens:** 50mm or 85mm equivalent (minimal distortion)
+  - **Perspective:** Architectural straight lines, no keystoning
+
+  **TECHNICAL SPECIFICATIONS:**
+
+  - **Resolution:** 8K ultra-high definition (7680×4320 or higher)
+  - **Detail Level:** Ultra-detailed - visible acrylic texture, wall grain, light refraction
+  - **Color Accuracy:** Precise representation of transmitted light colors
+  - **Dynamic Range:** High - captures both bright refractive edges and subtle caustics
+  - **Sharpness:** Professional product photography quality
+  - **Lighting Accuracy:** Physically accurate light transmission and caustic behavior
+
+  **SURFACE & TEXTURE DETAILS:**
+
+  - **Acrylic Surface:**
+    - Pristine clarity with zero scratches
+    - Subtle surface reflections showing environment
+    - Slight Fresnel effect at viewing angles
+    - Professional fabrication quality
+
+  - **Wall Texture:**
+    - Fine grain visible through projected caustics
+    - Matte surface diffuses colored light
+    - Slight texture adds realism
+    - Clean, gallery-prepared surface
+
+  - **Standoff Hardware:**
+    - Metallic finish with subtle reflections
+    - Precise manufacturing quality
+    - Casts small defined shadows
+    - Professional mounting appearance
+
+  **OUTPUT SPECIFICATIONS:**
+
+  Perfect for:
+  - Custom acrylic art product visualization
+  - Anime/manga character merchandise concepts
+  - Personalized illustration-to-product transformation
+  - Interior design mockups with art installations
+  - Gallery presentation concepts
+  - Premium merchandise preview images
+  - Social media showcase of physical products
+  - E-commerce product photography style renders
+
+  **USAGE NOTES:**
+
+  - Works brilliantly with illustrations that have distinct color regions
+  - Anime/manga art style particularly well-suited due to clear color separation
+  - Character portraits, fan art, and original illustrations ideal
+  - Line art with solid color fills translates perfectly
+  - Highly detailed illustrations maintain all detail in acrylic form
+  - Watercolor or painterly styles can work with proper color region interpretation
+
+  **QUALITY MARKERS:**
+
+  A successful acrylic art transformation includes:
+  - ✓ Original illustration style completely preserved
+  - ✓ Bright, colorful caustic projections (not dark shadows)
+  - ✓ High material transparency and luminosity
+  - ✓ Professional fabrication quality appearance
+  - ✓ Proper containment within base panel boundaries
+  - ✓ Physically accurate light transmission behavior
+  - ✓ Gallery-quality presentation aesthetic
+  - ✓ Ultra-clear material resembling glass or crystal
+
+  **CREATIVE APPLICATIONS:**
+
+  - Transform favorite character art into premium physical product concepts
+  - Create luxury merchandise visualization for artists
+  - Design personalized art installations for interior spaces
+  - Showcase illustration portfolio in innovative physical format
+  - Generate premium product mockups for crowdfunding campaigns
+  - Visualize gallery-quality presentation of digital artwork
+  - Create aspirational product images for collectors
