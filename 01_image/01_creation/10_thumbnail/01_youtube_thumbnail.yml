@@ -1,0 +1,276 @@
+prompt: |
+  Generate high-impact YouTube thumbnail designs optimized for click-through rate with industry-specific customization and professional layout structure.
+
+  **CUSTOMIZABLE PARAMETERS:**
+  - **Video Category:** [Select: "business/how-to", "tech tutorial", "lifestyle vlog", "educational", "entertainment", "product review"]
+  - **Target Audience:** [Choose: "entrepreneurs", "general public", "professionals", "students", "hobbyists"]
+  - **Emotion to Evoke:** [Select: "curiosity", "urgency", "excitement", "trust", "aspiration", "shock"]
+  - **Thumbnail Style:** [Choose: "professional clean", "energetic vibrant", "minimalist modern", "dramatic bold", "friendly approachable"]
+  - **Color Scheme:** [Select: "high contrast", "brand colors", "complementary", "monochrome accent", "gradient dynamic"]
+
+  **OVERALL DESIGN SETTINGS:**
+
+  ```yaml
+  style: "YouTube Thumbnail (Industry-Specific AI Utilization)"
+  theme_color: "Purple, Neon Green, Black, Gold"
+  aspect_ratio: "3:2"
+  resolution: "1200x800"
+  mood: "Business Professional, Cutting-Edge, Strong Appeal"
+  ```
+
+  **BACKGROUND SETTINGS:**
+
+  ```yaml
+  background:
+    type: "Futuristic Texture"
+    color: "Deep purple to black gradient"
+    overlay: "Intersecting numbers and light rays, futuristic style"
+  ```
+
+  **TEXT COMPOSITION:**
+
+  ### Text Layer 1: Tag/Label
+  ```yaml
+  main_texts:
+    - id: "tag"
+      content: "整体院オーナー必見" (Customizable: "[Target Audience] Must-See")
+      font_style: "bold"
+      font_size: "medium"
+      font_color: "white"
+      background_color: "#b4004e"
+      position: "top-left"
+      padding: "6px 20px"
+      shape: "angled ribbon"
+  ```
+
+  **Purpose:** Creates urgency and targets specific audience segment
+
+  ### Text Layer 2: Main Headline
+  ```yaml
+    - id: "headline"
+      content: "AIで予約が勝手に入る！" (Customizable: Main benefit statement)
+      font_style: "extra-bold"
+      font_size: "xx-large"
+      font_color: "#ccff66" (neon green)
+      text_outline: "dark purple"
+      position: "center-left"
+  ```
+
+  **Purpose:** Primary attention-grabber with bold benefit claim
+
+  ### Text Layer 3: Brand/Tool Name
+  ```yaml
+    - id: "brand"
+      content: "GenAssist Pro搭載" (Customizable: Tool/method name)
+      font_style: "bold italic"
+      font_size: "large"
+      font_color: "white"
+      icon: "Robot-style logo (virtual)"
+      position: "below-headline"
+  ```
+
+  **Purpose:** Establishes credibility and specific methodology
+
+  ### Text Layer 4: Value Proposition
+  ```yaml
+    - id: "highlight"
+      content: "現場で使える自動化テク5選"
+      font_style: "bold"
+      font_size: "x-large"
+      font_color:
+        - "black for '現場で使える'"
+        - "gradient gold for '自動化テク'"
+        - "black for '5選'"
+      background_color: "white"
+      padding: "10px 16px"
+      position: "bottom-left"
+  ```
+
+  **Purpose:** Specific deliverable with numbered promise (list/steps hook)
+
+  **PERSON/MODEL ELEMENT (Right Side):**
+
+  ```yaml
+  person:
+    type: "male"
+    description: "Japanese man in his 30s, wearing polo shirt, smiling with thumbs-up pose. Conveys trustworthiness and confidence."
+    position: "right"
+    style: "cutout, brightly adjusted"
+    outline: "white border for emphasis"
+  ```
+
+  **Customization Options:**
+  - Gender: Male/Female
+  - Age: 20s/30s/40s/50s
+  - Attire: Casual/Business/Technical
+  - Expression: Smiling/Serious/Surprised/Excited
+  - Pose: Thumbs-up/Pointing/Gesturing/Arms crossed
+
+  **EFFECTS & DECORATIONS:**
+
+  ```yaml
+  effects:
+    - type: "text glow"
+      apply_to: ["headline"]
+      glow_color: "#ccff66"
+      intensity: "medium"
+
+    - type: "pulse line"
+      color: "blue"
+      direction: "radiating from background center"
+
+    - type: "keyword sparkle"
+      keyword: "自動化" (automation)
+      effect: "gold shine and reflection effect"
+  ```
+
+  **LAYOUT STRUCTURE:**
+
+  ```
+  ┌─────────────────────────────────────┐
+  │ [TAG]                        [PERSON]│
+  │                                      │
+  │  MAIN HEADLINE                       │
+  │  (Large, Neon Color)                 │
+  │                                      │
+  │  Brand/Tool Name                     │
+  │                                      │
+  │  [VALUE PROPOSITION BOX]             │
+  └─────────────────────────────────────┘
+  ```
+
+  **DESIGN PRINCIPLES:**
+
+  ### 1. Visual Hierarchy
+  - **Primary:** Main headline (largest, brightest color)
+  - **Secondary:** Value proposition box (contrasting white background)
+  - **Tertiary:** Tag label (accent color, small but visible)
+  - **Supporting:** Brand name (complements headline)
+
+  ### 2. Color Psychology
+  - **Purple:** Premium, professional, tech-savvy
+  - **Neon Green:** Energy, innovation, action
+  - **Gold:** Value, quality, achievement
+  - **Black:** Sophistication, authority
+  - **White:** Clarity, trust, readability
+
+  ### 3. Readability Standards
+  - **Minimum Font Size:** 30px for smallest text
+  - **Contrast Ratio:** 4.5:1 minimum for text/background
+  - **Text Outline:** Used for text over complex backgrounds
+  - **Word Count:** Maximum 10-12 words total across all text
+
+  ### 4. Attention Triggers
+  - **Numbers:** "5選" (5 techniques) creates list appeal
+  - **Action Words:** "勝手に入る" (automatically comes in)
+  - **Benefit-Driven:** Focuses on outcome, not process
+  - **Specificity:** "整体院" (chiropractic clinic) targets niche
+
+  **INDUSTRY-SPECIFIC CUSTOMIZATION EXAMPLES:**
+
+  ### Business/Startup Theme:
+  ```yaml
+  tag: "起業家必見"
+  headline: "売上が3倍になるAI戦略"
+  brand: "ChatGPT × 自動化"
+  highlight: "今日から使える集客術7選"
+  colors: ["navy", "orange", "white"]
+  ```
+
+  ### Tech/Programming Theme:
+  ```yaml
+  tag: "エンジニア向け"
+  headline: "コード書かずに自動化"
+  brand: "GPT-4 API活用"
+  highlight: "実装例5つ完全公開"
+  colors: ["cyan", "magenta", "black"]
+  ```
+
+  ### Health/Wellness Theme:
+  ```yaml
+  tag: "健康志向の方へ"
+  headline: "AIが診断する最適な運動"
+  brand: "個別カスタマイズ"
+  highlight: "無料で試せる方法3選"
+  colors: ["green", "yellow", "white"]
+  ```
+
+  ### Education/Learning Theme:
+  ```yaml
+  tag: "学習効率UP"
+  headline: "暗記が10倍速くなる"
+  brand: "AI学習メソッド"
+  highlight: "実証済みテクニック4つ"
+  colors: ["blue", "gold", "white"]
+  ```
+
+  **TECHNICAL SPECIFICATIONS:**
+
+  - **File Format:** PNG or JPG (PNG preferred for quality)
+  - **Resolution:** 1280×720 minimum (YouTube standard)
+  - **File Size:** Under 2MB for fast loading
+  - **Safe Zone:** Keep critical elements within 90% center (avoid edges)
+  - **Text Placement:** Left or center (never right, often cropped on mobile)
+
+  **THUMBNAIL TESTING CHECKLIST:**
+
+  - [ ] Readable at small size (preview at 320×180)
+  - [ ] Main message clear in 1-2 seconds
+  - [ ] Face/person visible and well-lit (if included)
+  - [ ] High contrast between text and background
+  - [ ] No misleading clickbait (violates YouTube policy)
+  - [ ] Consistent with channel branding
+  - [ ] Different from competitor thumbnails in niche
+
+  **A/B TESTING VARIATIONS:**
+
+  Create 2-3 versions with variations in:
+  1. **Text emphasis:** Different words highlighted in gold
+  2. **Person expression:** Smiling vs. serious vs. surprised
+  3. **Color scheme:** Purple/green vs. blue/orange vs. red/yellow
+  4. **Number promise:** "5選" vs. "7つの秘密" vs. "完全ガイド"
+
+  **PSYCHOLOGICAL TRIGGERS:**
+
+  - **Curiosity Gap:** Hint at solution without revealing all
+  - **Social Proof:** "◯万人が実践" (if applicable)
+  - **Urgency:** "今すぐ" "期間限定" (use sparingly)
+  - **Authority:** Credentials, certifications, expert status
+  - **Transformation:** Before/after, problem/solution contrast
+
+  **COMMON MISTAKES TO AVOID:**
+
+  - ❌ Too much text (overwhelming, unreadable)
+  - ❌ Low contrast (text disappears at small size)
+  - ❌ Generic stock photos (lacks authenticity)
+  - ❌ Misleading images (damages channel credibility)
+  - ❌ Inconsistent style (confuses audience)
+  - ❌ No focal point (viewer doesn't know where to look)
+
+  **OUTPUT SPECIFICATIONS:**
+
+  Perfect for:
+  - YouTube video thumbnails (primary use)
+  - Social media preview images
+  - Course/webinar promotional graphics
+  - Blog post featured images
+  - Email campaign headers
+
+  **USAGE WORKFLOW:**
+
+  1. Define video topic and target audience
+  2. Customize YAML parameters for your niche
+  3. Generate thumbnail with AI image tool
+  4. Test readability at small size
+  5. A/B test variations if possible
+  6. Monitor click-through rate (CTR)
+  7. Iterate based on performance data
+
+  **PERFORMANCE BENCHMARKS:**
+
+  - **Good CTR:** 4-6% for established channels
+  - **Excellent CTR:** 8-10%+ (viral potential)
+  - **Optimize for:** First 24-48 hours performance
+  - **Refresh:** Update thumbnail if CTR drops below 3%
+
+  This thumbnail structure is optimized for maximum visibility and click-through in competitive YouTube environment.

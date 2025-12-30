@@ -1,0 +1,149 @@
+prompt: |
+  Generate high-quality LINE sticker designs with consistent characters expressing various emotions and messages in a 3x3 grid layout.
+
+  **CUSTOMIZABLE PARAMETERS:**
+  - **Main Character Type:** [Select: "cat-eared girl", "anime character", "cute animal", "mascot creature", "chibi human"]
+  - **Secondary Character:** [Select: "small penguin", "sidekick animal", "floating emoji", "mini companion", "none"]
+  - **Hair Color:** [Choose: "pastel pink", "light blue", "lavender purple", "mint green", "honey blonde"]
+  - **Outfit Style:** [Select: "hoodie", "casual wear", "school uniform", "pajamas", "seasonal costume"]
+  - **Art Style:** [Choose: "soft deformed", "anime style", "chibi kawaii", "simple line art", "semi-realistic cute"]
+  - **Color Scheme:** [Select: "pastel soft", "vibrant pop", "warm cozy", "cool fresh", "monochrome accent"]
+
+  **CHARACTER DESIGN:**
+
+  ### Character 1 (Main Character):
+  - **Name:** Cat-Eared Girl (customizable)
+  - **Description:**
+    - Age appearance: Late teens to early 20s
+    - Cat ears on head (part of character design)
+    - Medium to long hair in pastel color (e.g., light pink)
+    - Wearing hooded parka or casual clothing
+    - Cat-like poses and expressions
+    - Cute, energetic, friendly impression
+
+  ### Character 2 (Companion):
+  - **Name:** Small Penguin (customizable)
+  - **Description:**
+    - Deformed, small, round penguin character
+    - Black and white base with hint of pink cheeks
+    - Expressive face despite simple design
+    - Positioned next to, on shoulder, or interacting with main character
+    - Provides support or echoes emotions
+
+  **OVERALL STYLE:**
+
+  - **Background:** Pure white (#FFFFFF)
+  - **Layout:** 3 columns × 3 rows (total 9 panels/stickers)
+  - **Outline:** Soft line art, deformed/chibi proportions
+  - **Text Style:** Handwritten feel, emotion-based colors, bold when needed
+  - **Atmosphere:** Bright, cute, LINE sticker aesthetic
+
+  **PANEL SPECIFICATIONS:**
+
+  Each panel represents one sticker with specific text, pose, and emotion.
+
+  ### Panel 1 (Top-Left):
+  - **Text:** "おはよ〜" (Good morning~)
+  - **Text Color:** Yellow (#FFEB3B)
+  - **Girl Pose:** Waving hand energetically, smiling face
+  - **Penguin Pose:** Waving wing together in greeting
+
+  ### Panel 2 (Top-Center):
+  - **Text:** "ありがとっ！" (Thanks!)
+  - **Text Color:** Orange (#FF9800)
+  - **Girl Pose:** Light bow, eyes narrowed in happy smile
+  - **Penguin Pose:** Hands together in gratitude bow
+
+  ### Panel 3 (Top-Right):
+  - **Text:** "おつかれさま〜" (Good work~)
+  - **Text Color:** Blue (#2196F3)
+  - **Girl Pose:** Salute pose, gentle smile
+  - **Penguin Pose:** Salute from shoulder
+
+  ### Panel 4 (Middle-Left):
+  - **Text:** "えっ!?まじで？" (What!? Really?)
+  - **Text Color:** Cyan (#00BCD4)
+  - **Girl Pose:** Surprised face (wide eyes, open mouth)
+  - **Penguin Pose:** Surprised expression with sweat drop
+
+  ### Panel 5 (Center):
+  - **Text:** "ねーいっ!!" (Hey/Wait!!)
+  - **Text Color:** Orange + Blue gradient
+  - **Girl Pose:** Both arms spread wide, shouting/panicking face
+  - **Penguin Pose:** Flustered and sweating
+
+  ### Panel 6 (Middle-Right):
+  - **Text:** "ちょっと待てー！" (Wait a minute!)
+  - **Text Color:** Red (#F44336)
+  - **Girl Pose:** Both hands in stop gesture, angry/frustrated face
+  - **Penguin Pose:** Anger mark symbol behind
+
+  ### Panel 7 (Bottom-Left):
+  - **Text:** "OKだよ〜" (It's OK~)
+  - **Text Color:** Yellow (#FFEB3B)
+  - **Girl Pose:** Thumbs up with smile
+  - **Penguin Pose:** Happy smile with sparkle stars
+
+  ### Panel 8 (Bottom-Center):
+  - **Text:** "ごめーん" (Sorry~)
+  - **Text Color:** Blue (#2196F3)
+  - **Girl Pose:** Troubled face, hands together in apology
+  - **Penguin Pose:** Head down, dejected posture
+
+  ### Panel 9 (Bottom-Right):
+  - **Text:** "いま行くー！" (Coming now!)
+  - **Text Color:** Red (#F44336)
+  - **Girl Pose:** Running motion, energetic smiling face
+  - **Penguin Pose:** Hopping along, following energetically
+
+  **TEXT RENDERING SPECIFICATIONS:**
+
+  - **Font:** Handwritten Japanese style (e.g., rounded, friendly)
+  - **Weight:** Bold for emphasis
+  - **Outline:** Subtle white stroke for readability
+  - **Placement:** Natural position that doesn't obscure character faces
+  - **Size:** Large enough to read on mobile devices
+  - **Color Meaning:**
+    - Yellow: Cheerful, friendly, morning energy
+    - Orange: Warm gratitude, excitement
+    - Blue: Calm, polite, evening/work context
+    - Red: Urgency, passion, strong emotion
+    - Cyan: Surprise, shock
+
+  **TECHNICAL SPECIFICATIONS:**
+
+  - **Resolution:** Optimized for LINE sticker format (370×320px per sticker recommended)
+  - **File Format:** PNG with transparency (if needed) or white background
+  - **Color Mode:** RGB
+  - **Style Consistency:** All 9 stickers must maintain identical art style, line weight, and character design
+  - **Expression Range:** Cover full emotional spectrum for daily conversation use
+
+  **USAGE GUIDELINES:**
+
+  These stickers are designed for:
+  - Daily casual conversations
+  - Friendly chat with close friends/family
+  - Expressing common emotions and reactions
+  - Japanese messaging contexts (text is in Japanese)
+
+  **CUSTOMIZATION OPTIONS:**
+
+  To create your own version:
+  1. Replace character descriptions with your desired character
+  2. Adjust text to your preferred language and phrases
+  3. Modify color scheme to match your brand or preference
+  4. Change poses to fit character personality
+  5. Add/remove companion character as needed
+
+  **CONSISTENCY CHECKLIST:**
+
+  - [ ] All characters maintain same design across 9 panels
+  - [ ] Line weight and art style identical throughout
+  - [ ] Background pure white in all panels
+  - [ ] Text clearly readable and emotionally appropriate
+  - [ ] Poses and expressions match text meaning
+  - [ ] Overall grid composition is balanced
+
+  **OUTPUT FORMAT:**
+
+  Single image containing 3×3 grid of stickers, or 9 individual sticker files, depending on generation platform capabilities.
