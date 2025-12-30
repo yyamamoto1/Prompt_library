@@ -1,0 +1,165 @@
+prompt: |
+  Transform any image into a cozy knitted pattern design on a Christmas sweater or blanket. Convert pixels to stitches for authentic handmade textile appearance.
+
+  **CUSTOMIZABLE PARAMETERS:**
+  - **Textile Type:** [Select: "chunky knit sweater", "cozy blanket", "throw pillow cover", "scarf", "mittens"]
+  - **Knit Style:** [Choose technique: "Fair Isle jacquard", "intarsia colorwork", "Nordic traditional", "ugly Christmas sweater", "modern geometric"]
+  - **Presentation:** [Display method: "folded neatly", "worn on model", "draped over chair", "flat lay styled", "hanging display"]
+  - **Wool Weight:** [Select thickness: "super chunky", "bulky", "worsted medium", "sport lightweight"]
+  - **Color Palette Processing:** [Adapt: "exact match from input", "simplified 3-4 colors", "monochrome variation", "pastel softened", "high contrast bold"]
+
+  **AI INSTRUCTION: PIXEL-TO-STITCH TRANSLATION**
+
+  Carefully analyze the provided **[Input Image]**:
+
+  1. **Knitted Pattern Conversion:**
+     - Rasterize the [Input Image] into **pixel-art style knitting pattern**
+     - Each pixel becomes an individual yarn stitch
+     - Lines and shapes formed by visible stitch structure
+     - Jacquard weave technique appearance
+     - Low-resolution charm (like 8-bit to knit conversion)
+
+  2. **Texture Transformation:**
+     - Replace "ink/paint" medium with "wool yarn" medium
+     - Visible individual stitch definition
+     - V-shaped knit stitch texture throughout
+     - Subtle dimensional depth from yarn thickness
+     - Authentic handmade irregularity (slight imperfections add realism)
+
+  3. **Color Simplification:**
+     - Extract 3-8 dominant colors from input image
+     - Convert to yarn-appropriate color palette
+     - Maintain recognizability of original subject
+     - Ensure sufficient contrast for pattern visibility
+
+  **MAIN SUBJECT:**
+
+  A cozy, high-quality photograph of a **Chunky Knitted Christmas Sweater** (or selected textile) either folded neatly, worn, or artfully displayed.
+
+  **THE DESIGN:**
+
+  - **Center Motif:**
+    - Character or scene from [Input Image] featured prominently
+    - Positioned on chest area (for sweater) or center (for blanket)
+    - Woven pattern with charming, slightly low-res aesthetic
+    - "Fair Isle" or "ugly sweater" nostalgic style
+    - Clear visual translation from original image to knit
+
+  - **Surrounding Patterns:**
+    - Traditional winter motifs framing the main image:
+      - Snowflakes (geometric or organic)
+      - Reindeer or deer silhouettes
+      - Geometric zig-zags or chevrons
+      - Nordic star patterns
+      - Trees or mountain ranges
+      - Striped bands separating motifs
+
+  - **Color Coordination:**
+    - Colors extracted from [Input Image]
+    - Applied to both center motif and surrounding patterns
+    - Harmonious overall composition
+    - Festive winter color scheme
+
+  - **Knit-Specific Details:**
+    - Visible ribbed cuffs and hem
+    - Collar/neckline with ribbing pattern
+    - Sleeves with coordinating patterns
+    - Authentic sweater construction details
+
+  **MATERIAL & ATMOSPHERE:**
+
+  - **Texture (Critical Detail):**
+    - **Extremely detailed macro shot** of wool fibers
+    - Individual yarn strands visible
+    - V-shaped stitch pattern clearly defined
+    - Fuzzy, soft texture that looks touchable
+    - Slight pilling or fiber halo for realism
+    - Dimensional depth from stitch thickness
+
+  - **Wool Characteristics:**
+    - Natural wool sheen
+    - Slight color variation within each yarn color (realistic)
+    - Soft shadows between stitches
+    - Warm, inviting tactile quality
+
+  **LIGHTING & ENVIRONMENT:**
+
+  - **Lighting Style:**
+    - Warm indoor lighting
+    - Soft, diffused quality
+    - Highlights texture and fiber detail
+    - Creates cozy, intimate atmosphere
+
+  - **Setting Options:**
+    - Near a fireplace with soft glow
+    - On a rustic wooden surface
+    - With hygge-style props (coffee mug, book, candles)
+    - Against neutral background emphasizing texture
+    - Holiday-decorated interior (subtle)
+
+  - **Mood:**
+    - Cozy hygge atmosphere
+    - Nostalgic Christmas feeling
+    - Handmade with love aesthetic
+    - Comfortable and warm
+    - Inviting winter comfort
+
+  **PHOTOGRAPHY STYLE:**
+
+  - **Composition:**
+    - Full garment visible or artistic close-up showing pattern detail
+    - Rule of thirds for styled shots
+    - Center-focused for pattern showcase
+
+  - **Focus:**
+    - Macro detail on knit texture
+    - Shallow depth of field emphasizing fibers
+    - Sharp detail on center motif pattern
+
+  - **Perspective:**
+    - Slight overhead angle for flat lay
+    - Eye-level for worn presentation
+    - Close-up macro for texture detail shots
+
+  **TECHNICAL SPECIFICATIONS:**
+
+  - **Resolution:** 4K-8K ultra-high definition
+  - **Style:** Photorealistic textile photography
+  - **Texture Detail:** Macro-level fiber and stitch visibility
+  - **Color Grading:** Warm, cozy tones
+  - **Depth of Field:** Moderate to shallow (emphasize texture)
+  - **Quality:** Professional product photography standard
+
+  **PATTERN AUTHENTICITY:**
+
+  - Knit pattern should look technically feasible
+  - Follow actual Fair Isle or intarsia knitting logic
+  - Color changes at logical stitch boundaries
+  - Realistic gauge (stitch count per inch)
+  - Authentic sweater construction methods
+
+  **OUTPUT SPECIFICATIONS:**
+
+  Perfect for:
+  - Custom sweater design visualization
+  - Personalized holiday gift concepts
+  - Nostalgic photo transformation
+  - Textile product mockups
+  - Social media creative content
+  - Pattern design inspiration for actual knitting
+  - Seasonal marketing materials
+
+  **USAGE NOTES:**
+
+  - Works best with images that have clear subjects and strong shapes
+  - Highly detailed input images will be simplified to stitch-friendly patterns
+  - Character designs, pets, portraits, logos, and icons work particularly well
+  - Final result balances between recognizable subject and authentic knit aesthetic
+
+  **CREATIVE APPLICATIONS:**
+
+  - Transform family photos into heirloom sweater designs
+  - Convert pet photos to wearable art
+  - Create personalized holiday gifts visually
+  - Design character merchandise with textile aesthetic
+  - Nostalgic 80s/90s Christmas sweater recreations

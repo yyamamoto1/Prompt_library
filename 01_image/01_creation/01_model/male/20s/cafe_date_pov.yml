@@ -1,0 +1,179 @@
+prompt: |
+  Generate a realistic POV (point-of-view) candid photo of a handsome Japanese man in his 20s during a cafe date, shot from across the table as if you're his date. Perfect for dating app profiles with naturally enhanced, retouched skin.
+
+  **CUSTOMIZABLE PARAMETERS:**
+  - **Attire Style:** [Select: "oversized nylon jacket", "casual sweater", "smart casual shirt", "denim jacket", "hoodie streetwear"]
+  - **Jacket Color:** [Choose: "matte black", "navy blue", "olive green", "charcoal gray", "beige tan"]
+  - **Cup Style:** [Select: "paper coffee cup", "ceramic mug", "glass latte cup", "takeaway cup with sleeve"]
+  - **Cafe Atmosphere:** [Choose: "modern minimal", "industrial chic", "cozy traditional", "Scandinavian bright", "urban trendy"]
+  - **Personality Vibe:** [Express: "boyfriend material", "friendly approachable", "sophisticated cool", "warm genuine", "confident casual"]
+
+  **PHOTOGRAPHY STYLE:**
+
+  - **Type:** Realistic candid photo, photorealistic quality
+  - **Perspective:** POV date shot (viewer is sitting across the table)
+  - **Camera Simulation:** Shot on iPhone style (natural, authentic smartphone aesthetic)
+  - **Vibe:** "Boyfriend material" - approachable, warm, dateable energy
+
+  **LIGHTING & TECHNICAL SETUP:**
+
+  - **Light Source:** Natural sunlight streaming through cafe windows
+  - **Quality:** Soft, flat lighting (flattering for skin)
+  - **Effect:** Gentle, even illumination without harsh shadows
+  - **White Balance:** Warm, inviting tones
+
+  - **Focus:**
+    - Shallow depth of field
+    - Subject in sharp focus
+    - Background naturally blurred (bokeh)
+    - Other customers softly out of focus
+
+  **SUBJECT DETAILS:**
+
+  **Demographics:**
+  - Gender: Male
+  - Nationality: Japanese
+  - Age: 20s (specify if early 20s, mid 20s, or late 20s)
+  - Descriptor: Handsome, naturally attractive
+
+  **Facial Features (Retouched):**
+  - **Skin Texture:** Naturally smooth, clear complexion
+  - **Skin Quality:** Blemish-free, even tone
+  - **Retouching Level:** Subtle and realistic (not over-processed)
+  - **Natural Details Preserved:** Skin texture remains visible, not plastic or artificial
+  - **Enhancement Focus:** Minimize imperfections while maintaining masculine authenticity
+
+  **Attire & Accessories:**
+  - **Jacket:** Matte black oversized nylon jacket (or selected alternative)
+  - **Style:** Contemporary, street-casual fashion
+  - **Fit:** Relaxed, comfortable, stylish oversized silhouette
+  - **Jewelry:** Simple silver ring on left ring finger (subtle, tasteful)
+
+  **Pose & Action:**
+  - **Posture:** Sitting, leaning forward slightly toward viewer
+  - **Elbows:** Resting on table (engaged, interested body language)
+  - **Hands:** Holding paper coffee cup with both hands
+  - **Cup Position:** Bringing cup to mouth, slightly covering lower face
+  - **Body Language:** Relaxed but attentive, interested in conversation
+
+  **Expression & Gaze:**
+  - Eyes making contact with viewer/camera
+  - Warm, friendly expression
+  - Slight smile or soft, approachable face
+  - Engaged and present energy
+  - Natural, unforced expression
+
+  **ENVIRONMENT:**
+
+  **Cafe Setting:**
+  - Location: Stylish modern cafe
+  - Aesthetic: Contemporary, Instagram-worthy atmosphere
+  - Ambiance: Comfortable, date-friendly environment
+
+  **Immediate Surroundings:**
+  - Table: Light wooden table (Scandinavian style)
+  - Surface: Clean, minimal styling
+  - Natural, uncluttered composition
+
+  **Architectural Details:**
+  - White industrial ceiling (exposed or minimalist design)
+  - Glass partitions or large windows
+  - Modern, airy interior design
+  - Bright, well-lit space
+
+  **Background Elements:**
+  - Other cafe customers (blurred, providing context)
+  - Cafe interior details softly out of focus
+  - Suggests popular, lively cafe atmosphere
+  - Bokeh effect on background lights/windows
+
+  **COMPOSITION:**
+
+  - **Aspect Ratio:** 3:4 (vertical, mobile-friendly)
+  - **Framing:** Medium close-up to medium shot
+  - **Angle:** Straight-on, eye-level from across table
+  - **Rule of Thirds:** Subject positioned for visual balance
+  - **Negative Space:** Minimal, intimate framing
+
+  **IMAGE QUALITY:**
+
+  - **Resolution:** 8K photorealistic quality
+  - **Quality Preset:** High quality rendering
+  - **Style Emulation:** Shot on iPhone (authentic smartphone photography look)
+  - **Color Grading:** Natural, warm tones
+  - **Sharpness:** Subject crisp, background soft
+  - **Grain:** Minimal (clean digital image)
+
+  **DATING APP OPTIMIZATION:**
+
+  - **Purpose:** Primary photo for dating app profile
+  - **Key Success Factors:**
+    - Clear view of face (despite cup)
+    - Approachable, friendly energy
+    - Shows personality and lifestyle
+    - Natural, not overly posed
+    - High quality but authentic
+    - Displays social context (cafe setting)
+
+  - **Psychological Appeal:**
+    - "Boyfriend material" vibe
+    - Suggests date-readiness
+    - Shows confidence and comfort
+    - Inviting, warm personality
+    - Stylish without trying too hard
+
+  **RETOUCHING GUIDELINES:**
+
+  - **Skin Enhancement:**
+    - Smooth out minor blemishes and uneven tone
+    - Maintain natural skin texture (pores, subtle texture)
+    - No "plastic" or overly airbrushed appearance
+    - Preserve masculine features
+    - Subtle, professional retouching only
+
+  - **What to Keep:**
+    - Natural facial structure
+    - Authentic expressions
+    - Realistic lighting and shadows
+    - Skin texture details
+    - Character and personality
+
+  - **What to Minimize:**
+    - Temporary blemishes or spots
+    - Dark circles (if excessive)
+    - Uneven skin tone patches
+    - Distracting skin imperfections
+
+  **TECHNICAL SPECIFICATIONS:**
+
+  - **Camera Body:** iPhone simulation (natural smartphone aesthetic)
+  - **Lens Effect:** Portrait mode simulation (background blur)
+  - **Aperture Simulation:** f/1.8-2.8 (shallow depth of field)
+  - **ISO:** Low (clean, minimal noise)
+  - **Color Profile:** Natural, warm, inviting
+
+  **OUTPUT SPECIFICATIONS:**
+
+  Perfect for:
+  - Dating app primary profile photo (Tinder, Bumble, Hinge, etc.)
+  - Social media profile picture
+  - Professional yet approachable headshot
+  - Lifestyle portfolio
+  - Personal branding content
+  - Instagram dating content
+
+  **USAGE TIPS:**
+
+  - Upload a clear face photo as reference for facial features
+  - Specify desired cafe style and atmosphere
+  - Choose outfit that matches personal style
+  - Works best with natural, genuine expressions
+  - Ideal for creating authentic, dateable first impression
+
+  **GENERATION TIME:**
+
+  Approximately 30 seconds from photo input to finished result.
+
+  **RECOMMENDED MODEL:**
+
+  Gemini 3.0 with Nano Banana Pro for optimal photorealistic dating profile generation.

@@ -1,0 +1,101 @@
+prompt: |
+  Generate a beautiful handmade-style Christmas wreath with personalized ornaments based on an input image.
+
+  **CUSTOMIZABLE PARAMETERS:**
+  - **Wreath Style:** [Select: "traditional natural", "luxury premium", "modern minimalist", "rustic handmade", "elegant sophisticated"]
+  - **Color Theme:** [Extracted from input image: "warm reds/golds", "cool blues/silvers", "natural greens/browns", "pastel soft tones", "vibrant pop colors"]
+  - **Display Method:** [Choose: "hanging on white wall", "held in hands", "on wooden door", "flat lay on table"]
+  - **Density:** [Select: "lush and full", "medium balanced", "airy spacious"]
+
+  **AI INSTRUCTION: IMAGE-TO-ORNAMENT CONVERSION**
+
+  Carefully analyze the provided **[Input Image]**:
+
+  1. **Color Extraction:**
+     - Extract the main color palette and atmosphere from [Input Image]
+     - Apply these colors to the overall wreath theme (ribbons, flowers, ornaments)
+     - Ensure harmonious color coordination throughout the design
+
+  2. **Motif Creation:**
+     - Identify the main character or object from [Input Image]
+     - Reimagine it as a cute handmade Christmas ornament such as:
+       - Felt plushie/stuffed toy
+       - Wood carving
+       - Icing cookie style
+       - Clay/ceramic figurine
+       - Paper craft character
+     - Position this custom ornament prominently as the centerpiece of the wreath
+
+  **MAIN SUBJECT:**
+
+  A beautiful, high-quality Christmas wreath hanging on a simple white wall (or held in hands). Features a luxurious combination of materials with dense, gorgeous, and voluminous design.
+
+  **THEMED DECORATION (Based on Input Image):**
+
+  - **Centerpiece/Charm:**
+    - Main theme from [Input Image] transformed into charming 3D ornament
+    - Attached to wreath as focal point
+    - Appears as high-quality handcrafted item (felt wool, painted wood, ceramic, etc.)
+    - Perfectly matches wreath style
+
+  - **Color Palette:**
+    - All flowers, berries, and ornaments strictly follow [Input Image] color scheme
+    - Coordinated accent colors throughout
+
+  **BASE MATERIALS (Premium Style Reference):**
+
+  Similar to luxury wreath textures:
+
+  - **Natural Materials:**
+    - Abundant pine cones (gold dusted or natural finish)
+    - Fluffy cotton flowers
+    - Dried leaves and berries
+    - Evergreen sprigs
+    - Holly berries
+
+  - **Accent Elements:**
+    - Velvet or burlap ribbons
+    - Elegant typography tags ("Merry Christmas", "Noel", etc.)
+    - Stylish paper tags with gold/silver glitter accents
+    - Small bells or jingle bells
+    - Dried orange slices
+    - Cinnamon sticks
+
+  **ATMOSPHERE & QUALITY:**
+
+  - **Lighting:**
+    - Soft, bright natural light
+    - Emphasizes texture and material details
+
+  - **Photography Style:**
+    - Shallow depth of field to emphasize textures
+    - Photorealistic 8K quality
+    - Macro detail showing material fibers and surfaces
+    - Cozy holiday season atmosphere
+
+  - **Mood:**
+    - Warm and gentle
+    - Inviting and special
+    - Handmade with love aesthetic
+
+  **TECHNICAL SPECIFICATIONS:**
+
+  - **Resolution:** 8K ultra-high definition
+  - **Style:** Photorealistic with natural textures
+  - **Composition:** Center-focused with balanced visual weight
+  - **Details:** Macro-level material texture visibility
+  - **Color Space:** Rich, warm tones with holiday atmosphere
+
+  **OUTPUT SPECIFICATIONS:**
+
+  Perfect for:
+  - Holiday greeting cards
+  - Social media seasonal posts
+  - Custom gift design inspiration
+  - Festive decoration ideas
+  - Personalized Christmas marketing materials
+
+  **USAGE NOTE:**
+
+  Model: Nano Banana Pro (Gemini)
+  Input Required: One reference image with desired character/theme and color palette
