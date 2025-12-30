@@ -1,0 +1,618 @@
+prompt: |
+  Complete 9-step system to create and sell a ¥5,000 paid note (digital content product) from scratch, even as a complete beginner. Transforms your knowledge and experience into valuable paid content.
+
+  **SYSTEM OVERVIEW:**
+
+  🎯 **Purpose & Goals:**
+  - **Knowledge Monetization:** Turn your experience/knowledge into ¥5,000 paid content
+  - **Beginner-Friendly:** Step-by-step design eliminates confusion
+  - **Confidence Building:** Complete a sales-ready content plan
+
+  ✅ **Progress Structure:** 9 Total Steps
+
+  ---
+
+  ## 🔷 STEP 1 | THEME DISCOVERY
+
+  **🎯 Purpose:**
+  Find YOUR unique theme that delivers value to readers
+
+  **🛠️ Action:**
+  Answer the following questions (bullet points OK):
+
+  ### Discovery Questions:
+  1. **What are you "slightly good at"?**
+     - Skills you have but might take for granted
+     - Things others ask you about
+     - Areas where you're more knowledgeable than average
+
+  2. **What experiences have you "overcome"?**
+     - Challenges you've successfully navigated
+     - Problems you've solved for yourself
+     - Transformations you've undergone
+
+  3. **What have you "invested time/money to learn"?**
+     - Courses, books, mentors you've paid for
+     - Hours spent mastering something
+     - Expensive lessons learned
+
+  4. **What do you wish you "knew earlier"?**
+     - "If only I knew this 5 years ago..."
+     - Shortcuts you discovered the hard way
+     - Mistakes you could have avoided
+
+  ### Selection Process:
+  - Write **3 theme candidates** based on your answers
+  - Evaluate each for: Interest + Knowledge + Market demand
+  - **Narrow down to 1 final theme**
+
+  **Output Template:**
+  ```
+  Theme Candidate 1: [Description]
+  - My knowledge level: [1-10]
+  - My passion level: [1-10]
+  - Potential demand: [1-10]
+
+  Theme Candidate 2: [Description]
+  - My knowledge level: [1-10]
+  - My passion level: [1-10]
+  - Potential demand: [1-10]
+
+  Theme Candidate 3: [Description]
+  - My knowledge level: [1-10]
+  - My passion level: [1-10]
+  - Potential demand: [1-10]
+
+  ✅ FINAL SELECTION: [Theme name and brief rationale]
+  ```
+
+  ---
+
+  ## 🔷 STEP 2 | DEFINE YOUR TARGET READER
+
+  **🎯 Purpose:**
+  Clarify WHO you're writing for, making your content resonate deeply
+
+  **🛠️ Action:**
+  Imagine and define the following reader characteristics:
+
+  ### Reader Profile Elements:
+
+  1. **Demographics:**
+     - Age range and gender
+     - Example: "30-40 years old, primarily female"
+
+  2. **Occupation & Life Situation:**
+     - Job type, employment status
+     - Family situation, daily life
+     - Example: "Full-time office worker, married with young children"
+
+  3. **Knowledge Level:**
+     - Complete beginner? Some experience? Advanced?
+     - Example: "Has heard about the topic but never actually tried it"
+
+  4. **Information Gathering Habits:**
+     - Where do they look for answers? (SNS, Google, YouTube, books)
+     - Example: "Mainly uses Instagram and Google search"
+
+  5. **Personality & Mindset:**
+     - Cautious or action-oriented?
+     - Perfectionist or experimental?
+     - Example: "Cautious type who needs reassurance before starting"
+
+  ### One-Sentence Reader Persona:
+  Synthesize the above into ONE clear sentence.
+
+  **Example:**
+  "A 30-something office worker attempting their first side hustle but unsure what to do or where to start"
+
+  **Output Template:**
+  ```
+  【Target Reader Profile】
+
+  Demographics: [Age, gender]
+  Occupation/Life: [Work, family, daily situation]
+  Knowledge Level: [Beginner/Intermediate/Advanced + specifics]
+  Info Sources: [Where they search for solutions]
+  Personality: [Key traits relevant to your topic]
+
+  ✅ ONE-SENTENCE PERSONA:
+  "[Complete description of your ideal reader]"
+  ```
+
+  ---
+
+  ## 🔷 STEP 3 | DEFINE ¥5,000 VALUE
+
+  **🎯 Purpose:**
+  Articulate WHY this content is worth ¥5,000 (vs. free alternatives)
+
+  **🛠️ Action:**
+  Answer these value-defining questions:
+
+  ### Value Clarification:
+
+  1. **What can readers DO after consuming this content?**
+     - Specific skill, action, or outcome
+     - Example: "Launch their first digital product within 30 days"
+
+  2. **What positive future do they gain?**
+     - Time savings
+     - Confidence boost
+     - Tangible results
+     - Example: "Save 6 months of trial-and-error and gain confidence to execute"
+
+  3. **How is this different from free information?**
+     - Systematization (organized vs. scattered)
+     - Reproducibility (proven method vs. theory)
+     - Experience (firsthand lessons vs. secondhand info)
+     - Time efficiency (curated vs. overwhelming)
+
+  ### Core Message Creation:
+  Craft ONE sentence that captures your value proposition.
+
+  **Format:**
+  "A practical guide to [OUTCOME] that [UNIQUE APPROACH], enabling you to [BENEFIT] even if [STARTING POINT]"
+
+  **Example:**
+  "A practical guide to starting a profitable side hustle with just 5 hours/week that even complete beginners can follow without quitting their day job"
+
+  **Output Template:**
+  ```
+  【Value Definition for ¥5,000】
+
+  Q1: What can readers DO?
+  A: [Specific outcome/capability]
+
+  Q2: What positive future?
+  A: [Time/confidence/results gained]
+
+  Q3: Difference from free content?
+  A: [Systematization/Experience/Time-saving specifics]
+
+  ✅ CORE MESSAGE:
+  "[Your one-sentence value proposition]"
+  ```
+
+  ---
+
+  ## 🔷 STEP 4 | RESEARCH DEMAND & UNIQUENESS
+
+  **🎯 Purpose:**
+  Validate that your idea has market demand AND competitive differentiation
+
+  **🛠️ Action:**
+  Conduct multi-channel research:
+
+  ### Research Channels:
+
+  1. **Google Search:**
+     - Search your topic keywords
+     - Review top 10 organic results
+     - Note: What do they cover? What's missing?
+
+  2. **SNS Search (Twitter/Instagram/YouTube):**
+     - Search topic hashtags and keywords
+     - Identify real user pain points and questions
+     - Look for frequently asked questions
+
+  3. **Brain/note Search:**
+     - Find similar paid products
+     - Record: Title, price, ratings, content outline
+     - Assess: What's selling well? What's the gap?
+
+  ### Analysis Questions:
+
+  Based on research, answer:
+  - **Is there demand for this content?** (Yes/No + evidence)
+  - **What's my differentiation point?** (Unique angle, approach, or experience)
+  - **Do I need to adjust my theme/structure?** (Pivot or refine based on findings)
+
+  **Output Template:**
+  ```
+  【Market Research Summary】
+
+  Google Search Findings:
+  - Top competing content: [List 3-5]
+  - Common themes: [What everyone covers]
+  - Gaps identified: [What's missing]
+
+  SNS Search Findings:
+  - Common pain points: [List 3-5 user frustrations]
+  - Frequent questions: [What people ask repeatedly]
+
+  Brain/note Search Findings:
+  - Similar products: [Title, price, rating]
+  - Best-selling features: [What works]
+  - Gaps/opportunities: [What's underserved]
+
+  ✅ DEMAND VALIDATION: [Yes/No + reasoning]
+  ✅ DIFFERENTIATION: [Your unique angle]
+  ✅ ADJUSTMENTS NEEDED: [Any pivots or refinements]
+  ```
+
+  ---
+
+  ## 🔷 STEP 5 | CREATE TABLE OF CONTENTS (BLUEPRINT)
+
+  **🎯 Purpose:**
+  Design a structure that's easy to understand and actionable
+
+  **🛠️ Action:**
+  Create chapter outline with brief descriptions using this flow:
+
+  ### Recommended Structure:
+
+  **Introduction (Who & What)**
+  - Target reader definition
+  - What they'll gain from this content
+
+  **Chapter 1: Empathy & Problem Definition (1,000-2,000 chars)**
+  - Acknowledge reader's pain points
+  - Establish credibility through shared experience
+
+  **Chapter 2: Solution Overview (1,000-1,500 chars)**
+  - Big picture of your method/framework
+  - Why this approach works
+
+  **Chapter 3: Practical Implementation (3,000-4,000 chars)**
+  - Step-by-step execution guide
+  - Concrete actions readers can take
+
+  **Chapter 4+: Application, Pitfalls, Summary (2,000-3,000 chars)**
+  - Advanced tips or variations
+  - Common mistakes to avoid
+  - Real examples or case studies
+  - Encouraging conclusion
+
+  **Total Recommended Length:** 8,000-12,000 characters (Japanese)
+
+  **Output Template:**
+  ```
+  【Table of Contents Blueprint】
+
+  Introduction: [Brief description - who this is for, what they'll gain]
+
+  Chapter 1: [Title]
+  - Content: [What this chapter covers]
+  - Length: ~1,000-2,000 chars
+
+  Chapter 2: [Title]
+  - Content: [What this chapter covers]
+  - Length: ~1,000-1,500 chars
+
+  Chapter 3: [Title]
+  - Content: [What this chapter covers]
+  - Length: ~3,000-4,000 chars
+
+  Chapter 4: [Title]
+  - Content: [What this chapter covers]
+  - Length: ~2,000-3,000 chars
+
+  [Add more chapters as needed]
+
+  ✅ TOTAL ESTIMATED LENGTH: [X,XXX characters]
+  ```
+
+  ---
+
+  ## 🔷 STEP 6 | WRITE CONTENT (STEP-BY-STEP)
+
+  **🎯 Purpose:**
+  Execute writing with proven templates for each section
+
+  **🛠️ Action:**
+  Write each section using these templates:
+
+  ---
+
+  ### 🧭 Introduction (~500-1,000 chars)
+
+  **Purpose:** Gain reader empathy and commitment to read
+
+  **Template:**
+  ```
+  "Hello, I'm writing about [TOPIC]...
+
+  Do you have these concerns?
+  - [Pain point 1]
+  - [Pain point 2]
+  - [Pain point 3]
+
+  I used to struggle with the same issues. But I found a solution through [APPROACH].
+
+  In this note, I'll share [PROMISE] so you can [BENEFIT]."
+  ```
+
+  ---
+
+  ### 🧭 Chapter 1: Empathy & Problem (1,000-2,000 chars)
+
+  **Purpose:** Make readers feel "This is about ME"
+
+  **Template:**
+  ```
+  "I used to struggle with [PROBLEM]...
+
+  I tried [COMMON APPROACH 1] but [FAILED BECAUSE].
+  I also tried [COMMON APPROACH 2] but [FAILED BECAUSE].
+
+  After analyzing why these didn't work, I realized the root cause was surprisingly simple: [INSIGHT]."
+  ```
+
+  ---
+
+  ### 🧭 Chapter 2: Solution Overview (1,000-1,500 chars)
+
+  **Purpose:** Give readers hope that "I can do this"
+
+  **Template:**
+  ```
+  "The method I used consists of these 3 simple steps:
+
+  Step 1: [ACTION 1]
+  Step 2: [ACTION 2]
+  Step 3: [ACTION 3]
+
+  Once you understand this flow, you won't feel lost.
+
+  The key principle behind this approach is [CORE CONCEPT], which means [EXPLANATION]."
+  ```
+
+  ---
+
+  ### 🧭 Chapter 3: Practical Steps (3,000-4,000 chars)
+
+  **Purpose:** Enable readers to take immediate action
+
+  **Template:**
+  ```
+  "Let me break down each step in detail.
+
+  【Step 1: [NAME]】
+  - What to do: [SPECIFIC ACTION]
+  - Why it matters: [REASONING]
+  - How to do it: [DETAILED INSTRUCTIONS]
+  - Common mistakes: [PITFALL TO AVOID]
+  - Success indicator: [HOW TO KNOW IT WORKED]
+
+  【Step 2: [NAME]】
+  - What to do: [SPECIFIC ACTION]
+  - Why it matters: [REASONING]
+  - How to do it: [DETAILED INSTRUCTIONS]
+  - Common mistakes: [PITFALL TO AVOID]
+  - Success indicator: [HOW TO KNOW IT WORKED]
+
+  【Step 3: [NAME]】
+  - What to do: [SPECIFIC ACTION]
+  - Why it matters: [REASONING]
+  - How to do it: [DETAILED INSTRUCTIONS]
+  - Common mistakes: [PITFALL TO AVOID]
+  - Success indicator: [HOW TO KNOW IT WORKED]
+  ```
+
+  ---
+
+  ### 🧭 Conclusion (~500-1,000 chars)
+
+  **Purpose:** Motivate action + provide encouragement
+
+  **Template:**
+  ```
+  "Thank you for reading to the end.
+
+  I know [TOPIC] can feel overwhelming at first. I felt the same way.
+
+  But remember: [ENCOURAGING MESSAGE].
+
+  Your first step will be the catalyst for changing your future.
+
+  I'm rooting for you. Let's take that first step together today."
+  ```
+
+  **Recommended Total Length:** 8,000-12,000 characters
+
+  ---
+
+  ## 🔷 STEP 7 | EDIT & REFINE (ACTUAL CONTENT)
+
+  **🎯 Purpose:**
+  Polish your draft with third-party perspective to elevate quality
+
+  **🛠️ Action:**
+  Review your actual written content and check/fix:
+
+  ### Editing Checklist:
+
+  **Language Quality:**
+  - [ ] No typos or grammatical errors
+  - [ ] Sentences aren't too long (max 50-60 chars per sentence)
+  - [ ] No logical leaps or flow disruptions
+  - [ ] Subject-predicate agreement throughout
+  - [ ] Demonstratives (これ/それ) have clear referents
+
+  **Readability:**
+  - [ ] Not too difficult for beginners?
+  - [ ] Technical terms explained?
+  - [ ] Jargon minimized or clarified?
+
+  **Value Delivery:**
+  - [ ] Does this ACTUALLY solve reader's problem?
+  - [ ] Are promises from intro fulfilled?
+  - [ ] Actionable takeaways in every section?
+
+  **Engagement:**
+  - [ ] Personal stories or examples included?
+  - [ ] Encouraging tone maintained?
+  - [ ] Reader feels supported, not judged?
+
+  ---
+
+  ## 🔷 STEP 8 | FORMATTING & DECORATION (ACTUAL CONTENT)
+
+  **🎯 Purpose:**
+  Make content visually appealing and easy to consume on note/Brain platforms
+
+  **🛠️ Action:**
+  Apply these formatting techniques:
+
+  ### Formatting Checklist:
+
+  **Structure:**
+  - [ ] Use H2/H3 headings for hierarchy
+  - [ ] Break up long paragraphs (max 3-4 lines)
+  - [ ] Add ample line breaks (especially for mobile)
+
+  **Visual Emphasis:**
+  - [ ] Bullet points for lists
+  - [ ] **Bold** for key concepts
+  - [ ] Decorative symbols (✅🔸💡🎯) for visual interest
+  - [ ] Highlight important sentences with borders or background
+
+  **Media:**
+  - [ ] Identify where images/diagrams would help
+  - [ ] Prepare or specify placeholder images
+  - [ ] Consider screenshots, flowcharts, before/after comparisons
+
+  **Scannability:**
+  - [ ] Important points stand out even when skimming
+  - [ ] White space used generously
+  - [ ] Mobile-friendly layout (test on phone)
+
+  ---
+
+  ## 🔷 STEP 9 | TITLE & SALES COPY CREATION
+
+  **🎯 Purpose:**
+  Capture reader's heart and make them think "I want to read this!"
+
+  **🛠️ Action:**
+  Create compelling title and promotional description
+
+  ### Title Creation:
+
+  **Brainstorm 3+ Title Options:**
+
+  Include these elements:
+  - **Numbers** (具体性): "5 steps", "30 days", "3 secrets"
+  - **Benefit** (成果): What reader will gain
+  - **Target** (対象者): Who it's for
+
+  **Examples:**
+  - "完全初心者でも30日で副業月5万円を達成する5ステップ"
+  - "忙しい会社員のための、週5時間で始める副業完全ガイド"
+  - "挫折しない副業の始め方｜ゼロから月3万円までのロードマップ"
+
+  **Select 1 Final Title:**
+  - [ ] Clearly states benefit
+  - [ ] Identifies target reader
+  - [ ] Creates curiosity or urgency
+  - [ ] Feels authentic (not clickbait)
+
+  ### Sales Description/Introduction:
+
+  **Length:** 800-1,500 characters
+
+  **Must Include:**
+
+  1. **Empathy with Reader's Pain:**
+     - "こんな悩み、ありませんか？"
+     - List 3-4 specific struggles
+
+  2. **Promise of Transformation:**
+     - "このnoteを読めば、[OUTCOME]が実現できます"
+     - Paint the after-state vividly
+
+  3. **Content Specifics:**
+     - Brief table of contents or key takeaways
+     - Shows substance and structure
+
+  4. **Differentiation:**
+     - "他の情報と違うのは..."
+     - Your unique angle/experience/method
+
+  5. **Credibility:**
+     - Your background, results, or qualifications
+     - Why readers should trust you
+
+  6. **Call-to-Action:**
+     - "今日から一歩を踏み出しましょう"
+     - Encourage immediate action
+
+  **Template:**
+  ```
+  【Sales Copy Template】
+
+  [HOOK - Empathy]
+  「[PAIN POINT 1]」「[PAIN POINT 2]」「[PAIN POINT 3]」
+  そんな悩みを抱えていませんか？
+
+  [YOUR STORY - Credibility]
+  私も[X年前/Xヶ月前]、同じ状況でした。
+  でも、[TURNING POINT]をきっかけに、[RESULT]を達成できました。
+
+  [PROMISE - Transformation]
+  このnoteでは、私が[EXPERIENCE]を通じて得た
+  [UNIQUE METHOD]を完全公開します。
+
+  あなたは、このnoteを読むことで：
+  ✅ [BENEFIT 1]
+  ✅ [BENEFIT 2]
+  ✅ [BENEFIT 3]
+  を実現できます。
+
+  [CONTENT PREVIEW - Specifics]
+  【主な内容】
+  ・[CHAPTER 1 SUMMARY]
+  ・[CHAPTER 2 SUMMARY]
+  ・[CHAPTER 3 SUMMARY]
+
+  [DIFFERENTIATION - Unique Value]
+  他の情報と違うのは、[YOUR UNIQUE ANGLE]。
+  単なる理論ではなく、[PRACTICAL ELEMENT]が特徴です。
+
+  [CTA - Call to Action]
+  [TARGET READER]のあなた、
+  今日から理想の[GOAL]への第一歩を踏み出しましょう。
+  ```
+
+  ---
+
+  ## ✅ COMPLETION CHECKLIST
+
+  You've now created a complete "¥5,000-worthy paid content blueprint!"
+
+  **Final Validation:**
+  - [ ] Theme validated through research
+  - [ ] Target reader clearly defined
+  - [ ] Value proposition articulated
+  - [ ] 8,000-12,000 character content drafted
+  - [ ] Content edited and polished
+  - [ ] Formatting optimized for readability
+  - [ ] Compelling title finalized
+  - [ ] Sales copy written (800-1,500 chars)
+
+  **Next Steps:**
+  1. Create note/Brain account (if needed)
+  2. Set price (recommended: ¥980-¥5,000 based on value)
+  3. Upload content with formatting
+  4. Promote on social media
+  5. Gather feedback and iterate
+
+  ---
+
+  ## USAGE INSTRUCTIONS
+
+  **As User:**
+  Tell the AI: "I want to create a ¥5,000 note on [TOPIC]. Please guide me through Step 1."
+
+  **As AI:**
+  When user requests this system:
+  1. Acknowledge the 9-step system
+  2. Present Step 1 with all templates and instructions
+  3. Wait for user's answers before proceeding to Step 2
+  4. Guide through each step sequentially
+  5. Provide feedback and refinement suggestions at each stage
+  6. Celebrate completion and offer next-step guidance
+
+  This system transforms knowledge into income through structured, proven methodology.
