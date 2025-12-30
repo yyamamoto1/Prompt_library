@@ -1,0 +1,463 @@
+prompt: |
+  Generate professional video scenes using Sora AI with structured JSON format for API-friendly, programmatic control over all video parameters.
+
+  **CUSTOMIZABLE PARAMETERS:**
+  - **Video Theme:** [Select: "fashion shoot", "product demo", "documentary", "narrative story", "commercial ad", "behind-the-scenes"]
+  - **Language:** [Choose: "Japanese", "English", "Bilingual", "Silent with subtitles"]
+  - **Video Length:** [Select: "5 seconds", "10 seconds", "15 seconds", "30 seconds", "60 seconds"]
+  - **Scene Count:** [Choose: "1 scene", "2-3 scenes", "4-6 scenes", "7+ scenes"]
+  - **Atmosphere:** [Select: "professional tense", "casual friendly", "dramatic cinematic", "documentary realistic", "commercial polished"]
+
+  **WHY JSON FORMAT:**
+
+  - **API Compatible:** Direct integration with Sora AI programmatic interface
+  - **Nested Structure:** Complex hierarchies handled elegantly
+  - **Universal Standard:** Works across all programming languages
+  - **Validation:** Easy to validate structure before submission
+  - **Automation:** Enables batch generation and templating
+  - **Data Interchange:** Compatible with CMS, databases, and workflows
+
+  **JSON PROMPT STRUCTURE:**
+
+  ```json
+  {
+    "Prompt": {
+      "タイトル": "Title of the video scene",
+      "言語": "日本語",
+      "長さ": "10秒",
+      "シーン": [
+        {
+          "時間": "0s-3s",
+          "内容": "Detailed description of scene 1 actions and visuals",
+          "セリフ": "Dialogue for scene 1",
+          "カメラの動き": "Camera movement specification",
+          "効果音": "Sound effects and ambient audio",
+          "雰囲気": "Mood and atmosphere"
+        },
+        {
+          "時間": "3s-7s",
+          "内容": "Scene 2 description",
+          "セリフ": "Scene 2 dialogue",
+          "カメラ": "Camera setup for scene 2",
+          "効果音": "Scene 2 sound effects",
+          "テロップ": "On-screen text specification"
+        },
+        {
+          "時間": "7s-10s",
+          "内容": "Final scene description",
+          "セリフ": "Closing dialogue",
+          "カメラ": "Final camera position",
+          "効果音": "Ending sound effects",
+          "雰囲気": "Concluding atmosphere"
+        }
+      ]
+    }
+  }
+  ```
+
+  **EXAMPLE: JAPANESE FASHION MAGAZINE PHOTOSHOOT**
+
+  ```json
+  {
+    "Prompt": {
+      "タイトル": "日本の女性ファッション誌の撮影現場",
+      "言語": "日本語",
+      "長さ": "10秒",
+      "シーン": [
+        {
+          "時間": "0s-3s",
+          "内容": "カメラマンが若く美しいファッションモデルを白ホリゾントのスタジオで撮影",
+          "セリフ": "カメラマンが「ちょっと手の動き変えて」",
+          "カメラの動き": "ファッションモデルを撮影中のカメラマンの背後の画角",
+          "効果音": "カメラのシャッター音と、撮影を見守るスタッフたちの「可愛い」",
+          "雰囲気": "真面目で緊迫感のあるファッション誌の撮影現場"
+        },
+        {
+          "時間": "3s-7s",
+          "内容": "1秒ごとに画面が切り替わる、ファッショモデルのポージングの変化",
+          "セリフ": "「どうかな？こんな感じ？」",
+          "カメラ": "ファッションモデルのバストアップの画角。スタティック",
+          "効果音": "画面が切り替わるたびに、カメラのシャッター音",
+          "テロップ": "オシャレな書体で動きのある「Amazing!!」"
+        },
+        {
+          "時間": "7s-10s",
+          "内容": "ファッション誌の撮影終了後、モデルが帰っていくシーン",
+          "セリフ": "「今日もいいの撮れたね！」",
+          "カメラ": "撮影現場全体を引きの画角で捉える。スタティック",
+          "効果音": "スタッフたちがスタジオの撮影セット、機材を片付ける物音",
+          "雰囲気": "緊迫感のある撮影中と違って、和やかな雰囲気"
+        }
+      ]
+    }
+  }
+  ```
+
+  **JSON STRUCTURE BREAKDOWN:**
+
+  ### Root Object: "Prompt"
+  - **Purpose:** Top-level container for all video specifications
+  - **Type:** Object
+
+  ### Metadata Fields:
+
+  #### "タイトル" (Title)
+  - **Type:** String
+  - **Purpose:** Overall video theme/concept
+  - **Example:** "日本の女性ファッション誌の撮影現場"
+
+  #### "言語" (Language)
+  - **Type:** String
+  - **Values:** "日本語" | "English" | "無音"
+  - **Purpose:** Dialogue language specification
+
+  #### "長さ" (Length)
+  - **Type:** String
+  - **Format:** "[number]秒" or "[number] seconds"
+  - **Purpose:** Total video duration
+
+  ### "シーン" (Scene Array)
+  - **Type:** Array of Objects
+  - **Purpose:** Ordered sequence of video segments
+
+  ### Scene Object Properties:
+
+  #### "時間" (Time Range)
+  - **Type:** String
+  - **Format:** "Xs-Ys" (e.g., "0s-3s")
+  - **Purpose:** Temporal boundaries for scene
+
+  #### "内容" (Content)
+  - **Type:** String
+  - **Purpose:** Visual action and setting description
+  - **Detail:** Comprehensive scene description
+
+  #### "セリフ" (Dialogue)
+  - **Type:** String
+  - **Purpose:** Spoken words
+  - **Format:** Can include speaker prefix (e.g., "カメラマンが「...」")
+
+  #### "カメラの動き" (Camera Movement)
+  - **Type:** String
+  - **Options:** "スタティック" | "パン" | "ティルト" | "ズームイン" | "ドリー"
+  - **Purpose:** Camera action specification
+
+  #### "カメラ" (Camera Setup - alternative)
+  - **Type:** String
+  - **Purpose:** Static camera position/framing
+  - **Examples:** "バストアップの画角" | "引きの画角"
+
+  #### "効果音" (Sound Effects)
+  - **Type:** String
+  - **Purpose:** Audio layer specification
+  - **Can Include:** Multiple sounds separated by commas or "と"
+
+  #### "テロップ" (On-Screen Text)
+  - **Type:** String (optional)
+  - **Purpose:** Subtitle or graphic text specification
+  - **Format:** Describe font style, animation, content
+
+  #### "雰囲気" (Atmosphere)
+  - **Type:** String
+  - **Purpose:** Emotional tone and mood
+  - **Examples:** "緊迫感のある" | "和やかな" | "ドラマチックな"
+
+  **JSON VS. YAML COMPARISON:**
+
+  | Feature | JSON | YAML |
+  |---------|------|------|
+  | **API Integration** | ✅ Native | ⚠️ Needs conversion |
+  | **Human Readability** | ⚠️ More verbose | ✅ Cleaner |
+  | **Parsing Speed** | ✅ Fast | ⚠️ Slower |
+  | **Comments** | ❌ Not supported | ✅ Supported |
+  | **Multi-line Strings** | ⚠️ Escape chars needed | ✅ Natural |
+  | **Validation** | ✅ JSON Schema | ⚠️ Limited |
+  | **Programming Use** | ✅ Direct object mapping | ⚠️ Library needed |
+
+  **Conclusion:** JSON = programmatic/API use, YAML = human editing/iteration
+
+  **ADVANCED JSON TECHNIQUES:**
+
+  ### Multi-Character Dialogue (Structured)
+  ```json
+  {
+    "セリフ": "カメラマン:「もっと笑って！」\nモデル:「こんな感じですか?」"
+  }
+  ```
+
+  Or with explicit structure:
+  ```json
+  {
+    "セリフ": {
+      "カメラマン": "もっと笑って！",
+      "モデル": "こんな感じですか？"
+    }
+  }
+  ```
+
+  ### Complex Camera Array
+  ```json
+  {
+    "カメラの動き": {
+      "type": "compound",
+      "movements": [
+        {"action": "zoom out", "duration": "2s", "start": "0s"},
+        {"action": "pan left", "duration": "1s", "start": "2s"}
+      ]
+    }
+  }
+  ```
+
+  ### Layered Sound Design
+  ```json
+  {
+    "効果音": {
+      "primary": "カメラのシャッター音",
+      "background": "スタッフの会話とBGM",
+      "ambient": "スタジオのエアコン音"
+    }
+  }
+  ```
+
+  **PROGRAMMATIC GENERATION EXAMPLE:**
+
+  ```python
+  # Python example: Generate JSON prompt dynamically
+
+  def create_video_prompt(title, language, duration, scenes):
+      return {
+          "Prompt": {
+              "タイトル": title,
+              "言語": language,
+              "長さ": f"{duration}秒",
+              "シーン": scenes
+          }
+      }
+
+  scenes = [
+      {
+          "時間": "0s-3s",
+          "内容": "Opening scene description",
+          "セリフ": "Hello world",
+          "カメラ": "Wide shot",
+          "効果音": "Ambient sound",
+          "雰囲気": "Welcoming"
+      },
+      # ... more scenes
+  ]
+
+  prompt = create_video_prompt(
+      title="My Video Project",
+      language="English",
+      duration=10,
+      scenes=scenes
+  )
+
+  # Send to Sora AI API
+  import json
+  print(json.dumps(prompt, ensure_ascii=False, indent=2))
+  ```
+
+  **JSON SCHEMA VALIDATION:**
+
+  ```json
+  {
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "Prompt": {
+        "type": "object",
+        "properties": {
+          "タイトル": {"type": "string"},
+          "言語": {"type": "string", "enum": ["日本語", "English", "無音"]},
+          "長さ": {"type": "string", "pattern": "^[0-9]+秒$"},
+          "シーン": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "時間": {"type": "string", "pattern": "^[0-9]+s-[0-9]+s$"},
+                "内容": {"type": "string"},
+                "セリフ": {"type": "string"},
+                "カメラ": {"type": "string"},
+                "カメラの動き": {"type": "string"},
+                "効果音": {"type": "string"},
+                "テロップ": {"type": "string"},
+                "雰囲気": {"type": "string"}
+              },
+              "required": ["時間", "内容"]
+            }
+          }
+        },
+        "required": ["タイトル", "言語", "長さ", "シーン"]
+      }
+    }
+  }
+  ```
+
+  **TEMPLATE LIBRARY:**
+
+  ### Commercial Product Ad (15s)
+  ```json
+  {
+    "Prompt": {
+      "タイトル": "Product Commercial Template",
+      "言語": "English",
+      "長さ": "15秒",
+      "シーン": [
+        {
+          "時間": "0s-4s",
+          "内容": "Product hero shot with dramatic lighting",
+          "セリフ": "Introducing innovation",
+          "カメラ": "Slow rotation around product",
+          "効果音": "Epic cinematic music swell",
+          "雰囲気": "Premium and aspirational"
+        },
+        {
+          "時間": "4s-10s",
+          "内容": "Lifestyle integration - person using product naturally",
+          "セリフ": "Designed for your life",
+          "カメラ": "Medium shot, handheld feel",
+          "効果音": "Ambient lifestyle sounds",
+          "雰囲気": "Relatable and authentic"
+        },
+        {
+          "時間": "10s-15s",
+          "内容": "Brand logo reveal with tagline",
+          "テロップ": "Bold sans-serif: 'Brand Name - Live Better'",
+          "カメラ": "Static, centered",
+          "効果音": "Brand signature sound",
+          "雰囲気": "Confident and memorable"
+        }
+      ]
+    }
+  }
+  ```
+
+  ### Documentary Interview (20s)
+  ```json
+  {
+    "Prompt": {
+      "タイトル": "Documentary Interview Segment",
+      "言語": "Japanese",
+      "長さ": "20秒",
+      "シーン": [
+        {
+          "時間": "0s-6s",
+          "内容": "インタビュー対象者、カメラに向かって話す",
+          "セリフ": "私がこの仕事を始めたきっかけは...",
+          "カメラ": "バストアップ、わずかに斜めから",
+          "効果音": "静かな室内環境音",
+          "雰囲気": "真摯で落ち着いた"
+        },
+        {
+          "時間": "6s-14s",
+          "内容": "B-roll: 対象者の日常作業シーン",
+          "セリフ": "（ナレーション）20年の経験が生み出す技術",
+          "カメラ": "手元のクローズアップ、スローモーション",
+          "効果音": "作業音（ハンマー、機械音など）",
+          "雰囲気": "職人の集中と誇り"
+        },
+        {
+          "時間": "14s-20s",
+          "内容": "再びインタビュー対象者の顔",
+          "セリフ": "これからも伝統を守り続けたい",
+          "カメラ": "バストアップ、正面から",
+          "効果音": "静かな音楽フェードイン",
+          "雰囲気": "決意と希望"
+        }
+      ]
+    }
+  }
+  ```
+
+  **BATCH GENERATION WORKFLOW:**
+
+  1. **Define Template:** Create base JSON structure
+  2. **Parameterize:** Identify variable fields (title, dialogue, timing)
+  3. **Generate Variations:** Loop through parameter sets
+  4. **Validate:** Run JSON schema validation
+  5. **Submit to API:** Send batch request to Sora
+  6. **Track Results:** Store generated video IDs with metadata
+
+  **ERROR HANDLING:**
+
+  Common JSON errors to avoid:
+
+  - ❌ Missing commas between objects
+  - ❌ Trailing commas (not allowed in JSON)
+  - ❌ Unescaped quotes in strings (use `\"`)
+  - ❌ Japanese characters without `ensure_ascii=False`
+  - ❌ Invalid time format (must be "Xs-Ys")
+
+  **BEST PRACTICES:**
+
+  1. **Validation First:** Always validate JSON before submission
+  2. **Use Tools:** JSON formatters/validators (jsonlint.com)
+  3. **Consistent Encoding:** UTF-8 for Japanese characters
+  4. **Escaping:** Properly escape special characters in strings
+  5. **Pretty Print:** Use indentation for human readability during development
+  6. **Version Control:** Track JSON prompt iterations
+  7. **Comments Workaround:** Since JSON doesn't support comments, use a "metadata" field
+
+  **METADATA AUGMENTATION:**
+
+  ```json
+  {
+    "Prompt": {
+      "metadata": {
+        "version": "1.0",
+        "author": "Creator Name",
+        "created": "2025-01-01",
+        "notes": "Initial version for client review"
+      },
+      "タイトル": "Video Title",
+      "言語": "Japanese",
+      "長さ": "10秒",
+      "シーン": [...]
+    }
+  }
+  ```
+
+  **INTEGRATION EXAMPLES:**
+
+  ### REST API Call
+  ```javascript
+  const prompt = {
+    "Prompt": {
+      "タイトル": "My Video",
+      "言語": "English",
+      "長さ": "10秒",
+      "シーン": [...]
+    }
+  };
+
+  fetch('https://api.sora.ai/generate', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify(prompt)
+  })
+  .then(response => response.json())
+  .then(data => console.log(data));
+  ```
+
+  ### Database Storage
+  ```sql
+  CREATE TABLE video_prompts (
+    id SERIAL PRIMARY KEY,
+    prompt_json JSONB NOT NULL,
+    created_at TIMESTAMP DEFAULT NOW()
+  );
+
+  INSERT INTO video_prompts (prompt_json)
+  VALUES ('{"Prompt": {...}}');
+  ```
+
+  **PERFORMANCE CONSIDERATIONS:**
+
+  - **Minify for Production:** Remove whitespace to reduce payload size
+  - **Compress:** Use gzip for large batch submissions
+  - **Cache Templates:** Store frequently-used base structures
+  - **Parallel Processing:** Submit multiple prompts concurrently
+
+  Use JSON format when building automated video generation pipelines, integrating with APIs, or managing large-scale prompt libraries.

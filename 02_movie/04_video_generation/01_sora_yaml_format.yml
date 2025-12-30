@@ -1,0 +1,298 @@
+prompt: |
+  Generate professional video scenes using Sora AI with structured YAML format for precise control over timing, dialogue, camera work, and atmosphere.
+
+  **CUSTOMIZABLE PARAMETERS:**
+  - **Video Theme:** [Select: "fashion shoot", "product demo", "documentary", "narrative story", "commercial ad", "behind-the-scenes"]
+  - **Language:** [Choose: "Japanese", "English", "Bilingual", "Silent with subtitles"]
+  - **Video Length:** [Select: "5 seconds", "10 seconds", "15 seconds", "30 seconds", "60 seconds"]
+  - **Scene Count:** [Choose: "1 scene", "2-3 scenes", "4-6 scenes", "7+ scenes"]
+  - **Atmosphere:** [Select: "professional tense", "casual friendly", "dramatic cinematic", "documentary realistic", "commercial polished"]
+
+  **WHY YAML FORMAT:**
+
+  - **Structured Control:** Clear hierarchy and organization
+  - **Time Precision:** Explicit timing for each scene segment
+  - **Multi-layered Specification:** Dialogue, camera, sound, atmosphere in parallel
+  - **Readability:** Easy to modify and iterate
+  - **Consistency:** Reduces ambiguity in AI interpretation
+
+  **YAML PROMPT STRUCTURE:**
+
+  ```yaml
+  Prompt:
+    タイトル: "Title of the video scene"
+    言語: "Japanese" # or English, etc.
+    長さ: "10秒" # Total video duration
+
+    シーン:
+      - 時間: "0s-3s" # Scene 1 time range
+        内容: |
+          Detailed description of what happens in this scene.
+          Multiple lines allowed for complex actions.
+        セリフ: "Spoken dialogue in this scene"
+        カメラの動き: "Camera movement and framing"
+        効果音: "Sound effects and ambient audio"
+        雰囲気: "Overall mood and atmosphere"
+
+      - 時間: "3s-7s" # Scene 2 time range
+        内容: |
+          Next scene description
+        セリフ: "Dialogue for scene 2"
+        カメラ: "Camera specification (if different from movement)"
+        効果音: "Scene 2 sound effects"
+        テロップ: "On-screen text or subtitles"
+
+      - 時間: "7s-10s" # Scene 3 time range
+        内容: |
+          Final scene description
+        セリフ: "Closing dialogue"
+        カメラ: "Final camera setup"
+        効果音: "Ending sound effects"
+        雰囲気: "Concluding atmosphere"
+  ```
+
+  **EXAMPLE: JAPANESE FASHION MAGAZINE PHOTOSHOOT**
+
+  ```yaml
+  Prompt:
+    タイトル: "日本の女性ファッション誌の撮影現場"
+    言語: "日本語"
+    長さ: "10秒"
+
+    シーン:
+      - 時間: "0s-3s"
+        内容: |
+          カメラマンが若く美しいファッションモデルを白ホリゾントのスタジオで撮影
+        セリフ: カメラマンが「ちょっと手の動き変えて」
+        カメラの動き: ファッションモデルを撮影中のカメラマンの背後の画角
+        効果音: カメラのシャッター音と、撮影を見守るスタッフたちの「可愛い」
+        雰囲気: 真面目で緊迫感のあるファッション誌の撮影現場
+
+      - 時間: "3s-7s"
+        内容: |
+          1秒ごとに画面が切り替わる、ファッショモデルのポージングの変化
+        セリフ: 「どうかな？こんな感じ？」
+        カメラ: ファッションモデルのバストアップの画角。スタティック
+        効果音: 画面が切り替わるたびに、カメラのシャッター音
+        テロップ: オシャレな書体で動きのある「Amazing!!」
+
+      - 時間: "7s-10s"
+        内容: |
+          ファッション誌の撮影終了後、モデルが帰っていくシーン
+        セリフ: 「今日もいいの撮れたね！」
+        カメラ: 撮影現場全体を引きの画角で捉える。スタティック
+        効果音: スタッフたちがスタジオの撮影セット、機材を片付ける物音
+        雰囲気: 緊迫感のある撮影中と違って、和やかな雰囲気
+  ```
+
+  **KEY YAML FIELDS EXPLAINED:**
+
+  ### タイトル (Title)
+  - **Purpose:** Establishes overall context for AI
+  - **Best Practice:** Specific and descriptive (e.g., "Japanese Fashion Magazine Shoot" not just "Photoshoot")
+
+  ### 言語 (Language)
+  - **Purpose:** Determines dialogue language
+  - **Options:** "日本語" (Japanese), "English", "無音" (silent)
+
+  ### 長さ (Length)
+  - **Purpose:** Total video duration
+  - **Format:** "10秒" or "10 seconds"
+
+  ### シーン (Scene Array)
+  Each scene contains:
+
+  #### 時間 (Time Range)
+  - **Format:** "0s-3s" (start-end in seconds)
+  - **Purpose:** Precise timing control
+  - **Tip:** Non-overlapping, consecutive ranges work best
+
+  #### 内容 (Content)
+  - **Purpose:** Main action and visual description
+  - **Style:** Use `|` for multi-line detailed descriptions
+  - **Detail Level:** Describe setting, subjects, actions, lighting
+
+  #### セリフ (Dialogue)
+  - **Purpose:** Spoken words by characters
+  - **Format:** Direct speech or narration
+  - **Tip:** Specify WHO speaks if multiple characters
+
+  #### カメラの動き (Camera Movement)
+  - **Options:**
+    - "スタティック" (static/fixed)
+    - "パン" (pan left/right)
+    - "ティルト" (tilt up/down)
+    - "ドリー" (dolly in/out)
+    - "ズームイン/アウト" (zoom in/out)
+  - **Framing:** "引きの画角" (wide shot), "バストアップ" (bust shot), "背後の画角" (over-shoulder)
+
+  #### カメラ (Camera Setup - alternative to movement)
+  - **Purpose:** When movement isn't the focus, specify framing
+  - **Examples:** "Close-up", "Medium shot", "Aerial view"
+
+  #### 効果音 (Sound Effects)
+  - **Purpose:** Ambient and action-specific audio
+  - **Examples:**
+    - "シャッター音" (camera shutter)
+    - "足音" (footsteps)
+    - "ドアが閉まる音" (door closing)
+    - "群衆のざわめき" (crowd murmur)
+
+  #### テロップ (On-Screen Text)
+  - **Purpose:** Subtitles, titles, or graphic text
+  - **Format:** Specify font style, animation, content
+  - **Example:** "オシャレな書体で動きのある「Amazing!!」"
+
+  #### 雰囲気 (Atmosphere/Mood)
+  - **Purpose:** Overall emotional tone
+  - **Examples:**
+    - "緊迫感のある" (tense)
+    - "和やかな" (friendly, warm)
+    - "ドラマチックな" (dramatic)
+    - "プロフェッショナルな" (professional)
+
+  **SCENE TRANSITION TECHNIQUES:**
+
+  ### Temporal Transitions
+  - Use time ranges to create natural flow
+  - Overlapping times can create smooth transitions
+  - Sharp time cuts create dynamic pace
+
+  ### Visual Continuity
+  - Maintain consistent location across scenes (unless intentional cut)
+  - Evolve camera angle to show progression
+  - Use 雰囲気 to shift emotional tone
+
+  ### Audio Bridges
+  - Carry sound effects across scene boundaries
+  - Dialogue can start before visual change
+  - Music continuity (if specified) maintains flow
+
+  **ADVANCED YAML TECHNIQUES:**
+
+  ### Multi-Character Dialogue
+  ```yaml
+  セリフ: |
+    カメラマン:「もっと笑って！」
+    モデル:「こんな感じですか？」
+  ```
+
+  ### Complex Camera Work
+  ```yaml
+  カメラの動き: |
+    モデルの顔からゆっくりズームアウト、
+    スタジオ全体を見せながら左にパン
+  ```
+
+  ### Layered Sound Design
+  ```yaml
+  効果音: |
+    主音: カメラのシャッター音
+    背景: スタッフの会話とBGM
+    環境: スタジオのエアコン音
+  ```
+
+  **CUSTOMIZATION TEMPLATES:**
+
+  ### Product Demo Video (10s)
+  ```yaml
+  Prompt:
+    タイトル: "Product Demonstration Video"
+    言語: "English"
+    長さ: "10秒"
+
+    シーン:
+      - 時間: "0s-3s"
+        内容: "Close-up of product with dramatic lighting reveal"
+        セリフ: "Introducing the next generation..."
+        カメラの動き: "Slow zoom in"
+        効果音: "Futuristic tech sound"
+        雰囲気: "Premium and innovative"
+
+      - 時間: "3s-7s"
+        内容: "Hands demonstrating key product feature"
+        セリフ: "Watch how easily it works"
+        カメラ: "Medium shot, static"
+        効果音: "Product activation sound"
+
+      - 時間: "7s-10s"
+        内容: "Product logo reveal with tagline"
+        カメラ: "Static centered frame"
+        テロップ: "Bold modern font: 'Innovation Simplified'"
+        雰囲気: "Confident and aspirational"
+  ```
+
+  ### Documentary Style (15s)
+  ```yaml
+  Prompt:
+    タイトル: "Artisan Craftwork Documentary"
+    言語: "Japanese"
+    長さ: "15秒"
+
+    シーン:
+      - 時間: "0s-5s"
+        内容: "職人が伝統的な道具で木材を削る手元のクローズアップ"
+        セリフ: なし（環境音のみ）
+        カメラの動き: "ゆっくりと手元に寄る"
+        効果音: "カンナで木を削る音、木屑が落ちる音"
+        雰囲気: "集中と静寂"
+
+      - 時間: "5s-10s"
+        内容: "職人の表情、真剣な眼差し"
+        カメラ: "バストアップ、スタティック"
+        効果音: "作業音が続く"
+        雰囲気: "職人の誇りと技術への敬意"
+
+      - 時間: "10s-15s"
+        内容: "完成した美しい木工品を引きで見せる"
+        セリフ: "50年の技が生み出す芸術"
+        カメラの動き: "作品を中心に円を描くようにドリー"
+        効果音: "静かな和風BGM"
+        雰囲気: "達成感と美しさ"
+  ```
+
+  **BEST PRACTICES:**
+
+  1. **Timing Precision:** Always account for all seconds (e.g., 10s video = 0-3, 3-7, 7-10 = full coverage)
+
+  2. **Visual Continuity:** Ensure logical progression between scenes
+
+  3. **Audio Design:** Layer sound effects, dialogue, and ambience
+
+  4. **Atmosphere Evolution:** Show emotional arc across scenes
+
+  5. **Camera Variety:** Mix static and moving shots for visual interest
+
+  6. **Dialogue Authenticity:** Match speech to character and context
+
+  7. **Text Integration:** Use テロップ sparingly for impact
+
+  **COMMON MISTAKES TO AVOID:**
+
+  - ❌ Time gaps (e.g., 0-3s, 5-8s leaves 3-5s undefined)
+  - ❌ Overly complex camera movements (AI may struggle)
+  - ❌ Inconsistent 雰囲気 without intentional contrast
+  - ❌ Too much dialogue (hard to fit in short timeframes)
+  - ❌ Vague 内容 descriptions (be specific for better AI output)
+
+  **YAML VS. PLAIN TEXT:**
+
+  | Aspect | YAML Format | Plain Text |
+  |--------|-------------|------------|
+  | Precision | High (explicit timing) | Medium |
+  | Readability | Structured, scannable | Linear, dense |
+  | Editability | Easy to modify sections | Requires full rewrite |
+  | AI Control | Better structured understanding | More interpretation needed |
+  | Complexity | Handles multi-layered specs | Difficult for complex scenes |
+
+  **USAGE WORKFLOW:**
+
+  1. Define video concept and total length
+  2. Break into logical scene segments (usually 2-5 for short videos)
+  3. Fill in YAML template with specific details
+  4. Review timing to ensure full coverage
+  5. Input to Sora AI (#sora2)
+  6. Iterate based on output quality
+  7. Adjust 内容, カメラ, or 雰囲気 for refinement
+
+  This YAML format provides maximum control over Sora AI video generation while maintaining clarity and editability.

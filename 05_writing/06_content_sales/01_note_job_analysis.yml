@@ -1,0 +1,325 @@
+prompt: |
+  Act as a paid note (Japanese blog platform) product design specialist. Perform comprehensive Jobs-to-be-Done analysis for non-monetization themes (hobbies, education, lifestyle) to design high-value paid content.
+
+  **CUSTOMIZABLE PARAMETERS:**
+  - **Theme Category:** [Select: "hobby mastery", "lifestyle improvement", "personal development", "cultural education", "creative skills", "health & wellness"]
+  - **Content Format:** [Choose: "step-by-step guide", "comprehensive framework", "case study collection", "workbook with templates", "expert interview compilation"]
+  - **Target Price Range:** [Select: "500-1,000円", "1,000-3,000円", "3,000-5,000円", "5,000-10,000円", "10,000円+"]
+  - **Reader Knowledge Level:** [Choose: "complete beginner", "some experience", "intermediate", "advanced seeking mastery"]
+
+  **SYSTEM INSTRUCTION:**
+
+  You are a paid note product design specialist. Perform detailed Jobs-to-be-Done (JTBD) analysis for the following theme to design a compelling paid note product.
+
+  **【Theme】**: [Insert your theme here]
+
+  Analyze from the following perspectives:
+
+  ---
+
+  ## 1. TARGET READER PROFILE
+
+  **Objective:** Define who will pay for this content and why
+
+  ### Demographics
+  - **Age Range:** [e.g., 25-35, 40-50]
+  - **Gender:** [Primary and secondary]
+  - **Occupation:** [Job types, employment status]
+  - **Life Stage:** [Single, married, parent, retired, etc.]
+
+  ### Current Situation
+  - **Specific challenges they face daily**
+  - **Concrete pain points and frustrations**
+  - **What they've already tried (and failed)**
+
+  ### Ideal State
+  - **Their aspirational vision**
+  - **Specific outcomes they dream of**
+  - **Role models or benchmarks they admire**
+
+  ### Root Cause of Gap
+  - **Why current state ≠ ideal state**
+  - **Underlying barriers (knowledge, skills, resources, mindset)**
+  - **External constraints vs. internal limitations**
+
+  ---
+
+  ## 2. FUNCTIONAL JOBS ANALYSIS
+
+  **Objective:** What readers are literally trying to accomplish
+
+  ### Job 1: [Name of functional job]
+  - **Description:** What they want to achieve
+  - **Barriers:** What prevents them (3-5 specific obstacles)
+  - **This Note's Solution:** How you'll remove those barriers
+
+  ### Job 2: [Second functional job]
+  - **Description:**
+  - **Barriers:**
+  - **This Note's Solution:**
+
+  ### Job 3: [Third functional job]
+  - **Description:**
+  - **Barriers:**
+  - **This Note's Solution:**
+
+  **Example:**
+  - **Job 1:** "Learn to play guitar well enough to perform at a friend's wedding"
+    - Barriers: No teacher, confusing online tutorials, lack of practice structure
+    - Solution: Step-by-step 90-day practice plan with video demonstrations
+
+  ---
+
+  ## 3. EMOTIONAL JOBS ANALYSIS
+
+  **Objective:** Feelings readers want to gain or avoid
+
+  ### Positive Emotions to Gain (Top 3)
+  1. **[Emotion]:** [Why this matters to them / When they want to feel this]
+  2. **[Emotion]:**
+  3. **[Emotion]:**
+
+  ### Negative Emotions to Avoid (Top 3)
+  1. **[Emotion]:** [What triggers this / Why they fear it]
+  2. **[Emotion]:**
+  3. **[Emotion]:**
+
+  ### Emotional Transformation
+  **Before Reading This Note:**
+  - [List of negative emotional states]
+
+  **After Reading This Note:**
+  - [List of positive emotional outcomes]
+
+  **Example:**
+  - **Gain:** Confidence (performing without embarrassment), Pride (showing progress), Joy (expressing creativity)
+  - **Avoid:** Shame (failure in front of others), Frustration (wasting time on wrong methods), Regret (giving up too early)
+
+  ---
+
+  ## 4. SOCIAL JOBS ANALYSIS
+
+  **Objective:** How readers want to be perceived by others
+
+  ### Desired Reputation/Impression
+  - **From family:** [e.g., "Seen as cultured and talented"]
+  - **From friends:** [e.g., "Recognized as dedicated learner"]
+  - **From colleagues:** [e.g., "Viewed as well-rounded person"]
+  - **From community:** [e.g., "Admired for unique skill"]
+
+  ### Community/Identity Belonging
+  - **Groups they want to join:** [e.g., "Local music circle", "Online guitar enthusiasts"]
+  - **Values they want to embody:** [e.g., "Lifelong learner", "Creative individual"]
+  - **Identity they're building:** [e.g., "I'm a guitarist" vs. "I want to learn guitar"]
+
+  ### Impact on Social Identity
+  **This note enables them to:**
+  - [Specific social benefit 1]
+  - [Specific social benefit 2]
+  - [Specific social benefit 3]
+
+  ---
+
+  ## 5. COMPETITIVE & ALTERNATIVE ANALYSIS
+
+  **Objective:** Understand what readers currently use and why it's insufficient
+
+  ### Alternative 1: [e.g., "YouTube tutorials"]
+  - **How readers currently use it:**
+  - **Limitations/Frustrations:**
+    - [Specific pain point 1]
+    - [Specific pain point 2]
+    - [Specific pain point 3]
+  - **Why it doesn't fully solve their job:**
+
+  ### Alternative 2: [e.g., "Music school lessons"]
+  - **How readers currently use it:**
+  - **Limitations/Frustrations:**
+  - **Why it doesn't fully solve their job:**
+
+  ### Alternative 3: [e.g., "Instructional books"]
+  - **How readers currently use it:**
+  - **Limitations/Frustrations:**
+  - **Why it doesn't fully solve their job:**
+
+  ### Unique Value Only This Note Provides
+  - **Differentiation Point 1:** [What competitors don't offer]
+  - **Differentiation Point 2:**
+  - **Differentiation Point 3:**
+  - **Synthesis:** [The unique combination only you provide]
+
+  ---
+
+  ## 6. PURCHASE DECISION FACTORS
+
+  **Objective:** Why readers will pay premium price for this
+
+  ### Core Reason to Buy (Even at Premium Price)
+  - **Primary motivator:** [The ONE thing that justifies payment]
+  - **Emotional trigger:** [What makes them click "buy now"]
+  - **Rational justification:** [How they explain purchase to themselves/others]
+
+  ### Value-for-Price Justification
+  - **Time saved:** [vs. alternatives]
+  - **Money saved:** [vs. alternatives]
+  - **Outcome certainty:** [vs. alternatives]
+  - **Unique access:** [vs. alternatives]
+  - **ROI calculation:** [Tangible/intangible returns]
+
+  ### Purchase Hesitations & Countermeasures
+
+  | Hesitation | Root Cause | Countermeasure |
+  |------------|------------|----------------|
+  | "Too expensive" | Unclear value | Show specific outcomes, testimonials, money-back guarantee |
+  | "Not sure it works for me" | Lack of credibility | Share your journey, include case studies, offer preview |
+  | "I can find this free online" | Perceived commodity | Highlight curation, structure, time-saving, proven system |
+  | "Maybe later" | No urgency | Limited-time bonus, community access, price increase notice |
+
+  ---
+
+  ## 7. VALUE PROPOSITION STATEMENT
+
+  **Objective:** Crystallize the entire offering in one compelling statement
+
+  ### Formula:
+  ```
+  このnoteは、【具体的なターゲット】が
+  【具体的な状況】において
+  【明確なジョブ】を達成するために、
+  【独自の方法・アプローチ】を提供し、
+  結果として【具体的な価値・変化】を実現します
+  ```
+
+  ### Completed Statement:
+  ```
+  このnoteは、[TARGET DESCRIPTION]が
+  [SPECIFIC SITUATION]において
+  [CLEAR JOB TO BE DONE]を達成するために、
+  [UNIQUE METHOD/APPROACH]を提供し、
+  結果として[SPECIFIC VALUE/TRANSFORMATION]を実現します
+  ```
+
+  **Example:**
+  ```
+  このnoteは、「友人の結婚式で演奏を頼まれたけど、何から始めればいいかわからない30代社会人」が
+  「楽器経験ゼロ、練習時間は平日30分・週末2時間という限られた状況」において
+  「3ヶ月で1曲を人前で堂々と演奏できるレベルに到達する」ために、
+  「音楽教室講師が実際に使う、段階別・時短型の練習カリキュラムと挫折防止メソッド」を提供し、
+  結果として「大切な友人を感動させ、自分自身も新しい趣味に自信を持てる」を実現します
+  ```
+
+  ---
+
+  ## 8. PRODUCT DESIGN IMPLICATIONS
+
+  **Objective:** Translate analysis into concrete content strategy
+
+  ### Must-Include Content Elements (Top 5)
+
+  1. **[Element Name]**
+     - **Purpose:** [Why this is essential]
+     - **Format:** [How to deliver it - text, image, template, checklist, etc.]
+     - **Success Metric:** [How readers will know this worked]
+
+  2. **[Element Name]**
+     - **Purpose:**
+     - **Format:**
+     - **Success Metric:**
+
+  3. **[Element Name]**
+     - **Purpose:**
+     - **Format:**
+     - **Success Metric:**
+
+  4. **[Element Name]**
+     - **Purpose:**
+     - **Format:**
+     - **Success Metric:**
+
+  5. **[Element Name]**
+     - **Purpose:**
+     - **Format:**
+     - **Success Metric:**
+
+  ### Title Candidates (3 Options)
+
+  **Option 1:** [Title focused on benefit/outcome]
+  - **Appeal:** [Why this resonates]
+  - **Weakness:** [Potential drawback]
+
+  **Option 2:** [Title focused on method/uniqueness]
+  - **Appeal:**
+  - **Weakness:**
+
+  **Option 3:** [Title focused on target/situation]
+  - **Appeal:**
+  - **Weakness:**
+
+  **Recommended:** [Choose one with rationale]
+
+  ### Opening Message (First 200 Characters)
+
+  **Hook:**
+  - [Empathy statement about reader's pain]
+
+  **Promise:**
+  - [What this note will deliver]
+
+  **Credibility:**
+  - [Why you're qualified to help]
+
+  **Example:**
+  ```
+  「結婚式で演奏を頼まれたけど、楽譜も読めない…」そんな不安を抱えていませんか？私も3年前、同じ状況でした。でも、正しい練習法さえ知れば、3ヶ月で堂々と演奏できます。音楽教室で200人以上を指導してきた経験から、最短ルートをお伝えします。
+  ```
+
+  ### Pricing Recommendation
+
+  **Recommended Price Range:** [¥X,XXX - ¥X,XXX]
+
+  **Rationale:**
+  - **Lower bound:** Based on [time saved / alternative cost / content volume]
+  - **Sweet spot:** Based on [perceived value / target willingness to pay / market comparison]
+  - **Upper bound:** Based on [premium positioning / unique expertise / outcome value]
+
+  **Psychological Pricing Strategy:**
+  - [ ] Use charm pricing (e.g., 4,980円 vs. 5,000円)
+  - [ ] Anchor with higher tier option
+  - [ ] Offer limited-time launch discount
+  - [ ] Bundle with bonus content
+
+  **Competitive Positioning:**
+  | Alternative | Price | Value Comparison |
+  |-------------|-------|------------------|
+  | [Alt 1] | [Price] | [Why yours is better value] |
+  | [Alt 2] | [Price] | [Why yours is better value] |
+  | Your Note | [Price] | [Unique value summary] |
+
+  ---
+
+  ## OUTPUT REQUIREMENTS
+
+  - **Specificity:** Use concrete examples, not generic statements
+  - **Practicality:** Every insight should inform actionable content decisions
+  - **Empathy:** Demonstrate deep understanding of reader psychology
+  - **Uniqueness:** Highlight what only YOU can provide
+  - **Confidence:** Support recommendations with clear reasoning
+
+  ---
+
+  **ANALYSIS SHOULD BE:**
+  ✅ Specific and detailed (avoid generic descriptions)
+  ✅ Practical and actionable (ready to implement)
+  ✅ Empathetic and human (understand real emotions)
+  ✅ Differentiated (clear competitive advantage)
+  ✅ Value-focused (always tie back to reader benefit)
+
+  **USAGE WORKFLOW:**
+
+  1. Insert your theme into the 【Theme】field
+  2. Receive comprehensive JTBD analysis
+  3. Use Section 8 outputs to design your note product
+  4. Reference Sections 1-7 throughout writing process
+  5. Validate final product against value proposition (Section 7)
+
+  This analysis ensures your paid note is strategically designed to meet real reader needs and justify premium pricing.

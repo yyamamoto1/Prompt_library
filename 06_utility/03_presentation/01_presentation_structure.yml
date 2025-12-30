@@ -1,0 +1,351 @@
+prompt: |
+  Generate comprehensive presentation structure recommendations with industry-specific frameworks, tailored to your audience and objectives.
+
+  **CUSTOMIZABLE PARAMETERS:**
+  - **Industry Sector:** [Specify: "sales/営業", "consulting", "technology", "healthcare", "education", "finance", "marketing"]
+  - **Presentation Purpose:** [Select: "project proposal", "business report", "sales pitch", "training session", "strategy review", "quarterly update"]
+  - **Audience Type:** [Choose: "executives/C-suite", "technical team", "clients", "investors", "general employees", "external stakeholders"]
+  - **Time Duration:** [Select: "5-10 minutes", "15-20 minutes", "30-45 minutes", "60+ minutes"]
+  - **Complexity Level:** [Choose: "high-level overview", "moderate detail", "deep technical dive"]
+
+  **PROMPT INSTRUCTION:**
+
+  ```
+  I work in the [○○ industry] and need to create a presentation.
+
+  Please output a table format showing the following for each presentation structure type:
+  - Presentation Purpose
+  - Audience Characteristics & Interests
+  - Expected Response/Outcome
+  - Required Time Duration
+  - Brief explanation of the structure
+  - Key features of the structure
+
+  Structure types to analyze:
+  1. Pyramid Structure
+  2. Storytelling Structure
+  3. Problem-Solution Structure
+  4. Q&A Structure
+  5. Data-Driven Structure
+  6. Timeline/Chronological Structure
+  7. Inverted Pyramid Structure
+  ```
+
+  **PRESENTATION STRUCTURE FRAMEWORKS:**
+
+  ### 1. **Pyramid Structure (ピラミッド構造)**
+
+  **Best For:**
+  - Executive briefings
+  - Business proposals
+  - Strategic recommendations
+
+  **Characteristics:**
+  - Start with conclusion/recommendation
+  - Support with 3-5 key reasons
+  - Provide detailed evidence for each reason
+  - Ideal for busy executives who need quick decisions
+
+  **Flow:**
+  ```
+  1. Main Conclusion/Recommendation
+  2. Key Reason 1 → Supporting Data
+  3. Key Reason 2 → Supporting Data
+  4. Key Reason 3 → Supporting Data
+  5. Conclusion & Next Steps
+  ```
+
+  **Audience:**
+  - Decision-makers with limited time
+  - Executives who prioritize outcomes
+  - Stakeholders needing quick clarity
+
+  **Time:** 10-20 minutes
+
+  ---
+
+  ### 2. **Storytelling Structure (ストーリーテリング構造)**
+
+  **Best For:**
+  - Sales pitches
+  - Change management presentations
+  - Vision/mission communication
+  - Emotional engagement scenarios
+
+  **Characteristics:**
+  - Uses narrative arc (challenge → journey → resolution)
+  - Creates emotional connection
+  - Makes complex ideas relatable
+  - Memorable and engaging
+
+  **Flow:**
+  ```
+  1. Setting the Scene (Current Challenge)
+  2. Introducing the Hero (Customer/Product)
+  3. The Journey (Process/Transformation)
+  4. Conflict & Obstacles
+  5. Resolution & Success
+  6. Call to Action
+  ```
+
+  **Audience:**
+  - Clients needing emotional buy-in
+  - Teams requiring motivation
+  - Stakeholders unfamiliar with topic
+
+  **Time:** 15-30 minutes
+
+  ---
+
+  ### 3. **Problem-Solution Structure (問題解決型構造)**
+
+  **Best For:**
+  - Consulting proposals
+  - Product pitches
+  - Process improvement presentations
+  - Technical solutions
+
+  **Characteristics:**
+  - Clearly defines the problem
+  - Demonstrates understanding of pain points
+  - Presents solution with evidence
+  - Shows measurable outcomes
+
+  **Flow:**
+  ```
+  1. Problem Statement & Impact
+  2. Root Cause Analysis
+  3. Proposed Solution Overview
+  4. Implementation Approach
+  5. Expected Results & ROI
+  6. Next Steps
+  ```
+
+  **Audience:**
+  - Stakeholders facing specific challenges
+  - Teams seeking improvements
+  - Clients with clear pain points
+
+  **Time:** 20-30 minutes
+
+  ---
+
+  ### 4. **Q&A Structure (Q&A型構造)**
+
+  **Best For:**
+  - FAQ sessions
+  - Educational training
+  - Onboarding presentations
+  - Transparent communication
+
+  **Characteristics:**
+  - Anticipates audience questions
+  - Addresses concerns proactively
+  - Interactive and engaging
+  - Builds trust through transparency
+
+  **Flow:**
+  ```
+  1. Introduction & Context
+  2. Key Question 1 → Answer
+  3. Key Question 2 → Answer
+  4. Key Question 3 → Answer
+  5. Summary of Key Takeaways
+  6. Open Q&A
+  ```
+
+  **Audience:**
+  - Curious learners
+  - Skeptical stakeholders
+  - Teams needing clarity
+
+  **Time:** 15-25 minutes
+
+  ---
+
+  ### 5. **Data-Driven Structure (データ重視型構造)**
+
+  **Best For:**
+  - Quarterly business reviews
+  - Performance reports
+  - Research presentations
+  - Analytics briefings
+
+  **Characteristics:**
+  - Leads with data and metrics
+  - Emphasizes trends and patterns
+  - Supports claims with evidence
+  - Ideal for analytical audiences
+
+  **Flow:**
+  ```
+  1. Key Metrics Overview
+  2. Trend Analysis & Insights
+  3. Performance Highlights
+  4. Challenges & Gaps
+  5. Data-Backed Recommendations
+  6. Action Plan
+  ```
+
+  **Audience:**
+  - Data-oriented decision makers
+  - Financial stakeholders
+  - Technical teams
+
+  **Time:** 20-40 minutes
+
+  ---
+
+  ### 6. **Timeline/Chronological Structure (時間軸構造)**
+
+  **Best For:**
+  - Project updates
+  - Roadmap presentations
+  - Historical context explanations
+  - Progress reports
+
+  **Characteristics:**
+  - Organized by time sequence
+  - Shows progression and evolution
+  - Clear cause-and-effect relationships
+  - Easy to follow and understand
+
+  **Flow:**
+  ```
+  1. Past: Where We Were
+  2. Present: Current Status
+  3. Future: Where We're Going
+  4. Milestones & Timelines
+  5. Key Deliverables
+  6. Dependencies & Risks
+  ```
+
+  **Audience:**
+  - Project stakeholders
+  - Teams tracking progress
+  - External partners
+
+  **Time:** 15-30 minutes
+
+  ---
+
+  ### 7. **Inverted Pyramid Structure (逆ピラミッド構造)**
+
+  **Best For:**
+  - Crisis communication
+  - News/announcement briefings
+  - Executive summaries
+  - Emergency updates
+
+  **Characteristics:**
+  - Most critical information first
+  - Decreasing importance as you go
+  - Allows audience to leave early if needed
+  - Journalistic approach
+
+  **Flow:**
+  ```
+  1. Critical Information (Who, What, When, Where, Why)
+  2. Important Supporting Details
+  3. Background Context
+  4. Additional Information
+  5. Resources & References
+  ```
+
+  **Audience:**
+  - Busy executives
+  - Crisis response teams
+  - Media or public audiences
+
+  **Time:** 5-15 minutes
+
+  ---
+
+  **STRUCTURE SELECTION MATRIX:**
+
+  | Structure Type | Purpose | Audience | Time | Best Industry Use |
+  |---------------|---------|----------|------|-------------------|
+  | Pyramid | Decision-making | Executives | 10-20 min | Consulting, Finance |
+  | Storytelling | Engagement | Clients, Teams | 15-30 min | Sales, Marketing |
+  | Problem-Solution | Proposals | Stakeholders | 20-30 min | Consulting, Tech |
+  | Q&A | Education | Learners | 15-25 min | Training, HR |
+  | Data-Driven | Reporting | Analysts | 20-40 min | Finance, Analytics |
+  | Timeline | Progress Tracking | Project Teams | 15-30 min | Project Management |
+  | Inverted Pyramid | Urgent Updates | Executives | 5-15 min | Crisis Management |
+
+  **INDUSTRY-SPECIFIC RECOMMENDATIONS:**
+
+  ### Sales/営業:
+  - **Primary:** Storytelling Structure
+  - **Secondary:** Problem-Solution Structure
+  - **Focus:** Emotional connection + clear ROI
+
+  ### Technology:
+  - **Primary:** Problem-Solution Structure
+  - **Secondary:** Data-Driven Structure
+  - **Focus:** Technical credibility + measurable outcomes
+
+  ### Consulting:
+  - **Primary:** Pyramid Structure
+  - **Secondary:** Problem-Solution Structure
+  - **Focus:** Clear recommendations + strategic thinking
+
+  ### Finance:
+  - **Primary:** Data-Driven Structure
+  - **Secondary:** Pyramid Structure
+  - **Focus:** Metrics + executive summary
+
+  ### Education/Training:
+  - **Primary:** Q&A Structure
+  - **Secondary:** Storytelling Structure
+  - **Focus:** Engagement + knowledge retention
+
+  **PRESENTATION DESIGN PRINCIPLES:**
+
+  1. **Clarity over Complexity**
+     - One key message per slide
+     - Minimal text (6x6 rule: max 6 bullets, 6 words each)
+
+  2. **Visual Hierarchy**
+     - Use size, color, position to guide attention
+     - Consistent font and color scheme
+
+  3. **Data Visualization**
+     - Charts over tables when possible
+     - Label clearly and highlight key insights
+
+  4. **Storytelling Elements**
+     - Use images and metaphors
+     - Create emotional touchpoints
+     - Include real examples/case studies
+
+  5. **Action-Oriented**
+     - Every presentation needs clear next steps
+     - Assign ownership and timelines
+     - Define success metrics
+
+  **COMMON MISTAKES TO AVOID:**
+
+  - ❌ Too much text on slides
+  - ❌ Reading slides verbatim
+  - ❌ No clear call-to-action
+  - ❌ Ignoring audience knowledge level
+  - ❌ Poor time management
+  - ❌ No practice/rehearsal
+  - ❌ Technical difficulties (always test AV)
+
+  **OPTIMAL USAGE:**
+
+  When creating your presentation using ChatGPT/AI:
+
+  1. First, run this prompt to identify the best structure for your context
+  2. Review the recommended frameworks
+  3. Choose the structure that best matches your:
+     - Presentation purpose
+     - Audience characteristics
+     - Time constraints
+     - Industry norms
+  4. Request detailed slide-by-slide outline using chosen structure
+  5. Iterate and refine based on specific needs
+
+  This ensures your presentation is strategically designed, not just aesthetically created.

@@ -1,0 +1,317 @@
+prompt: |
+  Transform any business email prompt from mediocre (60 points) to excellent (100 points) while preserving its core essence. Generates professional Japanese business emails with proper structure, tone, and cultural sensitivity.
+
+  **CUSTOMIZABLE PARAMETERS:**
+  - **Formality Level:** [Select: "ultra-formal (超フォーマル)", "formal (フォーマル)", "semi-casual (ややカジュアル)"]
+  - **Recipient Relationship:** [Choose: "external client", "internal team", "senior executive", "business partner", "vendor/supplier"]
+  - **Email Purpose:** [Select: "request", "report", "apology", "proposal", "follow-up", "announcement", "inquiry"]
+  - **Urgency Level:** [Choose: "urgent", "standard", "low priority"]
+  - **Cultural Context:** [Select: "Japanese business", "international business", "startup casual", "traditional corporate"]
+
+  **META-PROMPT CONCEPT:**
+
+  This is a "meta-prompt" - a prompt that improves other prompts. Instead of creating email content directly, it transforms a basic email generation prompt into a sophisticated, professional template.
+
+  **USAGE INSTRUCTION:**
+
+  ```
+  This prompt currently scores 60/100. Transform it to 100/100 without changing its core essence.
+
+  ⬇︎⬇︎⬇︎⬇︎⬇︎⬇︎⬇︎⬇︎⬇︎⬇︎⬇︎⬇︎⬇︎⬇︎
+
+  【Current Prompt to Improve】
+
+  [Paste your basic email prompt here]
+
+  ⬆︎⬆︎⬆︎⬆︎⬆︎⬆︎⬆︎⬆︎⬆︎⬆︎⬆︎⬆︎⬆︎⬆︎
+  ```
+
+  **IMPROVED OUTPUT STRUCTURE:**
+
+  ### Role Definition
+  ```
+  あなたは《一流のビジネスライティングアドバイザー》です。
+  You are an expert business writing advisor specializing in Japanese business communication.
+  ```
+
+  ### Core Instruction
+  ```
+  以下の入力項目をもとに、日本語のビジネスメールを作成してください。
+  読み手が内容と次のアクションを瞬時に理解できるよう、結論先出し・簡潔明瞭・適切な敬語でまとめてください。
+
+  Create a Japanese business email based on the input items below.
+  Ensure the reader can instantly understand the content and next actions through:
+  - Conclusion-first structure
+  - Clear and concise writing
+  - Appropriate keigo (honorific language)
+  ```
+
+  **INPUT FORMAT TEMPLATE:**
+
+  ```
+  ▼入力フォーマット
+
+  送信先役職・関係性：
+  [Example: "取引先の部長" / "社内の同僚" / "新規顧客"]
+
+  目的（ひと言）：
+  [Example: "会議日程調整" / "提案書提出" / "進捗報告"]
+
+  伝えたい要点（箇条書き可）：
+  - [Key point 1]
+  - [Key point 2]
+  - [Key point 3]
+
+  トーン：
+  [Select: 超フォーマル／フォーマル／ややカジュアル]
+
+  追加情報：
+  [Example: 回答期限：◯月◯日 / 添付資料：提案書PDF / 場所：本社会議室]
+  ```
+
+  **OUTPUT REQUIREMENTS:**
+
+  ### 1. Subject Line (件名)
+  ```yaml
+  要件:
+    - Length: 15-30 characters
+    - Purpose: Goal and key point visible at a glance
+    - Format: "【カテゴリ】具体的内容 - 期限/重要度"
+    - Examples:
+      - "【ご提案】新サービス導入のご案内"
+      - "【日程調整】来週の打ち合わせについて"
+      - "【重要】契約書ご確認のお願い（2/15期限）"
+  ```
+
+  ### 2. Recipient Line (宛名行)
+  ```yaml
+  要件:
+    - Format: "株式会社◯◯ △△部 △△様"
+    - External: Full company name + department + honorific
+    - Internal: Department + name + さん/様
+    - Multiple recipients: List in order of seniority
+  ```
+
+  ### 3. Opening Greeting (冒頭あいさつ)
+  ```yaml
+  要件:
+    - Length: 1-2 lines
+    - Structure:
+      - Seasonal greeting (季節の挨拶) - optional for formal
+      - Daily gratitude (日頃の御礼)
+    - Examples:
+      - "いつも大変お世話になっております。"
+      - "平素より格別のご高配を賜り、厚く御礼申し上げます。"
+      - "お世話になっております。"
+  ```
+
+  ### 4. Email Body (本文)
+  ```yaml
+  構成:
+    A. 結論／依頼内容（冒頭で端的に）
+       - First sentence states purpose clearly
+       - Example: "◯◯の件につきまして、ご相談させていただきたくご連絡いたしました。"
+
+    B. 詳細説明（3ポイント以内・必要に応じ箇条書き）
+       - Maximum 3 main points
+       - Use bullet points for clarity
+       - Each point: 1-2 sentences
+
+    C. 相手に求める次のアクション（期限・方法を明示）
+       - Specific action request
+       - Clear deadline
+       - Response method
+       - Example: "◯月◯日までに、メールにてご返信いただけますと幸いです。"
+  ```
+
+  ### 5. Closing (結びの言葉)
+  ```yaml
+  要件:
+    - Structure: Future cooperation request + closing phrase
+    - Formality levels:
+      - Ultra-formal: "何卒よろしくお願い申し上げます。"
+      - Formal: "ご検討のほど、よろしくお願いいたします。"
+      - Semi-casual: "よろしくお願いします。"
+    - Standard closing: "敬具" (for formal) or omit (for casual)
+  ```
+
+  ### 6. Signature (署名)
+  ```yaml
+  要件:
+    - Format:
+      ――――――――――――――――
+      《会社名》
+      《部署》
+      《氏名》
+      TEL：《電話番号》
+      Mail：《メールアドレス》
+      ――――――――――――――――
+    - Optional: Company address, website, fax
+  ```
+
+  **CHARACTER COUNT GUIDELINE:**
+
+  ```
+  全体文字数：300〜450字程度
+  Total character count: 300-450 characters (Japanese)
+
+  Distribution:
+  - Subject: 15-30 chars
+  - Greeting: 20-40 chars
+  - Body: 200-300 chars
+  - Closing: 20-40 chars
+  - Signature: ~50 chars
+  ```
+
+  **TEMPLATE OUTPUT EXAMPLE:**
+
+  ```
+  ▼出力テンプレート
+
+  件名：《件名》
+
+  《宛名行》
+
+  《冒頭あいさつ》
+
+  《本文：結論》
+
+  《本文：詳細説明1》
+  《本文：詳細説明2》
+  《本文:詳細説明3》
+
+  《相手に求めるアクション》
+
+  《結びの言葉》
+
+  ――――――――――――――――
+  《会社名》
+  《部署》
+  《氏名》
+  TEL：《電話番号》
+  Mail：《メールアドレス》
+  ――――――――――――――――
+  ```
+
+  **KEIGO (HONORIFIC) USAGE GUIDE:**
+
+  ### Ultra-Formal (超フォーマル)
+  - Use: いただく → 賜る
+  - Use: お願いします → お願い申し上げます
+  - Use: ありがとうございます → 厚く御礼申し上げます
+  - Context: First contact, senior executives, formal proposals
+
+  ### Formal (フォーマル)
+  - Use: いただく、お願いいたします、ご検討ください
+  - Standard business language
+  - Context: Regular business correspondence
+
+  ### Semi-Casual (ややカジュアル)
+  - Use: お願いします、ご確認ください、よろしくお願いします
+  - Lighter but still professional
+  - Context: Internal teams, familiar partners
+
+  **EMAIL PURPOSE TEMPLATES:**
+
+  ### Request (依頼)
+  ```
+  結論: "◯◯についてお願いしたく、ご連絡いたしました。"
+  Action: "◯月◯日までにご回答いただけますと幸いです。"
+  ```
+
+  ### Report (報告)
+  ```
+  結論: "◯◯の進捗につきまして、ご報告いたします。"
+  Structure: Current status → Results → Next steps
+  ```
+
+  ### Apology (謝罪)
+  ```
+  結論: "◯◯の件につきまして、深くお詫び申し上げます。"
+  Structure: Apology → Explanation → Corrective action → Commitment
+  ```
+
+  ### Proposal (提案)
+  ```
+  結論: "◯◯のご提案をさせていただきたく、ご連絡いたしました。"
+  Structure: Benefit → Details → Implementation → Call-to-action
+  ```
+
+  ### Follow-up (フォローアップ)
+  ```
+  結論: "先日お送りした◯◯の件につきまして、ご確認いただけましたでしょうか。"
+  Action: Gentle reminder + offer to clarify
+  ```
+
+  **VARIABLE HANDLING:**
+
+  Keep customizable elements in 《double angle brackets》:
+  - 《送信先役職・関係性》
+  - 《会社名》
+  - 《◯月◯日》
+  - 《添付資料名》
+
+  This allows easy find-and-replace for template reuse.
+
+  **QUALITY CHECKLIST:**
+
+  - [ ] Subject clearly states purpose (15-30 chars)
+  - [ ] Proper recipient format with honorifics
+  - [ ] Opening greeting appropriate to formality level
+  - [ ] Conclusion stated in first sentence of body
+  - [ ] Maximum 3 key points in explanation
+  - [ ] Clear action request with deadline
+  - [ ] Appropriate closing phrase
+  - [ ] Complete signature block
+  - [ ] Total length 300-450 characters
+  - [ ] Consistent keigo level throughout
+  - [ ] No ambiguity in requested action
+
+  **COMMON IMPROVEMENTS FROM 60→100:**
+
+  | 60-Point Version | 100-Point Version |
+  |------------------|-------------------|
+  | Vague subject | Specific, actionable subject |
+  | No clear structure | Conclusion-first with 3-point body |
+  | Inconsistent keigo | Appropriate, consistent formality |
+  | Missing deadline | Specific date and response method |
+  | Generic closing | Relationship-appropriate closing |
+  | Incomplete signature | Full professional signature block |
+  | Long-winded | Concise, scannable format |
+  | Buried action item | Crystal-clear next step highlighted |
+
+  **CULTURAL CONSIDERATIONS:**
+
+  1. **Indirectness:** Japanese business culture values indirect communication
+     - ❌ "Send me the report by Friday"
+     - ✅ "金曜日までにご送付いただけますと幸いです"
+
+  2. **Humility:** Show respect and humility
+     - ❌ "I will do this"
+     - ✅ "させていただきます" (allow me to do)
+
+  3. **Group Harmony:** Consider impact on relationships
+     - Always acknowledge other's effort: "お忙しいところ恐れ入りますが"
+
+  4. **Seasonal Awareness:** Optional but appreciated
+     - Spring: "春暖の候" / Summer: "盛夏の候" / Fall: "秋涼の候" / Winter: "寒冷の候"
+
+  **USAGE SCENARIOS:**
+
+  - Improve existing email templates for consistency
+  - Train AI assistants on proper business email format
+  - Create company-wide email standards
+  - Onboard non-native Japanese speakers to business norms
+  - Elevate communication professionalism across organization
+
+  **FINAL OUTPUT:**
+
+  The improved prompt will generate emails that are:
+  ✅ Professionally structured
+  ✅ Culturally appropriate
+  ✅ Action-oriented
+  ✅ Time-efficient to read
+  ✅ Consistent in tone
+  ✅ Template-ready for reuse
+
+  This transforms basic email requests into polished business communication that reflects well on sender and organization.
