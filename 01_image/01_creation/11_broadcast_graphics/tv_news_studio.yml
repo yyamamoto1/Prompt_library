@@ -1,0 +1,261 @@
+prompt: |
+  Generate a photorealistic Japanese TV news broadcast studio scene with professional broadcast quality.
+
+  **TOOL COMPATIBILITY:**
+  - Optimized for: NanobananaProに, Midjourney, DALL-E, Stable Diffusion
+  - Copy this entire prompt to your AI image generator
+
+  **CUSTOMIZABLE PARAMETERS:**
+  - **News Topic Theme:** [Select: "year-end special shocking news", "breaking news", "morning news segment", "evening news report", "special investigation", "weather forecast", "sports news", "financial news", "entertainment news"]
+  - **News Content:** [Customize: news headline, numbers, statistics to display on monitor]
+  - **Studio Style:** [Select: "morning program (bright, warm)", "evening news (serious, cool tones)", "late night news (dramatic)", "special program (festive decorations)"]
+  - **Anchor Gender:** [Select: "female", "male", "co-anchors (male and female)"]
+  - **Anchor Age Range:** [Select: "20s", "30s", "40s", "50s+"]
+  - **Season/Occasion:** [Select: "standard", "year-end special", "New Year", "election coverage", "disaster coverage", "celebration news"]
+
+  **SCENE CONFIGURATION:**
+
+  **Type & Program Style:**
+  - Scene type: Television news broadcast screen capture
+  - Program style: Japanese morning/evening news program format
+  - Time setting: [Morning 7-9am / Evening 6-8pm / Late night]
+  - Atmosphere: Professional broadcast quality with appropriate gravitas for news topic
+  - Tone: Journalistic professionalism with controlled emotion appropriate to content
+
+  **BACKGROUND SPECIFICATIONS:**
+
+  **Studio Environment:**
+  - Location: Professional television broadcast studio
+  - News desk: Modern, clean design with studio lighting
+  - Background elements:
+    * Large display monitor(s) behind or beside anchor
+    * Minimal decorative elements (maintain news credibility)
+    * Studio depth with controlled bokeh effect
+    * Professional broadcast set design
+  - Lighting reflections: Natural studio reflections on desk surface and glass elements
+  - Style: Photorealistic with shallow depth of field emphasizing anchor and monitor
+
+  **SUBJECT SPECIFICATIONS:**
+
+  **News Anchor Characteristics:**
+  - Role: Professional news anchor/broadcaster
+  - Gender: [As selected in parameters]
+  - Age range: [As selected in parameters]
+
+  **Appearance:**
+  - Overall impression: Trustworthy, intelligent, well-groomed, high likability
+  - Facial features: Clear, expressive, camera-ready
+  - Expression: [Select appropriate to news: "neutral professional", "slight concern", "controlled surprise", "warm engagement", "serious gravity"]
+  - Hair/grooming: Perfectly styled, broadcast-ready, professional
+
+  **Outfit:**
+  - Style: Business professional appropriate for broadcast
+  - For female anchors: Elegant jacket + simple blouse/inner, or professional dress
+  - For male anchors: Suit jacket + dress shirt + tie
+  - Colors: Solid colors that work well on camera (avoid busy patterns)
+  - Styling: Conservative, credible, appropriate for news broadcast
+
+  **Action & Pose:**
+  - Primary position: Seated at news desk, facing camera
+  - Eye contact: Direct camera gaze (primary) or glancing at monitor (secondary)
+  - Hand gesture: [Select: "pointing to monitor", "resting on desk with papers", "holding tablet/papers", "open palm gesture explaining", "both hands on desk"]
+  - Body language: Professional, composed, authoritative yet approachable
+  - Posture: Upright, engaged, camera-ready
+
+  **PROPS & DISPLAY ELEMENTS:**
+
+  **Large Studio Monitor:**
+  - Position: [Select: "beside anchor (right side)", "beside anchor (left side)", "behind anchor", "multiple monitors"]
+  - Size: Prominent, clearly visible, professional broadcast display
+  - Screen content clarity: Text and numbers must be sharp and readable
+
+  **Monitor Display Design:**
+  - Breaking news banner/header: Bold color (typically red or blue) with white text
+  - Main headline: Large, clear Japanese text
+  - Key information: Statistics, numbers, dates prominently displayed
+  - Supporting graphics: Charts, images, or icons as appropriate
+  - News ticker: Optional scrolling text at bottom of monitor (not main screen)
+
+  **Example Content Structure:**
+  ```
+  [RED BANNER] 今年一番の衝撃ニュース / 速報 / 特集
+
+  [MAIN HEADLINE - WHITE BACKGROUND]
+  副業総売上 / [Your Custom Headline]
+
+  [LARGE NUMBERS - PROMINENT]
+  8,500,000円 / [Your Custom Data]
+
+  [SMALL TEXT]
+  あざす / [Your Custom Subtext]
+  ```
+
+  **Desk Props:**
+  - Papers/script: Professional news script or notes
+  - Tablet device: Modern broadcast tablet (optional)
+  - Desk surface: Clean, minimal, professional
+  - Microphone: Small lavalier mic (clipped to anchor's clothing)
+
+  **ON-SCREEN GRAPHICS:**
+
+  **Program Branding (Top-Right Corner):**
+  - Program logo: Small, professional network/program branding
+  - Corner name: Segment identifier (e.g., "年末総集編", "朝のニュース", "速報")
+  - Style: Rounded rectangle banner typical of Japanese news broadcasts
+  - Position: Fixed top-right corner
+  - Design: Clean, readable, consistent with broadcast standards
+
+  **STRICT TEXT RULES:**
+
+  **ALLOWED Text Elements:**
+  - Program logo and corner banner (top-right only)
+  - ALL text on large studio monitor screen (headlines, numbers, graphics)
+  - Any text that would naturally appear on broadcast monitors
+
+  **FORBIDDEN Text Elements:**
+  - Current time display (no clock)
+  - Lower-third name/title graphics
+  - Subtitle/caption text at bottom of main screen
+  - Scrolling news ticker on main screen
+  - Weather information overlay
+  - Stock ticker
+  - Any other composite text overlays
+  - Text on studio props (papers should be blank or illegible)
+  - Text on background decorations or posters
+
+  **TECHNICAL SPECIFICATIONS:**
+
+  **Lighting Design:**
+  - Type: Professional three-point broadcast lighting
+  - Key light: Main illumination on anchor's face (soft, even)
+  - Fill light: Reduces shadows, maintains broadcast quality
+  - Back light: Separates subject from background
+  - Monitor lighting: Proper illumination for screen readability without glare
+  - Color temperature: Consistent broadcast white balance (5000-6500K)
+  - Mood: Clear, professional, appropriate for news broadcast
+
+  **Camera Setup:**
+  - Shot type: Medium shot (desk visible, anchor from waist up)
+  - Framing: Standard news composition - anchor positioned left/center with monitor visible
+  - Angle: Eye level (standard broadcast perspective)
+  - Aspect ratio: 16:9 (HD broadcast standard)
+  - Depth of field: Shallow (f/2.8-f/4) with focus on anchor, slight bokeh on background
+
+  **Composition:**
+  - Rule of thirds: Anchor positioned at intersection points
+  - Monitor placement: Clearly visible, well-integrated into frame
+  - Headroom: Appropriate broadcast spacing above anchor's head
+  - Lead room: Space in direction of anchor's gaze or gesture
+  - Balance: Professional symmetry typical of news broadcasts
+
+  **Image Quality:**
+  - Resolution: 4K (3840 x 2160) minimum
+  - Detail level: Broadcast quality - sharp focus on anchor and monitor
+  - Color profile: Accurate, broadcast-standard color reproduction
+  - Contrast: Controlled, professional broadcast contrast ratios
+  - Texture: Photorealistic fabric, skin, and material rendering
+  - Clarity: Studio-quality sharpness with natural bokeh on background elements
+
+  **STYLE & REALISM:**
+  - Realism level: High photorealism (real broadcast appearance)
+  - Genre: Japanese television news broadcast screen capture
+  - Reference style: NHK News, TV Asahi Morning News, Fuji TV Evening News
+  - Quality standard: Professional broadcast production values
+  - Authenticity: Accurate representation of Japanese broadcast standards
+
+  **OUTPUT SPECIFICATIONS:**
+  - Format: Horizontal 16:9 HD/4K image
+  - Use case: Social media graphics, mockups, presentation materials, portfolio
+  - Quality: Broadcast-ready, professional production standard
+  - Authenticity: Convincingly realistic TV news broadcast appearance
+
+  **EXAMPLE PROMPT FOR NANOBANANAPRO:**
+
+  META:
+    purpose: "Japanese morning TV news studio broadcast scene"
+    theme: "Year-end special: Most shocking news - Side business total revenue"
+    year: 2025
+    zodiac: "巳年"
+    tone: "Professional news broadcast with controlled surprise"
+
+  SCENE:
+    type: "Television news broadcast screen capture"
+    program_style: "Japanese morning news program (year-end special)"
+    time_of_day: "Morning"
+    topic: "This year's most shocking news (side business revenue)"
+    atmosphere: "Year-end special with professional studio presentation"
+
+  BACKGROUND:
+    location: "TV broadcast studio"
+    description: "News desk, large monitor in background, minimal decorative elements"
+    style: "Photorealistic, broadcast quality, shallow depth of field, natural reflections"
+
+  SUBJECT:
+    role: "News anchor (female)"
+    gender: "Female"
+    age_range: "30s"
+    appearance:
+      impression: "Clean, intelligent, highly likable, beautiful"
+      expression: "Calm expression with hint of surprise"
+    outfit:
+      description: "Elegant jacket + simple inner wear appropriate for morning program"
+    action:
+      description: "Camera-facing while reading, one hand gesturing toward large monitor"
+
+  PROPS:
+    studio_monitor:
+      position: "Beside anchor (right side of screen) - large display monitor"
+      screen_content:
+        description: "Breaking news graphic: This year's most shocking news: Side business total revenue '8,500,000円' thanks"
+        clarity: "Numbers clearly readable, prominent as main focus"
+        design_notes:
+          - "Text displayed only within monitor (no other subtitles or clock elsewhere)"
+          - "'This year's most shocking news:' emphasized with red banner/label"
+          - "'Side business total revenue' in large white bold text as headline"
+          - "'8,500,000円' displayed largest with clear comma separators"
+          - "'Thanks' added small as supplementary text (maintains news credibility)"
+
+  NEWS_OVERLAY:
+    top_right:
+      element: "Program logo + corner name"
+      content: "Year-end Special / This Year's Most Shocking News"
+      style: "Rounded rectangle banner typical of Japanese morning news (fixed top-right)"
+
+  TEXT_RULES:
+    allow_text:
+      - "Top-right program logo + corner name (top_right) only"
+      - "Text within large monitor only"
+    forbid_text:
+      - "Time display"
+      - "Headline telop"
+      - "Subtitles"
+      - "Bottom scroll"
+      - "All other composite screen text"
+    notes:
+      - "Ensure text doesn't appear on studio props (papers, tablets)"
+      - "No text on background decorations or posters"
+
+  LIGHTING:
+    type: "Studio lighting (key light + fill + back light)"
+    emphasis:
+      - "Anchor's face"
+      - "Large monitor numbers (readable brightness)"
+    mood: "Clear, fresh, broadcast quality"
+
+  CAMERA:
+    shot_type: "Medium shot across desk"
+    angle: "Eye level (standard news broadcast)"
+    framing: "Anchor centered, large monitor visible on right - classic layout"
+
+  STYLE:
+    realism: "High (photorealistic)"
+    genre: "Japanese TV news broadcast screen"
+    quality: "4K broadcast standard"
+
+  **USAGE NOTES:**
+  - Customize the monitor content with your specific news topic, numbers, or announcement
+  - Adjust anchor characteristics (age, gender, expression) to match your needs
+  - Modify studio style (morning bright vs evening serious) based on tone desired
+  - Ensure all numbers and text on monitor are clearly readable and prominent
+  - Maintain professional broadcast credibility even with humorous or unusual content
+  - Perfect for: Social media announcements, milestone celebrations, portfolio showcases, presentation graphics
