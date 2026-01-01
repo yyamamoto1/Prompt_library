@@ -1,0 +1,65 @@
+prompt: |
+  Nano Banana (Gemini 2.5 Flash Image) プロンプト集
+
+  Google AI Studioで無料で使用可能なNano Banana（Gemini 2.5 Flash Image）向けプロンプト。
+  アニメ系、実写系どちらの元画像にも使用可能。
+
+  ━━━━━━━━━━━━━━━━━━━
+
+  【1. ニュース番組風画像】
+
+  元画像のキャラクターをニュース番組のシーンに組み込むプロンプト。
+  フィギュアやグッズとして登場させる。
+
+  ■ プロンプト
+
+  A scene from a Japanese news program. Hyper-photorealistic rendering.
+  A male announcer in a realistic suit and a female commentator in a blouse and skirt.
+  There is a large desk, and the monitor behind it shows a young man being interviewed on a street corner.
+  A small figurine based on the character from the original image is placed on the desk. The figurine's design must maintain the character design and style from the original image as much as possible. The figurine must not be a 2D representation. It must be designed to have a three-dimensional feel.
+  The young man being interviewed is holding a large number of goods, including boxes of figurines and rolled-up posters. All of the goods are based on the characters from the original image.
+  The T-shirt the young man is wearing has a character printed on it that perfectly reproduces the design and style of the original image. The young man's face is blurred.
+  Add news captions to the bottom of the screen.
+
+  ■ 要素解説
+  - Hyper-photorealistic rendering: 超フォトリアリスティック
+  - figurine based on the character from the original image: 元画像キャラのフィギュア
+  - The figurine must not be a 2D representation: 2D表現ではなく立体的に
+  - Add news captions: ニュースキャプション追加
+
+  ━━━━━━━━━━━━━━━━━━━
+
+  【2. フィギュア・商品化風画像】
+
+  写真の被写体をおもちゃ風フィギュアに変換するプロンプト。
+  ブランドボックス付きの商品風画像を生成。
+
+  ■ プロンプト
+
+  Transform the photo's subject into a toy-like statuette. Behind the figure, include its branded box printed with the character image. Add a laptop/monitor displaying the Blender modeling view. Place a circular stand in front of the box and seat the figure on it. Use an indoor studio or desk environment.
+
+  ■ 要素解説
+  - toy-like statuette: おもちゃ風の小像
+  - branded box: ブランドボックス
+  - Blender modeling view: Blenderのモデリング画面
+  - circular stand: 円形スタンド
+  - indoor studio or desk environment: スタジオまたはデスク環境
+
+  ━━━━━━━━━━━━━━━━━━━
+
+  【カスタマイズのポイント】
+
+  ■ シーン変更
+  - Japanese news program → variety show（バラエティ番組）
+  - Japanese news program → morning talk show（朝の情報番組）
+  - Japanese news program → documentary（ドキュメンタリー）
+
+  ■ フィギュアスタイル変更
+  - toy-like statuette → nendoroid-style figure（ねんどろいど風）
+  - toy-like statuette → scale figure（スケールフィギュア）
+  - toy-like statuette → chibi figure（ちびフィギュア）
+
+  ■ 背景変更
+  - indoor studio → anime convention booth（アニメコンベンション）
+  - indoor studio → collector's shelf（コレクター棚）
+  - indoor studio → retail store display（店舗ディスプレイ）

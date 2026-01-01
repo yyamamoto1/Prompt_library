@@ -1,0 +1,179 @@
+prompt: |
+  生成AIを使って推しとツーショットチェキ写真を作る方法
+
+  Geminiを使用して、推しの写真と自分の写真を合成し、
+  まるでポラロイドカメラで撮影したようなツーショット写真を生成する方法。
+
+  ━━━━━━━━━━━━━━━━━━━
+
+  【必要なもの】
+
+  - Googleアカウント（無料）
+  - Gemini（Google提供の生成AI、無料利用可能）
+  - 推しの写真1枚
+  - 自分の写真1枚
+
+  ━━━━━━━━━━━━━━━━━━━
+
+  【STEP1：写真を用意する】
+
+  ■ 推しの写真
+  - 正面を向いている写真を選ぶ
+  - 少なくとも上半身が見える写真
+  - 横顔や顔だけの写真は避ける
+
+  ■ 自分の写真
+  - 正面を向いている写真を選ぶ
+  - 少なくとも上半身が見える写真
+  - 横顔や顔だけの写真は避ける
+
+  ⚠️ 注意点：
+  横顔や顔だけ映った写真を使うと、生成時にAIが勝手にパーツを
+  補足するため、思ったような結果が得られない可能性があります。
+
+  ━━━━━━━━━━━━━━━━━━━
+
+  【STEP2：Geminiで生成する】
+
+  1. Gemini（https://gemini.google.com/）にアクセス
+  2. Googleアカウントでログインまたは登録
+  3. チャット画面で2枚の写真をアップロード
+  4. 以下のプロンプトを入力
+  5. 送信ボタンを押して生成開始
+
+  ━━━━━━━━━━━━━━━━━━━
+
+  【基本プロンプト】
+
+  Take a photo taken with a Polaroid camera. The photo should have a slight blur and a consistent light source, like a flash from a dark room, scattered throughout the photo. Don't change the face. Change the background behind those two people with white curtains. With that boy hugging me.
+
+  ━━━━━━━━━━━━━━━━━━━
+
+  【プロンプト解説】
+
+  ■ カメラスタイル指定
+  "Take a photo taken with a Polaroid camera"
+  → ポラロイドカメラで撮影した写真風
+
+  ■ 質感・雰囲気
+  "The photo should have a slight blur"
+  → わずかなブラー効果
+
+  "a consistent light source, like a flash from a dark room"
+  → 暗い部屋でのフラッシュのような光源
+
+  "scattered throughout the photo"
+  → 写真全体に散らばる光
+
+  ■ 顔の保持
+  "Don't change the face"
+  → 顔を変更しない（重要）
+
+  ■ 背景変更
+  "Change the background behind those two people with white curtains"
+  → 背景を白いカーテンに変更
+
+  ■ ポーズ指定
+  "With that boy hugging me"
+  → 相手がハグしているポーズ
+
+  ━━━━━━━━━━━━━━━━━━━
+
+  【カスタマイズ例】
+
+  ■ ポーズを変える
+
+  基本（ハグ）:
+  With that boy hugging me.
+
+  肩を組む:
+  With that person putting their arm around my shoulder.
+
+  手をつなぐ:
+  With us holding hands.
+
+  ピースサイン:
+  With both of us making peace signs.
+
+  寄り添う:
+  With us standing close together, leaning towards each other.
+
+  ■ 背景を変える
+
+  白いカーテン:
+  with white curtains
+
+  カフェ風:
+  with a cozy cafe interior
+
+  桜の木:
+  with cherry blossom trees
+
+  コンサート会場風:
+  with concert stage lights in the background
+
+  プリクラ風背景:
+  with colorful and sparkly purikura-style decorations
+
+  ■ カメラスタイルを変える
+
+  ポラロイド（デフォルト）:
+  Take a photo taken with a Polaroid camera.
+
+  チェキ風:
+  Take a photo in Instax mini style with the characteristic Fujifilm colors.
+
+  プリクラ風:
+  Create a Japanese purikura booth style photo with soft skin effect and sparkles.
+
+  セルフィー風:
+  Take a casual selfie-style photo.
+
+  ━━━━━━━━━━━━━━━━━━━
+
+  【応用プロンプト例】
+
+  ■ チェキ風（明るい場所）
+
+  Take a photo in Instax mini style. Natural lighting from a window. Both people smiling at the camera. Don't change the faces. Background is a bright cafe with plants. Standing close together.
+
+  ■ ライブ後の記念撮影風
+
+  Take a Polaroid-style photo. Both people look happy and excited. Flash photography in a dim backstage area. Don't change the faces. Background shows concert equipment. Person on the left making a peace sign.
+
+  ■ プリクラ風（デコレーション付き）
+
+  Create a Japanese purikura booth style photo. Soft, smooth skin effect. Sparkly decorations and heart stamps around us. Pastel pink background. Both people making cute poses. Don't change the faces. Add subtle beauty filter effect.
+
+  ■ デート風ツーショット
+
+  Take a casual couple photo with a Polaroid camera. Warm, golden hour lighting. We are at a rooftop with city view in the background. Don't change the faces. Natural smiles, looking comfortable together.
+
+  ━━━━━━━━━━━━━━━━━━━
+
+  【うまくいかない時のコツ】
+
+  ■ 顔が変わってしまう場合
+  → "Don't change the face" を強調
+  → "Keep the original facial features exactly" を追加
+
+  ■ 体のバランスがおかしい場合
+  → 上半身がしっかり映った写真を使用
+  → 似たようなアングルの写真を選ぶ
+
+  ■ 二人の距離感がおかしい場合
+  → ポーズの指示を具体的にする
+  → "standing shoulder to shoulder" など距離感を明記
+
+  ■ 背景が意図と違う場合
+  → 背景の説明をより詳細にする
+  → 色や雰囲気も指定する
+
+  ━━━━━━━━━━━━━━━━━━━
+
+  【注意事項】
+
+  - 生成された画像の利用は個人利用に留める
+  - SNSへの投稿時は生成AI使用を明記することを推奨
+  - 他者の肖像権・著作権に配慮する
+  - 商用利用の場合は各サービスの利用規約を確認

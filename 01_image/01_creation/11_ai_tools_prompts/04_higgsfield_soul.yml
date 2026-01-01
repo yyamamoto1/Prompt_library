@@ -1,0 +1,108 @@
+prompt: |
+  Higgsfield Soul iPhoneモード プロンプト
+
+  Higgsfield SoulのiPhoneモードで自然な人物画像を生成するプロンプト。
+  AI感のない、スマートフォンで撮影したような自然な写真を生成。
+
+  ━━━━━━━━━━━━━━━━━━━
+
+  【基本プロンプト】
+
+  This is a medium shot of a smiling 21-year-old Japanese woman with a slim build, who is positioned indoors against a gradient green background. She has long, black hair styled with a slight wave at the ends. She is dressed in a black suit jacket over a white top, paired with hoop earrings. Her right hand is raised, with her index finger pointing upwards. Her facial expression is cheerful, and her gaze is directly towards the camera. The background is a smooth gradient that shifts from a lighter to a darker shade of green, which softly complements the overall composition. The scene is lit with even lighting, and the image is clean, with a professional quality. The depth of field is minimal, as would be seen in a smartphone photo, creating a soft separation between the subject and the background.
+
+  ━━━━━━━━━━━━━━━━━━━
+
+  【プロンプト構造解説】
+
+  ■ ショットタイプ
+  "medium shot" - ミディアムショット（上半身）
+
+  ■ 被写体基本情報
+  "21-year-old Japanese woman with a slim build"
+  - 年齢、国籍、体型
+
+  ■ 位置・背景
+  "positioned indoors against a gradient green background"
+  - 屋内、グラデーション背景
+
+  ■ 髪型
+  "long, black hair styled with a slight wave at the ends"
+  - 長い黒髪、毛先にウェーブ
+
+  ■ 服装
+  "black suit jacket over a white top, paired with hoop earrings"
+  - 服装とアクセサリー
+
+  ■ ポーズ
+  "right hand is raised, with her index finger pointing upwards"
+  - 手のポーズ
+
+  ■ 表情・視線
+  "facial expression is cheerful, gaze is directly towards the camera"
+  - 明るい表情、カメラ目線
+
+  ■ ライティング
+  "lit with even lighting, image is clean, professional quality"
+  - 均一な照明、クリーンでプロ品質
+
+  ■ 被写界深度（重要）
+  "depth of field is minimal, as would be seen in a smartphone photo"
+  - スマホ写真のような浅い被写界深度
+
+  ━━━━━━━━━━━━━━━━━━━
+
+  【カスタマイズ例】
+
+  ■ 年齢・性別変更
+
+  男性20代:
+  a smiling 25-year-old Japanese man with an athletic build
+
+  女性30代:
+  a confident 35-year-old Japanese woman with a medium build
+
+  男性40代:
+  a composed 45-year-old Japanese man with a mature appearance
+
+  ■ 背景変更
+
+  オフィス:
+  positioned in a modern office with glass windows and city view
+
+  カフェ:
+  positioned in a cozy cafe with warm wooden interior
+
+  屋外:
+  positioned outdoors with soft natural sunlight and blurred city background
+
+  ■ 服装変更
+
+  カジュアル:
+  dressed in a casual white t-shirt and denim jacket
+
+  フォーマル:
+  dressed in a formal navy blue dress with pearl accessories
+
+  ビジネスカジュアル:
+  dressed in a smart casual button-up shirt and blazer
+
+  ■ ポーズ変更
+
+  腕組み:
+  arms crossed in front of chest with a confident posture
+
+  ピース:
+  making a peace sign with right hand near face
+
+  自然な立ち姿:
+  standing naturally with hands relaxed at sides
+
+  ━━━━━━━━━━━━━━━━━━━
+
+  【自然な写真のコツ】
+
+  - "as would be seen in a smartphone photo" を必ず含める
+  - "minimal depth of field" でボケ感を出す
+  - "even lighting" で均一な照明
+  - "clean, professional quality" でクリアな画質
+  - 背景は "gradient" や "blurred" で被写体を引き立てる
