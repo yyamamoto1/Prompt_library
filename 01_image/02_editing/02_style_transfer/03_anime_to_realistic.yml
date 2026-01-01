@@ -1,0 +1,83 @@
+prompt: |
+  アニメキャラクター リアル化プロンプト
+
+  I want to recreate these pictures to 4K Hyper Realistic style. The scene, special effects, and character features (body, clothes, and hair color etc.) all need to be restored. Please give me AI Image prompt one by one.
+
+  **CUSTOMIZABLE PARAMETERS:**
+  - **Output Resolution:** [Select: "4K (3840×2160)", "8K (7680×4320)", "2K (2560×1440)"]
+  - **Realism Level:** [Select: "Hyper Realistic", "Semi-Realistic", "Photorealistic Portrait", "Cinematic Realistic"]
+  - **Skin Texture:** [Select: "Porcelain smooth", "Natural with subtle pores", "Highly detailed skin texture", "Soft diffused"]
+  - **Lighting Style:** [Select: "Anime-faithful dramatic", "Natural studio lighting", "Cinematic rim lighting", "Soft ambient"]
+
+  **RESTORATION REQUIREMENTS:**
+
+  1. **Character Features (Must Preserve):**
+     - Exact hair color, style, and length from original
+     - Eye color and distinctive eye shape
+     - Facial structure and proportions (adapted realistically)
+     - Body type and posture
+     - Skin tone (translated to realistic equivalent)
+     - Any distinctive marks (scars, tattoos, birthmarks)
+
+  2. **Clothing & Accessories (Must Preserve):**
+     - Exact outfit design, colors, and patterns
+     - Fabric textures translated to realistic materials
+     - All accessories (jewelry, weapons, props)
+     - Clothing fit and draping style
+     - Any emblems, logos, or text on clothing
+
+  3. **Scene & Background (Must Preserve):**
+     - Location setting and environment type
+     - Time of day and lighting atmosphere
+     - Weather conditions if applicable
+     - Background elements and props
+     - Spatial composition and depth
+
+  4. **Special Effects (Must Preserve):**
+     - Magic effects, auras, or energy
+     - Particle effects (sparkles, flames, water)
+     - Motion blur or speed lines (translated realistically)
+     - Atmospheric effects (fog, rain, snow)
+     - Any supernatural or fantastical elements
+
+  **CONVERSION GUIDELINES:**
+
+  - **Hair:** Convert anime hair physics to realistic hair strands while maintaining exact color and style
+  - **Eyes:** Transform large anime eyes to proportionally realistic eyes, keeping iris color and expression
+  - **Skin:** Add realistic skin texture, pores, and subtle imperfections while matching original tone
+  - **Clothing:** Convert flat anime colors to realistic fabric textures (silk sheen, cotton weave, leather grain)
+  - **Lighting:** Preserve dramatic anime lighting while adding realistic light falloff and shadows
+  - **Effects:** Translate 2D effects to 3D-looking volumetric effects
+
+  **OUTPUT FORMAT:**
+
+  For each image, provide a detailed prompt including:
+  ```
+  [Character Description]
+  - Physical features (realistic adaptation)
+  - Exact clothing description with fabric types
+  - Pose and expression
+
+  [Scene Description]
+  - Environment and setting
+  - Lighting conditions
+  - Atmospheric elements
+
+  [Special Effects]
+  - Any magical/supernatural elements
+  - Particle effects
+  - Motion effects
+
+  [Technical Specifications]
+  - 4K resolution, hyper-realistic rendering
+  - Photographic quality, sharp focus
+  - Professional color grading
+  - Cinematic depth of field
+  ```
+
+  **TECHNICAL SPECS:**
+  - **Resolution:** 4K (3840×2160) minimum
+  - **Quality:** Ultra-detailed, photorealistic rendering
+  - **Style:** Hyper-realistic with cinematic quality
+  - **Focus:** Sharp subject focus with appropriate depth of field
+  - **Color:** Faithful to original anime color palette, enhanced for realism
