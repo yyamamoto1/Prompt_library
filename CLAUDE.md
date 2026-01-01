@@ -82,6 +82,22 @@ Each archetype should include specific guidance for:
 
 ## Development Workflow
 
+### Index Folder Rule
+
+The `index/` folder serves as a temporary inbox for new prompts. When files are found in `index/`:
+
+1. **Review the content** to understand the prompt's purpose
+2. **Determine the appropriate category** based on the content:
+   - Image generation/editing → `01_image/`
+   - Video/movie related → `02_movie/`
+   - Code/development → `06_utility/01_code/`
+   - AI agent/RAG → `07_RAG_agent/`
+   - Text manipulation → `06_utility/02_general_task/`
+   - etc.
+3. **Convert to YAML format** if the file is in Markdown (for categories 01-10)
+4. **Move to the appropriate subfolder** with a descriptive filename
+5. **Delete the original file** from `index/`
+
 ### Adding New Prompts
 
 1. **For Creative Categories (01-10)**: Add `.yml` files in appropriate subcategory

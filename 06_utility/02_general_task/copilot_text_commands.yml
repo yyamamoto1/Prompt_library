@@ -1,0 +1,141 @@
+prompt: |
+  Copilot カスタムテキストコマンド集
+
+  GitHub Copilot等のAIアシスタント向けテキスト操作コマンド。
+  テキストの変換、要約、翻訳などの汎用的な操作を行うためのプロンプト。
+
+  ━━━━━━━━━━━━━━━━━━━
+
+  【1. 絵文字追加 (Emojify)】
+
+  Add relevant emojis to enhance {text}. Follow these rules:
+  1. Insert emojis at natural breaks in the text
+  2. Never place two emojis next to each other
+  3. Keep all original text unchanged
+  4. Choose emojis that match the context and tone
+  Return only the emojified text.
+
+  ━━━━━━━━━━━━━━━━━━━
+
+  【2. 5歳児向け説明 (Explain like I am 5)】
+
+  Explain {text} in simple terms that a 5-year-old would understand.
+  Use simple words, short sentences, and relatable examples.
+  Avoid jargon and technical terms.
+
+  ━━━━━━━━━━━━━━━━━━━
+
+  【3. 中国語翻訳 (Translate to Chinese)】
+
+  Translate {text} to Chinese.
+  Maintain the original meaning and tone.
+  Use simplified Chinese characters.
+
+  ━━━━━━━━━━━━━━━━━━━
+
+  【4. 文法・スペルチェック (Fix grammar and spelling)】
+
+  Fix all grammar and spelling errors in {text}.
+  Keep the original meaning and style.
+  Return only the corrected text.
+
+  ━━━━━━━━━━━━━━━━━━━
+
+  【5. 用語集生成 (Generate glossary)】
+
+  Generate a glossary of key terms from {text}.
+  Format as a list with term and definition.
+  Focus on technical or specialized terms.
+
+  ━━━━━━━━━━━━━━━━━━━
+
+  【6. 目次生成 (Generate table of contents)】
+
+  Generate a table of contents for {text}.
+  Use hierarchical structure with numbered sections.
+  Include all major headings and subheadings.
+
+  ━━━━━━━━━━━━━━━━━━━
+
+  【7. 文章を長くする (Make longer)】
+
+  Expand {text} with more details, examples, and explanations.
+  Maintain the original tone and style.
+  Add relevant information without changing the core message.
+
+  ━━━━━━━━━━━━━━━━━━━
+
+  【8. 文章を短くする (Make shorter)】
+
+  Condense {text} while keeping the essential information.
+  Remove redundancy and unnecessary details.
+  Maintain clarity and the core message.
+
+  ━━━━━━━━━━━━━━━━━━━
+
+  【9. URLを削除 (Remove URLs)】
+
+  Remove all URLs from {text}.
+  Keep the rest of the text intact.
+  Maintain readability and flow.
+
+  ━━━━━━━━━━━━━━━━━━━
+
+  【10. ツイートに書き換え (Rewrite as tweet)】
+
+  Rewrite {text} as a single tweet.
+  Keep it under 280 characters.
+  Make it engaging and shareable.
+  Include relevant hashtags if appropriate.
+
+  ━━━━━━━━━━━━━━━━━━━
+
+  【11. スレッドに書き換え (Rewrite as tweet thread)】
+
+  Rewrite {text} as a Twitter thread.
+  Break into multiple connected tweets.
+  Number each tweet (1/, 2/, etc.).
+  Make each tweet standalone but connected.
+
+  ━━━━━━━━━━━━━━━━━━━
+
+  【12. 簡略化 (Simplify)】
+
+  Simplify {text} for easier understanding.
+  Use simpler vocabulary and shorter sentences.
+  Remove complex structures while keeping meaning.
+
+  ━━━━━━━━━━━━━━━━━━━
+
+  【13. 要約 (Summarize)】
+
+  Summarize {text} in a concise manner.
+  Capture the main points and key takeaways.
+  Keep the summary to 2-3 sentences or bullet points.
+
+  ━━━━━━━━━━━━━━━━━━━
+
+  【使用方法】
+
+  1. {text} の部分を処理したいテキストに置き換えてください
+  2. コマンドをAIアシスタントに入力してください
+  3. 出力結果を確認し、必要に応じて調整してください
+
+  ━━━━━━━━━━━━━━━━━━━
+
+  【カスタマイズ例】
+
+  ■ 日本語翻訳コマンド
+  Translate {text} to Japanese.
+  Maintain the original meaning and tone.
+  Use natural, native Japanese expressions.
+
+  ■ ビジネス文書変換
+  Rewrite {text} in a professional business tone.
+  Use formal language and clear structure.
+  Maintain politeness and professionalism.
+
+  ■ カジュアル変換
+  Rewrite {text} in a casual, friendly tone.
+  Use conversational language.
+  Make it approachable and easy to read.
