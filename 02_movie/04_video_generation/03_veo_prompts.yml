@@ -1,0 +1,175 @@
+prompt: |
+  Veo対応 動画生成プロンプトテンプレート
+
+  Google Veo向けに最適化された動画プロンプト集。
+  日本語プロンプト対応、参考画像からの自動プロンプト起こしに活用可能。
+
+  **CUSTOMIZABLE PARAMETERS:**
+  - **Video Length:** [Select: "5 seconds", "10 seconds", "15 seconds", "30 seconds"]
+  - **Subject Type:** [Select: "Japanese woman", "Japanese man", "product shot", "lifestyle scene"]
+  - **Age Range:** [Select: "20s", "30s", "40s", "50s+"]
+  - **Shot Type:** [Select: "close-up", "medium shot", "full shot", "product focus"]
+  - **Setting:** [Select: "indoor home", "outdoor urban", "studio", "nature"]
+  - **Lighting:** [Select: "natural soft", "studio lighting", "backlit", "dramatic"]
+
+  ━━━━━━━━━━━━━━━━━━━
+
+  【Veoプロンプトの基本構造】
+
+  ```
+  A [shot type] of a [age]-year-old Japanese [gender] [location],
+  filmed in a [environment description].
+  [Subject action and position].
+  [Physical description: hair, clothing].
+  [Background description].
+  [Subject behavior and expression].
+  [Lighting description].
+  [Camera behavior].
+  [Optional: dialogue in specified language]
+  ```
+
+  ━━━━━━━━━━━━━━━━━━━
+
+  【参考画像からのプロンプト起こし指示】
+
+  以下のプロンプトで、参考画像から動画プロンプトを自動生成できます：
+
+  「この画像を分析し、Veo用の動画生成プロンプトを英語で作成してください。
+  以下の要素を含めてください：
+  - ショットタイプ（close-up, medium shot, full shot等）
+  - 被写体の年齢・性別・国籍
+  - 場所・環境の詳細
+  - 服装・髪型の詳細
+  - 背景の描写
+  - 表情・仕草
+  - ライティング条件
+  - カメラの動き（static推奨）」
+
+  ━━━━━━━━━━━━━━━━━━━
+
+  【サンプルプロンプト集】
+
+  ■ 基本トーキングヘッド
+
+  A medium shot of a 22-year-old Japanese woman indoors, filmed in a homely environment. She is sitting and facing the camera directly. She has long brown hair. She is wearing an elegant white tank top. The background is simple and blurred, with neutral-colored walls and some furniture visible. She maintains eye contact with the camera, occasionally smiling to create a friendly atmosphere. The lighting is soft and natural, highlighting her movements and expressions. The camera is static, with no cuts or zooms, keeping the focus entirely on the demonstration.
+  saying "You know, I'm not actually a real person—I was created by AI. I wonder if anyone can even tell? Aren't I pretty much human by now?" in Japanese.
+
+  ━━━━━━━━━━━━━━━━━━━
+
+  【美容・スキンケア広告向けプロンプト】
+
+  ■ 1. シワに悩む女性（Before表現）
+
+  A 50-year-old Japanese woman with noticeable nasolabial folds and wrinkles around her eyes, looking sadly at her reflection in the bathroom mirror, her hand touching the wrinkled areas. She is without makeup, showing her bare face. The background is her home. She is wearing a gray cardigan over a white T-shirt. The camera is positioned behind the woman, capturing her face through the mirror.
+
+  ━━━━━━━━━━━━━━━━━━━
+
+  ■ 2. 肌が潤う女性（使用中）
+
+  A beautiful Japanese woman in her 40s is applying serum at home. Her skin is firm and moisturized by the serum. She is looking at the camera and using both hands to blend the serum into her skin. She is wearing a white t-shirt.
+
+  ━━━━━━━━━━━━━━━━━━━
+
+  ■ 3. 美容液のボトル（商品ショット）
+
+  A serum and its packaging are arranged on a wooden table against a black backdrop. There are three bottles of serum and three boxes. The serum bottles have gold droppers and translucent white bottles, allowing the serum to be visible. Both the serum and boxes are labeled with "serum" in a brown cursive font, printed vertically. The lighting is backlighting.
+
+  ━━━━━━━━━━━━━━━━━━━
+
+  ■ 4. スポイトで美容液を垂らす（ディテールショット）
+
+  A close-up shot of a 35-year-old Japanese woman's hand in a bathroom, applying a drop of translucent serum, about the size of a small coin, from a dropper onto the back of her hand. The dropper has a transparent tube and a gold cap. Her skin is fair, without wrinkles or blemishes, and appears firm and hydrated. The background is slightly blurred. The focus is sharp on the hand and the serum drop, reflecting light. The wooden surface beneath the hand is visible, adding a natural texture to the composition.
+
+  ━━━━━━━━━━━━━━━━━━━
+
+  ■ 5. 有効成分のイメージ（CGイメージ）
+
+  A close-up view of a skincare concept, presented as a detailed rendering. The overall composition is focused on the structure of skin, augmented with spherical elements representing moisturizing or active ingredients. Two large, translucent golden spheres at the top, suspended in the air, contain smaller particles. Below, layered structures with a viscous golden fluid run along the top layers. At the bottom, smaller, semi-transparent spheres with an orange tint simulate cells. Abstract, clinical environment highlighting the product's effects. Shallow depth of field focuses attention on the structures and particles. Smooth bokeh softens the transition. Close-up, almost microscopic perspective. High-resolution quality for marketing or educational purposes. Scientific and reassuring mood, emphasizing hydration, protection, and scientific skincare. Two active ingredients are penetrating the skin.
+
+  ━━━━━━━━━━━━━━━━━━━
+
+  ■ 6. 顔に美容液を塗る女性（アプリケーション）
+
+  A beautiful Japanese woman in her 40s applies beauty serum to her face with a transparent dropper, then rubs it into her skin. Close-up of the right side of her face. She is wearing makeup and has shoulder-length hair. Gentle expression. Her skin is supple, without wrinkles or blemishes.
+
+  ━━━━━━━━━━━━━━━━━━━
+
+  ■ 7. 首元のハリ（パーツフォーカス）
+
+  A beautiful Japanese woman in her 30s, her neck moisturized by beauty serum. The natural light makes her neck look glossy. Only the neck is in focus, not the face. Her skin is firm, with no wrinkles around her neck. The background is gray, and she is wearing a white T-shirt and a gold necklace.
+
+  ━━━━━━━━━━━━━━━━━━━
+
+  ■ 8. 屋外で肌のツヤハリが良い女性（After表現）
+
+  A beautiful Japanese woman in her 40s experiencing the firmness and radiance of her skin with a beauty serum. She gently touches her cheeks, feeling the elasticity of her skin. Her skin is firm and youthful, making direct eye contact with the camera. She is wearing a light pink dress, without any accessories. The background features a cityscape with lush green trees, bathed in natural sunlight that illuminates and hydrates her skin. Her skin appears flawless, free from wrinkles and blemishes, showcasing excellent makeup adherence.
+
+  ━━━━━━━━━━━━━━━━━━━
+
+  ■ 9. 屋外の美容液ボトル（商品イメージ）
+
+  A 21-year-old Japanese woman's hand gently holds a skincare serum against a backdrop of a clear blue sky and vibrant green trees. The lid of the serum is securely closed. Her hand subtly sways the serum from side to side. Her nails are adorned with a delicate blend of light pink and shimmering glitter nail polish. The focus remains solely on the hand and the serum, excluding the person. The serum features a golden dropper and a translucent white bottle, revealing the serum within. The word "serum" is printed vertically in a cursive font with dark brown ink on the bottle. The lighting is natural, avoiding harsh backlighting.
+
+  ━━━━━━━━━━━━━━━━━━━
+
+  ■ 10. 肌に自信のある女性（満足表現）
+
+  A Japanese woman in her late 30s, facing the camera directly and looking at the lens. She is wearing makeup and has shoulder-length hair. She has a calm expression. Natural light is hitting her skin, which appears moisturized after applying serum. Her skin is firm, without wrinkles or blemishes. She is touching her face with her hand.
+
+  ━━━━━━━━━━━━━━━━━━━
+
+  【プロンプト作成のコツ】
+
+  ■ 被写体の記述
+  - 年齢は具体的に（"22-year-old", "in her 40s", "late 30s"）
+  - 国籍を明記（"Japanese woman/man"）
+  - 髪型・髪色を詳細に（"long brown hair", "shoulder-length hair"）
+  - 服装を具体的に（素材、色、スタイル）
+
+  ■ カメラ・構図
+  - ショットタイプ: close-up, medium shot, full shot, bust shot
+  - カメラの動き: static（固定）推奨、必要に応じてslow zoom/pan
+  - フォーカス: sharp focus, shallow depth of field, blurred background
+
+  ■ ライティング
+  - natural light（自然光）
+  - soft lighting（柔らかい光）
+  - backlit/backlighting（逆光）
+  - studio lighting（スタジオライト）
+
+  ■ 表情・仕草
+  - 視線: "looking at the camera", "maintaining eye contact", "looking at reflection"
+  - 表情: "calm expression", "gentle expression", "occasionally smiling"
+  - アクション: "touching her face", "applying serum", "blending into skin"
+
+  ■ 背景
+  - シンプル: "simple and blurred", "neutral-colored walls"
+  - 具体的: "home bathroom", "cityscape with trees", "wooden table"
+  - 色調: "black backdrop", "gray background"
+
+  ■ 肌の描写（美容系）
+  - ポジティブ: "firm", "moisturized", "supple", "hydrated", "flawless"
+  - ネガティブ: "wrinkles", "nasolabial folds", "blemishes"
+  - 質感: "glossy", "radiant", "youthful"
+
+  ━━━━━━━━━━━━━━━━━━━
+
+  【音声・セリフの追加】
+
+  セリフを追加する場合は、プロンプトの最後に：
+
+  ```
+  saying "[セリフ内容]" in Japanese.
+  ```
+
+  または英語の場合：
+
+  ```
+  saying "[セリフ内容]" in English.
+  ```
+
+  ━━━━━━━━━━━━━━━━━━━
+
+  【カスタムプロンプト生成テンプレート】
+
+  A [shot type: close-up/medium shot/full shot] of a [age]-year-old Japanese [woman/man] [location: indoors/outdoors], filmed in a [environment: homely/professional/natural] environment. [Subject position and action]. [He/She] has [hair description]. [He/She] is wearing [clothing description]. The background is [background description]. [Subject behavior and interaction with camera]. The lighting is [lighting type], [lighting effect]. The camera is [camera movement: static/slow zoom/pan], [camera focus description].
