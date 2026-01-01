@@ -1,0 +1,173 @@
+prompt: |
+  Midjourney 美容・スキンケア広告向けプロンプト集
+
+  美容系クリエイティブ制作に役立つ、4つのカテゴリに分けたプロンプト集。
+  そのままコピペして使用可能。実務での利用を想定して作成。
+
+  ━━━━━━━━━━━━━━━━━━━
+
+  【Midjourneyとストックフォトの比較について】
+
+  ■ フリー素材との比較
+  - Midjourneyの方が汎用性が高い
+  - ダウンロード制限がない分、扱いやすい
+  - 必要なシーンに応じて柔軟に生成可能
+  - 実務での使い勝手がかなり高い
+
+  ■ 有料素材との比較
+  - 有料画像はクオリティが高く、シーンによっては安心感がある
+  - 一方で構図や表情の自由度、細かいニュアンスの調整では
+    Midjourneyの柔軟さが際立つ
+
+  ■ 他の生成AI（Adobe Firefly）との比較
+  - 同じプロンプトで比較した場合、どちらも指の破綻なし
+  - 生成スピードはAdobe Fireflyがわずかに速い
+  - Adobe製品を日常的に使う方：Adobe Fireflyがスムーズ
+  - 画像生成に特化したい方：Midjourneyが向いている
+
+  ━━━━━━━━━━━━━━━━━━━
+
+  【1. 美白・透明感訴求系】
+
+  ターゲット：美白ケア、トーンアップ、透明感を訴求する製品
+
+  ■ プロンプト
+
+  A young Japanese woman in her 20s, Bright and smooth translucent skin with a porcelain-like glow, clean and luminous complexion with even tone, soft reflective light on the skin surface, pure white background, striking impression of whitening skincare, Japanese beauty ad style
+
+  ■ キーワード解説
+  - translucent skin: 透明感のある肌
+  - porcelain-like glow: 陶器のような輝き
+  - luminous complexion: 発光するような肌色
+  - even tone: 均一なトーン
+  - whitening skincare: 美白スキンケア
+
+  ━━━━━━━━━━━━━━━━━━━
+
+  【2. エイジングケア・ハリ感訴求系】
+
+  ターゲット：エイジングケア、ハリ・弾力、若々しさを訴求する製品
+
+  ■ プロンプト1（ハリ・弾力重視）
+
+  Japanese woman with firm and smooth skin, youthful and radiant texture, even and refined skin tone, sense of elasticity and vitality, clean and elegant impression, visual image of anti-aging skincare, pure white background
+
+  ■ プロンプト2（年齢に応じた美しさ）
+
+  Japanese woman with youthful skin showing firmness and elasticity, smooth and even texture, naturally radiant surface, calm and clean impression, visual representation of age-appropriate beauty, beauty ad style, pure white background
+
+  ■ キーワード解説
+  - firm and smooth skin: ハリのある滑らかな肌
+  - elasticity and vitality: 弾力と活力
+  - anti-aging skincare: エイジングケア
+  - age-appropriate beauty: 年齢に応じた美しさ
+
+  ━━━━━━━━━━━━━━━━━━━
+
+  【3. 敏感肌・優しさ・共感訴求系】
+
+  ターゲット：敏感肌向け、低刺激、優しさを訴求する製品
+
+  ■ プロンプト1（優しさ・安心感）
+
+  Japanese woman with soft, naturally lit smooth and even skin, translucent and clean texture, gentle and non-irritating impression, conveying a sense of comfort and calm, inspired by skincare ads for sensitive skin, pure white background
+
+  ■ プロンプト2（繊細な悩み・共感）
+
+  Japanese woman with clear and bright skin tone, overall clean appearance but with a subtle sense of concern about her skin, a slightly troubled and delicate mood, soft natural lighting highlighting sensitive texture, conveying empathy and vulnerability in a clean beauty advertisement style, pure white background
+
+  ■ プロンプト3（毛穴悩み・リアルな共感）
+
+  Japanese woman clearly troubled by the appearance of pores on her nose, strong sense of concern expressed in her mood, overall clean skin but visibly worried impression, soft natural lighting that gently reveals skin texture, realistic and empathetic tone suitable for skincare advertising, pure white background
+
+  ■ キーワード解説
+  - gentle and non-irritating: 優しく刺激のない
+  - comfort and calm: 快適さと落ち着き
+  - sensitive skin: 敏感肌
+  - empathy and vulnerability: 共感と繊細さ
+  - troubled by pores: 毛穴に悩む
+
+  ━━━━━━━━━━━━━━━━━━━
+
+  【4. 高級感・ラグジュアリー訴求系】
+
+  ターゲット：高級スキンケア、プレミアムライン、ラグジュアリー製品
+
+  ■ プロンプト1（上品・落ち着き）
+
+  Japanese woman with smooth and radiant skin, soft and refined lighting creating a calm and elegant atmosphere, luminous texture that suggests luxury and high-quality skincare, composed and confident impression, minimal and clean beauty advertisement style, pure white background
+
+  ■ プロンプト2（黒髪・日本人モデル）
+
+  Japanese woman with smooth and radiant skin and sleek black hair, soft and refined lighting creating a calm and elegant atmosphere, luminous texture that suggests luxury and high-quality skincare, composed and confident impression, minimal and clean beauty advertisement style, pure white background
+
+  ■ プロンプト3（国際的・多様性）
+
+  woman with smooth and radiant skin and sleek black hair, soft and refined lighting creating a calm and elegant atmosphere, luminous texture that suggests luxury and high-quality skincare, composed and confident impression, minimal and clean beauty advertisement style, pure white background
+
+  ■ キーワード解説
+  - refined lighting: 洗練されたライティング
+  - calm and elegant atmosphere: 落ち着いたエレガントな雰囲気
+  - luxury and high-quality: 高級感と高品質
+  - composed and confident: 落ち着いた自信のある
+  - minimal and clean: ミニマルでクリーン
+
+  ━━━━━━━━━━━━━━━━━━━
+
+  【プロンプト構成の基本パターン】
+
+  ```
+  [被写体の基本情報] + [肌の質感・状態] + [ライティング] + [雰囲気・印象] + [広告スタイル] + [背景]
+  ```
+
+  例：
+  Japanese woman (被写体)
+  + with smooth and radiant skin (肌の質感)
+  + soft and refined lighting (ライティング)
+  + calm and elegant atmosphere (雰囲気)
+  + beauty advertisement style (広告スタイル)
+  + pure white background (背景)
+
+  ━━━━━━━━━━━━━━━━━━━
+
+  【カスタマイズのポイント】
+
+  ■ 年齢層の調整
+  - in her 20s: 20代
+  - in her 30s: 30代
+  - in her 40s: 40代
+  - mature: 成熟した
+
+  ■ 肌の状態を変える
+  - translucent: 透明感
+  - firm: ハリのある
+  - soft: 柔らかい
+  - glowing: 輝く
+  - dewy: みずみずしい
+
+  ■ 感情・表情を変える
+  - confident: 自信のある
+  - calm: 落ち着いた
+  - troubled: 悩んでいる
+  - gentle smile: 優しい微笑み
+  - serene: 穏やかな
+
+  ■ 背景を変える
+  - pure white background: 純白背景
+  - soft gradient background: ソフトなグラデーション
+  - minimalist studio: ミニマリストスタジオ
+  - natural daylight setting: 自然光の設定
+
+  ━━━━━━━━━━━━━━━━━━━
+
+  【Midjourneyパラメータ推奨設定】
+
+  --ar 4:5    # 縦長（Instagram、広告向け）
+  --ar 1:1    # 正方形（SNS投稿向け）
+  --ar 16:9   # 横長（バナー向け）
+  --stylize 100-250  # スタイライズ度（低めで自然に）
+  --quality 2  # 高品質
+  --v 6       # 最新バージョン
+
+  使用例：
+  [プロンプト] --ar 4:5 --stylize 150 --v 6
